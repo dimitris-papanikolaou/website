@@ -5,7 +5,7 @@ Dimitris Papanikolaou
 ### Associate Professor of Finance, 
 
 Kellogg School of Management, Northwestern University  
-2001 Sheridan Road, Jacobs 433, Evanston IL, 60208  
+2211 Campus Dr, Office 4319, Evanston IL, 60208  
 [email](mailto:d-papanikolaou@kellogg.northwestern.edu)  
 [CV](https://www.dropbox.com/s/ctjm169639ker23/cv_current.pdf?raw=1) 
 
