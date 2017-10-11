@@ -18,7 +18,7 @@ Kellogg School of Management, Northwestern University
 
 We develop a general equilibrium model of asset prices in which the benefits of technological innovation are distributed asymmetrically. Financial market participants do not capture all the economic rents resulting from innovative activity, even when they own shares in innovating firms. Economic gains from innovation accrue partly to the innovators, who cannot sell claims on the rents their future ideas will generate. The model implies that improvements in technology can lower households' indirect utility. The resulting hedging motives can give rise to a value premium. Major revision of previous version, titled ``Technological Innovation: Winners and Losers''  
 
-[[Paper](https://www.dropbox.com/s/yck3fllhv2kbaom/KPS_GE.pdf?raw=1)  (ver. 03/2017)] [[Web Appendix](https://www.dropbox.com/s/30uskkgt4x5jit0/WebAppendix_KPS_2015.pdf?raw=1)]
+[[Paper](https://www.dropbox.com/s/yck3fllhv2kbaom/KPS_GE.pdf?raw=1)  (ver. 03/2017)] [[Web Appendix](https://www.dropbox.com/s/30uskkgt4x5jit0/WebAppendix_KPS_2015.pdf?raw=1)][[Non-technical Summary]](https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks)
 
 ### 2. Financial Frictions and Employment during the Great Depression (with [Efraim Benmelech](https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx) and [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx))
 ##### Journal of Financial Economics, revision requested
