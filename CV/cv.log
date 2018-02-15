@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.3)  18 SEP 2017 13:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.3)  7 DEC 2017 15:14
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -312,60 +312,50 @@ Overfull \hbox (2.93639pt too wide) in alignment at lines 167--181
  [] [] 
  []
 
-[3] [4]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 186--187
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 215--223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--220
-
- []
-
-
-Overfull \hbox (2.93639pt too wide) in paragraph at lines 212--220
+Overfull \hbox (2.93639pt too wide) in paragraph at lines 215--223
 []
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 223--237
+Underfull \hbox (badness 10000) in paragraph at lines 226--240
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
 [6
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 244.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 247.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 247.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
  ) 
 Here is how much of TeX's memory you used:
- 6568 strings out of 493342
- 100922 string characters out of 3139298
- 230794 words of memory out of 3000000
+ 6566 strings out of 493342
+ 100910 string characters out of 3139298
+ 231794 words of memory out of 3000000
  10017 multiletter control sequences out of 15000+200000
- 8885 words of font info for 47 fonts, out of 3000000 for 9000
+ 8834 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,8n,38p,471b,503s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,8n,38p,552b,503s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (6 pages, 101267 bytes).
+Output written on cv.pdf (6 pages, 101558 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)

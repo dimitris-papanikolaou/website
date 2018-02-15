@@ -14,7 +14,7 @@ Kellogg School of Management, Northwestern University
 ## Working Papers
 
 ### 1.	Winners and Losers: Creative Destruction and the Stock Market (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and [Noah Stoffman](http://kelley.iu.edu/nstoffma/))
-##### Journal of Political Economy, conditionally accepted
+##### Journal of Political Economy, revision requested
 
 We develop a general equilibrium model of asset prices in which the benefits of technological innovation are distributed asymmetrically. Financial market participants do not capture all the economic rents resulting from innovative activity, even when they own shares in innovating firms. Economic gains from innovation accrue partly to the innovators, who cannot sell claims on the rents their future ideas will generate. The model implies that improvements in technology can lower households' indirect utility. The resulting hedging motives can give rise to a value premium. Major revision of previous version, titled ``Technological Innovation: Winners and Losers''  
 
