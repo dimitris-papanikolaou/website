@@ -28,18 +28,20 @@ We document the response of firm-level employment to an exogenous shock to firm 
 [[Paper](https://www.dropbox.com/s/y9jxoaq00uutoto/GD_bfp.pdf?raw=1)  (ver. 01/2017)] [[Web Appendix](https://www.dropbox.com/s/gtnboyrofznx3s3/GD_OA.pdf?raw=1)]
 
 ### 3.	Cooperation Cycles (with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/))
+##### Management Science, revision requested
+
 We embed frictions in the sale of ideas in a relatively standard real business cycle model. News about future technologies improve the pool of supplied ideas and the marginal efficiency of investment. Our model generates positive comovement of investment, consumption and labor supply in response to news about future technologies.  
 
 [[Paper](https://www.dropbox.com/s/zhszlac6a01slac/KPcycles.pdf?raw=1)  (ver. 01/2015)]
 
-### 4. Developing Novel Drugs (with [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167) and [Joshua Krieger](http://jkrieger.scripts.mit.edu/))  <span style="color:red">**NEW**</span>
+### 4. Developing Novel Drugs (with [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167) and [Joshua Krieger](http://jkrieger.scripts.mit.edu/))  
 ###### Winner of the 2017 Red Rock Conference Best Paper Award
 We construct a new measure of drug novelty. Novel drugs are riskier projects, since they pass FDA approval with lower probability, but are more profitable than other drugs conditional on FDA approval. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs.
 
 [[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)  (ver. 09/2017)][[Web Appendix](https://www.dropbox.com/s/wmynsbf1fk3037v/DevelopingNovelDrugs_APP.pdf?raw=1)]
 
 
-### 5. Measuring Technological Innovation over the Long Run (with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and [Mark Taddy](https://www.chicagobooth.edu/faculty/directory/t/matt-taddy)) <span style="color:red">**NEW**</span>
+### 5. Measuring Technological Innovation over the Long Run (with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and [Mark Taddy](https://www.chicagobooth.edu/faculty/directory/t/matt-taddy)) 
 We use textual analysis to create new indicators of patent quality, which are available for the entire universe of patents issued by the USPTO over the 1840 to 2010 period. Our measure of patent quality is predictive of future citations and correlates strongly with measures of market value.
 
 [[Paper](https://www.dropbox.com/s/3m7854osgwezild/MeasuringInnovationLR.pdf?raw=1)  (ver. 07/2017)]
