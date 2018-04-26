@@ -25,7 +25,7 @@ We develop a general equilibrium model of asset prices in which the benefits of 
 
 We document the response of firm-level employment to an exogenous shock to firm financing needs during the Great Depression.
 
-[[Paper](https://www.dropbox.com/s/y9jxoaq00uutoto/GD_bfp.pdf?raw=1)  (ver. 01/2017)] [[Web Appendix](https://www.dropbox.com/s/gtnboyrofznx3s3/GD_OA.pdf?raw=1)]
+[[Paper](https://www.dropbox.com/s/y9jxoaq00uutoto/GD_bfp.pdf?raw=1)  (ver. 01/2018)] [[Web Appendix](https://www.dropbox.com/s/gtnboyrofznx3s3/GD_OA.pdf?raw=1)]
 
 ### 3.	Cooperation Cycles (with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/))
 ##### Management Science, revision requested
@@ -38,7 +38,7 @@ We embed frictions in the sale of ideas in a relatively standard real business c
 ###### Winner of the 2017 Red Rock Conference Best Paper Award
 We construct a new measure of drug novelty. Novel drugs are riskier projects, since they pass FDA approval with lower probability, but are more profitable than other drugs conditional on FDA approval. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs.
 
-[[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)  (ver. 09/2017)][[Web Appendix](https://www.dropbox.com/s/wmynsbf1fk3037v/DevelopingNovelDrugs_APP.pdf?raw=1)]
+[[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)  (ver. 04/2018)]
 
 
 ### 5. Measuring Technological Innovation over the Long Run (with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and [Mark Taddy](https://www.chicagobooth.edu/faculty/directory/t/matt-taddy)) 
@@ -46,8 +46,12 @@ We use textual analysis to create new indicators of patent quality, which are av
 
 [[Paper](https://www.dropbox.com/s/3m7854osgwezild/MeasuringInnovationLR.pdf?raw=1)  (ver. 07/2017)]
 
+### 6. Technological Innovation and the Distribution of Labor Income Growth Rates  (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jay Song)
+Using administrative data, we examine how the distribution of labor income growth rates changes following innovation shocks.
 
-## Publications
+[Paper available soon]
+
+## Main Publications
 
 ### 1. Investment Shocks and Asset Prices
 ##### Journal of Political Economy, August 2011, 119(4)
@@ -160,7 +164,10 @@ Imputing intangible capital from market values misses the value of capital that 
 
 [[Paper](https://www.dropbox.com/s/ieq5rciggs9q4w1/OrganizationCapital_PP.pdf?raw=1)]
 
+### 4. Equilibrium Analysis of Asset Prices: Lessons from CIR and APT (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/))
+##### Journal of Portfolio Management, Special Issue
 
+Article is for a special issue of JPM in honor of Stephen Ross, who was one of my Ph.D. advisors. The article summarizes the intellectual contribution of the Cox-Ingersoll-Ross model, and the Arbitrage Pricing Theory (APT) on my own work, rather than a balanced and comprehensive literature review.
 
 ## Work in Progress
 
@@ -168,5 +175,3 @@ Imputing intangible capital from market values misses the value of capital that 
 ### 1. Life-cycle Portfolio Choice with Displacement Risk (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and  Maarten Meeuwis)
 We build and estimate a life-cycle portfolio choice model with displacement risk. The main prediction of the model is that young agents should invest in growth stocks, while older agents should buy value. This prediction is consistent with the stylized features of the data as well as popular investment advice.
 
-### 2. Technological Innovation and the Distribution of Labor Income Growth Rates  (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jay Song)
-Using administrative data, we examine how the distribution of labor income growth rates changes following innovation shocks.
