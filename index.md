@@ -2,7 +2,7 @@ Dimitris Papanikolaou
 =====================
 ![](https://www.dropbox.com/s/gqflrrper25iojc/image003.jpg?raw=1)
 
-### Professor of Finance
+###  Professor of Finance
 
 Kellogg School of Management, Northwestern University  
 2211 Campus Dr, Office 4319, Evanston IL, 60208  
