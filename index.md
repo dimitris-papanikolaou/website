@@ -2,7 +2,7 @@ Dimitris Papanikolaou
 =====================
 ![](https://www.dropbox.com/s/gqflrrper25iojc/image003.jpg?raw=1)
 
-###  Professor of Finance
+### Professor of Finance
 
 Kellogg School of Management, Northwestern University  
 2211 Campus Dr, Office 4319, Evanston IL, 60208  
@@ -13,40 +13,26 @@ Kellogg School of Management, Northwestern University
 
 ## Working Papers
 
-### 1.	Winners and Losers: Creative Destruction and the Stock Market (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and [Noah Stoffman](http://kelley.iu.edu/nstoffma/))
-##### Journal of Political Economy, conditionally accepted
-
-We develop a general equilibrium model of asset prices in which the benefits of technological innovation are distributed asymmetrically. Financial market participants do not capture all the economic rents resulting from innovative activity, even when they own shares in innovating firms. Economic gains from innovation accrue partly to the innovators, who cannot sell claims on the rents their future ideas will generate. The model implies that improvements in technology can lower households' indirect utility. The resulting hedging motives can give rise to a value premium. Major revision of previous version, titled ``Technological Innovation: Winners and Losers''  
-
-[[Paper](https://www.dropbox.com/s/yck3fllhv2kbaom/KPS_GE.pdf?raw=1)  (ver. 03/2017)] [[Web Appendix](https://www.dropbox.com/s/30uskkgt4x5jit0/WebAppendix_KPS_2015.pdf?raw=1)][[Non-technical Summary]](https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks)
-
-### 2. Financial Frictions and Employment during the Great Depression (with [Efraim Benmelech](https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx) and [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx))
-##### Journal of Financial Economics, revision requested
-
-We document the response of firm-level employment to an exogenous shock to firm financing needs during the Great Depression.
-
-[[Paper](https://www.dropbox.com/s/y9jxoaq00uutoto/GD_bfp.pdf?raw=1)  (ver. 01/2018)] [[Web Appendix](https://www.dropbox.com/s/gtnboyrofznx3s3/GD_OA.pdf?raw=1)]
-
-### 3.	Cooperation Cycles (with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/))
+### 1.	Cooperation Cycles (with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/))
 ##### Management Science, revision requested
 
 We embed frictions in the sale of ideas in a relatively standard real business cycle model. News about future technologies improve the pool of supplied ideas and the marginal efficiency of investment. Our model generates positive comovement of investment, consumption and labor supply in response to news about future technologies.  
 
 [[Paper](https://www.dropbox.com/s/zhszlac6a01slac/KPcycles.pdf?raw=1)  (ver. 01/2015)]
 
-### 4. Developing Novel Drugs (with [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167) and [Joshua Krieger](http://jkrieger.scripts.mit.edu/))  
+### 2. Developing Novel Drugs (with [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167) and [Joshua Krieger](http://jkrieger.scripts.mit.edu/))  
 ###### Winner of the 2017 Red Rock Conference Best Paper Award
 We construct a new measure of drug novelty. Novel drugs are riskier projects, since they pass FDA approval with lower probability, but are more profitable than other drugs conditional on FDA approval. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs.
 
 [[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)  (ver. 04/2018)]
 
 
-### 5. Measuring Technological Innovation over the Long Run (with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and [Mark Taddy](https://www.chicagobooth.edu/faculty/directory/t/matt-taddy)) 
+### 3. Measuring Technological Innovation over the Long Run (with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and [Mark Taddy](https://www.chicagobooth.edu/faculty/directory/t/matt-taddy)) 
 We use textual analysis to create new indicators of patent quality, which are available for the entire universe of patents issued by the USPTO over the 1840 to 2010 period. Our measure of patent quality is predictive of future citations and correlates strongly with measures of market value.
 
 [[Paper](https://www.dropbox.com/s/3m7854osgwezild/MeasuringInnovationLR.pdf?raw=1)  (ver. 07/2017)]
 
-### 6. Technological Innovation and the Distribution of Labor Income Growth Rates  (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jay Song)
+### 4. Technological Innovation and the Distribution of Labor Income Growth Rates  (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jay Song)
 Using administrative data, we examine how the distribution of labor income growth rates changes following innovation shocks.
 
 [Paper available soon]
@@ -141,6 +127,21 @@ We construct a measure of innovation combining data on patents and stock returns
 We build and estimate general equilibrium model of executive pay and firm growth. Executives add value to the firm not only by participating in production decisions, but also by identifying new investment opportunities.   
 
 [[Paper](https://www.dropbox.com/s/7yp3a08l6bvjsa9/FP_executives.pdf?raw=1) (ver. 10/2016)] [[Web Appendix](https://www.dropbox.com/s/42oiy7hu6r0rm3q/WebAppendix_FP.pdf?rawg=1)] [[Non-technical Summary]](https://insight.kellogg.northwestern.edu/article/technological-innovation-and-the-executive-pay-gap)
+
+### 12. Financial Frictions and Employment during the Great Depression (with [Efraim Benmelech](https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx) and [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx))
+##### Journal of Financial Economics, forthcoming
+
+We document the response of firm-level employment to an exogenous shock to firm financing needs during the Great Depression.
+
+[[Paper](https://www.dropbox.com/s/y9jxoaq00uutoto/GD_bfp.pdf?raw=1)  (ver. 01/2018)] [[Web Appendix](https://www.dropbox.com/s/gtnboyrofznx3s3/GD_OA.pdf?raw=1)]
+
+### 13.	Winners and Losers: Creative Destruction and the Stock Market (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and [Noah Stoffman](http://kelley.iu.edu/nstoffma/))
+##### Journal of Political Economy, conditionally accepted
+
+We develop a general equilibrium model of asset prices in which the benefits of technological innovation are distributed asymmetrically. Financial market participants do not capture all the economic rents resulting from innovative activity, even when they own shares in innovating firms. Economic gains from innovation accrue partly to the innovators, who cannot sell claims on the rents their future ideas will generate. The model implies that improvements in technology can lower households' indirect utility. The resulting hedging motives can give rise to a value premium. Major revision of previous version, titled ``Technological Innovation: Winners and Losers''  
+
+[[Paper](https://www.dropbox.com/s/yck3fllhv2kbaom/KPS_GE.pdf?raw=1)  (ver. 03/2017)] [[Web Appendix](https://www.dropbox.com/s/30uskkgt4x5jit0/WebAppendix_KPS_2015.pdf?raw=1)][[Non-technical Summary]](https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks)
+
 
 ## Other Publications
 
