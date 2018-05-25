@@ -133,7 +133,7 @@ We build and estimate general equilibrium model of executive pay and firm growth
 
 We document the response of firm-level employment to an exogenous shock to firm financing needs during the Great Depression.
 
-[[Paper](https://www.dropbox.com/s/y9jxoaq00uutoto/GD_bfp.pdf?raw=1)  (ver. 01/2018)] [[Web Appendix](https://www.dropbox.com/s/gtnboyrofznx3s3/GD_OA.pdf?raw=1)]
+[[Paper](https://www.dropbox.com/s/y9jxoaq00uutoto/GD_bfp.pdf?raw=1)  (ver. 05/2018)] [[Web Appendix](https://www.dropbox.com/s/gtnboyrofznx3s3/GD_OA.pdf?raw=1)]
 
 ### 13.	Winners and Losers: Creative Destruction and the Stock Market (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and [Noah Stoffman](http://kelley.iu.edu/nstoffma/))
 ##### Journal of Political Economy, conditionally accepted
@@ -169,6 +169,8 @@ Imputing intangible capital from market values misses the value of capital that 
 ##### Journal of Portfolio Management, Special Issue
 
 Article is for a special issue of JPM in honor of Stephen Ross, who was one of my Ph.D. advisors. The article summarizes the intellectual contribution of the Cox-Ingersoll-Ross model, and the Arbitrage Pricing Theory (APT) on my own work, rather than a balanced and comprehensive literature review.
+
+[[Paper](https://www.dropbox.com/s/se8s8kwwuan964j/JPM_final.pdf?raw=1)]
 
 ## Work in Progress
 
