@@ -21,7 +21,7 @@ We embed frictions in the sale of ideas in a relatively standard real business c
 [[Paper](https://www.dropbox.com/s/zhszlac6a01slac/KPcycles.pdf?raw=1)  (ver. 01/2015)]
 
 ### 2. Developing Novel Drugs (with [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167) and [Joshua Krieger](http://jkrieger.scripts.mit.edu/))  
-###### Winner of the 2017 Red Rock Conference Best Paper Award
+###### Winner of the 2017 Red Rock Conference and 2018 LBS Summer Finance Symposium Best Paper Awards
 We construct a new measure of drug novelty. Novel drugs are riskier projects, since they pass FDA approval with lower probability, but are more profitable than other drugs conditional on FDA approval. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs.
 
 [[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)  (ver. 04/2018)]
