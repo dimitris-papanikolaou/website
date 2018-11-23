@@ -11,9 +11,9 @@ Kellogg School of Management, Northwestern University
 
 ## Working Papers
 
-### 1. Developing Novel Drugs (with [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167) and [Joshua Krieger](http://jkrieger.scripts.mit.edu/))
+### 1. Missing Novelty in Drug Development (with [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167) and [Joshua Krieger](http://jkrieger.scripts.mit.edu/))
 ###### Winner of the 2017 Red Rock Conference and 2018 LBS Summer Finance Symposium Best Paper Awards
-We construct a new measure of drug novelty. Novel drugs are riskier projects, since they pass FDA approval with lower probability, but are more profitable than other drugs conditional on FDA approval. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs.
+We construct a new measure of drug novelty. Novel drugs are riskier projects, since they pass FDA approval with lower probability, but are more valuable than serivative drugs. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs. Previously titled "Developing Novel Drugs".
 
 [[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)  (ver. 11/2018)]
 
@@ -42,7 +42,7 @@ We embed frictions in the sale of ideas in a relatively standard real business c
 ### 1.	Left Behind: Creative Destruction, Inequality, and the Stock Market (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and [Noah Stoffman](http://kelley.iu.edu/nstoffma/))
 ##### Journal of Political Economy, forthcoming
 
-We develop a general equilibrium model of asset prices in which the benefits of technological innovation are distributed asymmetrically. Financial market participants do not capture all the economic rents resulting from innovative activity, even when they own shares in innovating firms. Economic gains from innovation accrue partly to the innovators, who cannot sell claims on the rents their future ideas will generate. The model implies that improvements in technology can lower households' indirect utility. The resulting hedging motives can give rise to a value premium. Previous title: ``Winners and Losers: Creative Destruction and the Stock Market''
+We develop a general equilibrium model of asset prices in which the benefits of technological innovation are distributed asymmetrically. Financial market participants do not capture all the economic rents resulting from innovative activity, even when they own shares in innovating firms. Economic gains from innovation accrue partly to the innovators, who cannot sell claims on the rents their future ideas will generate. The model implies that improvements in technology can lower households' indirect utility. The resulting hedging motives can give rise to a value premium. Previously titled: "Winners and Losers: Creative Destruction and the Stock Market"
 
 [[Paper](https://www.dropbox.com/s/yck3fllhv2kbaom/KPS_GE.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/82lg2psgyn7isc2/WebAppendix_KPS.pdf?raw=1)][[Non-technical Summary]](https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks)
 
