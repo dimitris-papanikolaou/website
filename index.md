@@ -13,7 +13,7 @@ Kellogg School of Management, Northwestern University
 
 ### 1. Missing Novelty in Drug Development (with [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167) and [Joshua Krieger](http://jkrieger.scripts.mit.edu/))
 ###### Winner of the 2017 Red Rock Conference and 2018 LBS Summer Finance Symposium Best Paper Awards
-We construct a new measure of drug novelty. Novel drugs are riskier projects, since they pass FDA approval with lower probability, but are more valuable than serivative drugs. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs. Previously titled "Developing Novel Drugs".
+We construct a new measure of drug novelty. Novel drugs are riskier projects (they pass FDA approval with lower probability) but are more valuable than serivative drugs. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs. Previously titled "Developing Novel Drugs".
 
 [[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)  (ver. 11/2018)]
 
