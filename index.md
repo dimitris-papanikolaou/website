@@ -15,7 +15,7 @@ Kellogg School of Management, Northwestern University
 ###### Winner of the 2017 Red Rock Conference and 2018 LBS Summer Finance Symposium Best Paper Awards
 We construct a new measure of drug novelty. Novel drugs are riskier projects (they pass FDA approval with lower probability) but are more valuable than serivative drugs. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs. Previously titled "Developing Novel Drugs".
 
-[[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)  (ver. 11/2018)]
+[[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)  (ver. 04/2019)]
 
 
 ### 2. Measuring Technological Innovation over the Long Run (with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and Matt Taddy)
@@ -29,12 +29,12 @@ Using administrative data, we examine how the distribution of labor income growt
 [Paper available soon]
 
 
-### 4.	Cooperation Cycles (with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/))
+### 4.	Trust, Collaboration, and Economic Growth (with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/) and [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167))
 ##### Management Science, revision requested
 
-We embed frictions in the sale of ideas in a relatively standard real business cycle model. News about future technologies improve the pool of supplied ideas and the marginal efficiency of investment. Our model generates positive comovement of investment, consumption and labor supply in response to news about future technologies.
+We propose a macroeconomic model in which variation in the level of trust leads to higher innovation, investment, and productivity growth. The key feature in the model is a hold-up friction in the creation of new capital. Innovators generate ideas but are inefficient at implementing them into productive capital on their own.  Firms can help innovators implement their ideas efficiently, but cannot ex ante commit to compensating them appropriately. This paper is a significantly revised version of a previous paper titled, ``Cooperation cycles: A theory of endogenous investment-specific shocks.''
 
-[[Paper](https://www.dropbox.com/s/zhszlac6a01slac/KPcycles.pdf?raw=1)  (ver. 01/2015)]
+[[Paper](https://www.dropbox.com/s/zhszlac6a01slac/KPcycles.pdf?raw=1)  (ver. 04/2019)]
 
 ## Main Publications
 
