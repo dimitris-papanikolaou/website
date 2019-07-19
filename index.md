@@ -29,17 +29,17 @@ Using administrative data, we examine how the distribution of labor income growt
 [Paper available soon]
 
 
-### 4.	Trust, Collaboration, and Economic Growth (with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/) and [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167))
-##### Management Science, revision requested
+
+## Main Publications
+
+### 1.	Trust, Collaboration, and Economic Growth (with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/) and [Danielle Li](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167))
+##### Management Science, accepted with minor revisions
 
 We propose a macroeconomic model in which variation in the level of trust leads to higher innovation, investment, and productivity growth. The key feature in the model is a hold-up friction in the creation of new capital. Innovators generate ideas but are inefficient at implementing them into productive capital on their own.  Firms can help innovators implement their ideas efficiently, but cannot ex ante commit to compensating them appropriately. This paper is a significantly revised version of a previous paper titled, ``Cooperation cycles: A theory of endogenous investment-specific shocks.''
 
 [[Paper](https://www.dropbox.com/s/zhszlac6a01slac/KPcycles.pdf?raw=1)  (ver. 04/2019)]
 
-## Main Publications
-
-
-### 1.	Left Behind: Creative Destruction, Inequality, and the Stock Market (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and [Noah Stoffman](http://kelley.iu.edu/nstoffma/))
+### 2.	Left Behind: Creative Destruction, Inequality, and the Stock Market (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and [Noah Stoffman](http://kelley.iu.edu/nstoffma/))
 ##### Journal of Political Economy, forthcoming
 
 We develop a general equilibrium model of asset prices in which the benefits of technological innovation are distributed asymmetrically. Financial market participants do not capture all the economic rents resulting from innovative activity, even when they own shares in innovating firms. Economic gains from innovation accrue partly to the innovators, who cannot sell claims on the rents their future ideas will generate. The model implies that improvements in technology can lower households' indirect utility. The resulting hedging motives can give rise to a value premium. Previously titled: "Winners and Losers: Creative Destruction and the Stock Market"
@@ -47,9 +47,7 @@ We develop a general equilibrium model of asset prices in which the benefits of 
 [[Paper](https://www.dropbox.com/s/yck3fllhv2kbaom/KPS_GE.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/82lg2psgyn7isc2/WebAppendix_KPS.pdf?raw=1)][[Non-technical Summary]](https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks)
 
 
-
-
-### 2. Financial Frictions and Employment during the Great Depression (with [Efraim Benmelech](https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx) and [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx))
+### 3. Financial Frictions and Employment during the Great Depression (with [Efraim Benmelech](https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx) and [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx))
 ##### Journal of Financial Economics, forthcoming
 
 We document the response of firm-level employment to an exogenous shock to firm financing needs during the Great Depression.
@@ -58,7 +56,7 @@ We document the response of firm-level employment to an exogenous shock to firm 
 
 
 
-### 3. In Search of Ideas: Technological Innovation and Executive Pay Inequality  (with [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx))
+### 4. In Search of Ideas: Technological Innovation and Executive Pay Inequality  (with [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx))
 
 ##### Journal of Financial Economics, 2018, 130(1), 1-24, lead article.
 
@@ -67,7 +65,7 @@ We build and estimate general equilibrium model of executive pay and firm growth
 [[Paper](https://www.dropbox.com/s/7yp3a08l6bvjsa9/FP_executives.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/42oiy7hu6r0rm3q/WebAppendix_FP.pdf?rawg=1)] [[Non-technical Summary]](https://insight.kellogg.northwestern.edu/article/technological-innovation-and-the-executive-pay-gap)
 
 
-### 4.	Technological Innovation, Resource Allocation and Growth (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Amit Seru](https://people.stanford.edu/aseru/), and [Noah Stoffman](http://kelley.iu.edu/nstoffma/))
+### 5.	Technological Innovation, Resource Allocation and Growth (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Amit Seru](https://people.stanford.edu/aseru/), and [Noah Stoffman](http://kelley.iu.edu/nstoffma/))
 ##### Quarterly Journal of Economics, 2017, 132(2), 665-712
 ###### Winner of Crowell Memorial Prize (second place),  Panagora Asset Management
 
@@ -77,14 +75,14 @@ We construct a measure of innovation combining data on patents and stock returns
 [[Web Appendix](https://www.dropbox.com/s/4pjkxv4y9g1d36e/KPSS_patents_APP.pdf?raw=1)]
 [[Data](https://iu.app.box.com/v/patents)]
 
-### 5.	Adverse Selection, Slow Moving Capital and Misallocation (with [Brett Green](http://faculty.haas.berkeley.edu/bgreen/) and [Willie Fuchs](https://sites.google.com/site/wfuchs/research))
+### 6.	Adverse Selection, Slow Moving Capital and Misallocation (with [Brett Green](http://faculty.haas.berkeley.edu/bgreen/) and [Willie Fuchs](https://sites.google.com/site/wfuchs/research))
 ##### Journal of Financial Economics, 2016 120(2)
 
 We incorporate an informational asymmetry in a macro model. Adverse selection  leads to slow moving capital, lagged investment and persistent misallocation of resources. The model generates a rich set of dynamics and provides a micro-foundation for convex adjustment costs.
 [[Paper](https://www.dropbox.com/s/ikdfg2y49cun68l/AdverseSelection.pdf?raw=1)]
 
 
-### 6. Long-run Bulls and Bears (with [Rui Albuquerque](http://ruialbuquerque.webs.com/), [Martin Eichenbaum](http://faculty.wcas.northwestern.edu/~yona/), and [Sergio Rebelo](http://www.kellogg.northwestern.edu/faculty/rebelo/htm/research.html))
+### 7. Long-run Bulls and Bears (with [Rui Albuquerque](http://ruialbuquerque.webs.com/), [Martin Eichenbaum](http://faculty.wcas.northwestern.edu/~yona/), and [Sergio Rebelo](http://www.kellogg.northwestern.edu/faculty/rebelo/htm/research.html))
 #####  Journal of Monetary Economics, 2015, 76(S)
 
 A central challenge in asset pricing is the weak connection between stock returns and observable economic fundamentals. We provide evidence that this connection
@@ -94,7 +92,7 @@ is stronger than previously thought.
 
 
 
-### 7. Financial Relationships and the Limits to Arbitrage (with [Jiro E. Kondo](https://sites.google.com/site/jiroekondo/))
+### 8. Financial Relationships and the Limits to Arbitrage (with [Jiro E. Kondo](https://sites.google.com/site/jiroekondo/))
 ##### Review of Finance, 2015,  19(6)
 Arbitrage ideas are difficult to finance because they can be stolen by the lender. In a repeated game, limited commitment by financiers leads to underinvestment in the best ideas. Our model generates endogenous limits to arbitrage.
 
@@ -103,7 +101,7 @@ Arbitrage ideas are difficult to finance because they can be stolen by the lende
 
 
 
-### 8.	Portfolio Choice with Illiquid Assets (with [Andrew Ang](http://www.columbia.edu/~aa610/) and [Mark Westerfield](http://www.markwesterfield.com/))
+### 9.	Portfolio Choice with Illiquid Assets (with [Andrew Ang](http://www.columbia.edu/~aa610/) and [Mark Westerfield](http://www.markwesterfield.com/))
 ##### Management Science, 2014, 60(11)
 ###### Winner of the 2011 Roger F Murray Prize (Second Prize), Q Group
 We model illiquidity risk as the random arrival of trading opportunities. Illiquidity risk has a substantially larger effect on utility and portfolio policies than illiquidity that is deterministic. We extend the model to incorporate infrequent illiquidity crisis and characterize the illiquidity risk premium. Illiquidity risk leads to limited arbitrage even in normal times.
@@ -111,7 +109,7 @@ We model illiquidity risk as the random arrival of trading opportunities. Illiqu
 [[Paper](https://www.dropbox.com/s/sg6ntkv7emfjp1w/APW-Liquidity.pdf?raw=1)]
 
 
-### 9.	Firm Characteristics and Stock Returns: The Role of Investment-Specific Shocks (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/))
+### 10.	Firm Characteristics and Stock Returns: The Role of Investment-Specific Shocks (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/))
 ##### Review of Financial Studies, 2013, 26(11)
 
 A number of existing cross-sectional anomalies - investment, Q, profitability, idiosyncratic volatility, and market beta share a common explanation. These characteristics are correlated with the share of growth opportunities to firm value and thus with firms' exposures to capital-embodied shocks.
@@ -119,7 +117,7 @@ A number of existing cross-sectional anomalies - investment, Q, profitability, i
 [[Paper  (corrects minor errors in published version)](https://www.dropbox.com/s/vvmh7sue3lflkl8/FirmCharacteristics.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/jv0cqs6vvl44btn/FirmCharacteristics_APP.pdf?raw=1)]
 
 
-### 10.	Growth Opportunities, Technology Shocks and Asset Prices (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/))
+### 11.	Growth Opportunities, Technology Shocks and Asset Prices (with [Leonid Kogan](http://web.mit.edu/lkogan2/www/))
 ##### Journal of Finance, April 2014, 69(2)
 ###### Winner of the 2014 Amundi Smith Breeden Prize (First Prize)
 Firms' beta with a portfolio of investment minus consumption good producers is correlated with the share of growth opportunities to firm value. Value and growth firms vary in their share of growth opportunities to firm value, and hence in their exposure to capital-embodied shocks. The model generates the value premium, the value factor, and the failure of the CAPM in the data.
@@ -127,7 +125,7 @@ Firms' beta with a portfolio of investment minus consumption good producers is c
 [[Paper  (corrects minor errors in published version)](https://www.dropbox.com/s/k6v9v12gvqvybfh/GrowthOpt.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/bvi6epq0ai4asmq/GrowthOpt_APP.pdf?raw=1)]
 
 
-### 11.	Organization Capital and the Cross-Section of Expected Returns (with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml))
+### 12.	Organization Capital and the Cross-Section of Expected Returns (with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml))
 ##### Journal of Finance, August 2013, 68(4)
 ###### Winner of the 2013 Amundi Smith Breeden Prize (First Prize)
 
@@ -136,7 +134,7 @@ Key talent and shareholders share the rents from organization capital. This shar
 [[Paper](https://www.dropbox.com/s/cgf6io9vmnddw50/OrganizationCapital.pdf?raw=1)]
 [[Web Appendix](https://www.dropbox.com/s/fzbc12udrxa2g2x/OrganizationCapital_APP.pdf?raw=1)]
 
-### 12. Investment, Idiosyncratic Risk, and Ownership  (with [Vasia Panousi](http://www.federalreserve.gov/econresdata/vasia-panousi.htm))
+### 13. Investment, Idiosyncratic Risk, and Ownership  (with [Vasia Panousi](http://www.federalreserve.gov/econresdata/vasia-panousi.htm))
 ##### Journal of Finance, June 2012, 67(3)
 Managers typically own undiversified stakes in firms for incentive reasons. Managers' exposure to idiosyncratic risk affects their optimal investment decisions.
 
@@ -144,7 +142,7 @@ Managers typically own undiversified stakes in firms for incentive reasons. Mana
 [[Web Appendix](https://www.dropbox.com/s/r7ho15ivnty2ikr/PanPapWEBAPP.pdf?raw=1)]
 
 
-### 13. Investment Shocks and Asset Prices
+### 14. Investment Shocks and Asset Prices
 ##### Journal of Political Economy, August 2011, 119(4)
 Capital embodied technology shocks lead to high marginal utility states, as investors substitute consumption for investment. Stock returns of firms producing investment and consumption goods help infer realizations of capital-embodied shocks in the data.
 
