@@ -1,1 +1,0 @@
-The path for the W: drive is \\ksmc01.kellogg.northwestern.edu\docs
