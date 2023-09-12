@@ -1,8 +1,12 @@
 
 <img src="https://www.dropbox.com/s/3cfe5lpn4ar4f7w/image003.jpg?raw=1" width="600" />
 
+<h2 style="padding-top:5px;padding-bottom:1px;">
 
-<h3 style="padding-top:5px;padding-bottom:5px;">
+Dimitris Papanikolaou
+
+<h3 style="padding-top:1px;padding-bottom:5px;">
+
 John L. and Helen Kellogg Professor of Finance
 
 Kellogg School of Management, 
