@@ -2,7 +2,9 @@
 title: "Extended Data"
 ---
 
+&nbsp;
 
 #### 1. [KPSS: Technological Innovation, Resource Allocation and Growth](https://academic.oup.com/qje/article-abstract/132/2/665/3076284)   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Amit Seru](https://people.stanford.edu/aseru/), and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)
 
 [[Extended Data to 2022](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
+[[Citation (Bibtex)](https://academic.oup.com/Citation/Download?resourceId=3076284&resourceType=3&citationFormat=2)]
