@@ -1,0 +1,32 @@
+name: "Dimitris Papanikolaou"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "Dimitris Papanikolaou"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Working Papers"
+      icon: fa-newspaper-o
+      href: wp.html
+    - text: "Publications"
+      icon: fa-graduation-cap 
+      href: pub.html
+    - text: "Data Library"
+      icon: fa-database  
+      href: data.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: https://www.dropbox.com/s/eb0ipj6z480g596/cv_current.pdf?raw=1
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:d-papanikolaou@kellogg.northwestern.edu                    # CHANGE HERE 
+    - text: "Google Scholar"
+      icon: fa-google
+      href: https://scholar.google.com/citations?user=WUoGJWoAAAAJ&hl=en       # CHANGE HERE 
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

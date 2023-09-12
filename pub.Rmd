@@ -1,0 +1,234 @@
+---
+title: "Publications"
+---
+&nbsp;
+
+
+### 1. Measuring Document Similarity With Weighted Averages of Word Embeddings  
+#### (*with [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
+
+#### *Explorations in Economic History, forthcoming*
+[[Paper](https://www.dropbox.com/s/t380ftbzsirck7x/kps_eeh.pdf?raw=1)] 
+
+&nbsp;
+
+### 2. The Economics of Intangible Capital 
+
+#### (*with [Nicolas Crouzet](https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html), [Janice Eberly](https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx), and [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)
+    
+#### *Journal of Economic Perspectives, 2022, 36(3)*
+
+[[Paper](https://www.aeaweb.org/articles?id=10.1257/jep.36.3.29)]
+
+&nbsp;
+
+### 3. Intangible Value
+####  (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml) and Edward Kim)*
+#### *Critical Finance Review, 2023, 11(2)*
+
+[[Paper](https://www.dropbox.com/s/nlw9pj10v7cjqpp/Intangible_Value.pdf?raw=1)]
+[[Data and Code](https://github.com/edwardtkim/intangiblevalue)]
+
+&nbsp;
+
+### 4. Working Remotely and the Supply-side Impact of Covid-19
+####  (*with [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home)*)
+#### *Review of Asset Pricing Studies, 2022, 12(1)*
+
+[[Paper](https://www.dropbox.com/s/v711g9jzdgz94wn/Covid19exposures.pdf?raw=1)]  [[Data](https://www.thecovidfactor.org/)]
+
+&nbsp;
+
+### 5. Missing Novelty in Drug Development
+####  (*with [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
+#### *Review of Financial Studies, 2022, 35(2)*
+
+##### *Winner of the 2017 Red Rock Conference and 2018 LBS Summer Finance Symposium Best Paper Awards*
+
+[[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)] [[Non-technical Summary](https://insight.kellogg.northwestern.edu/article/everyone-wants-pharmaceutical-breakthroughs-what-drives-drug-companies-to-pursue-them)]
+
+&nbsp;
+
+### 6. Private and Social Returns to R&D: Drug Development and Demographics
+#### (*with [Efraim Benmelech](https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx), [Janice C. Eberly](https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
+#### *American Economic Association, Papers and Proceedings, 2021*
+
+[[Paper](https://www.dropbox.com/s/sn71vwn3kxu1oq8/Aging_PP.pdf?raw=1)]
+
+&nbsp;
+
+### 7. Measuring Technological Innovation over the Long Run 
+#### (*with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and Matt Taddy)*
+#### *American Economic Review: Insights, 2021, 3(3)*
+
+[[Accepted Version](https://www.dropbox.com/s/jpqoj8g2pkv8jg1/MeasuringInnovationLR_AERI.pdf?raw=1)]  [[Working Paper Version (has more results)](https://www.dropbox.com/s/y60qsb7q9ramimq/MeasuringInnovationLR.pdf?raw=1)] [[Non-technical Summary](https://insight.kellogg.northwestern.edu/article/measuring-innovation-patents-productivity)] [[Media Coverage](https://www.washingtonpost.com/business/2018/11/27/is-third-wave-us-innovation-over-what-we-learned-measurement-americas-most-influential-inventions/)] 
+
+[[Patent-level metrics](https://www.dropbox.com/s/f1a02417sq5bm7w/KPST_Breakthrough_v201912.dta?raw=1)][[Time-Series data](https://www.dropbox.com/s/p0fvvtosoh2zpaw/time_series_measure.xlsx?raw=1)]
+[[Complete Replication Kit at ICPSR](https://www.openicpsr.org/openicpsr/project/119043/version/V1/view)]
+[[Replication Kit at Github, includes data on citations and technology class](https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Replication-Kit)
+[[Pairwise Citation Data](https://www.dropbox.com/s/1lh1fxkgrwlvn6b/full_citations_combined_v2019-0305.zip?raw=1)]
+
+&nbsp;
+
+### 8.	Trust, Collaboration, and Economic Growth
+####  (*with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/) and [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li)*)
+#### *Management Science, 2021, 67(3)*
+
+[[Paper](https://www.dropbox.com/s/zhszlac6a01slac/KPcycles.pdf?raw=1)]
+
+&nbsp;
+
+### 9.	Left Behind: Creative Destruction, Inequality, and the Stock Market 
+#### (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)
+#### *Journal of Political Economy, 2020, 128(3)*
+
+[[Paper](https://www.dropbox.com/s/yck3fllhv2kbaom/KPS_GE.pdf?raw=1)] [[Slides](https://www.dropbox.com/s/sg3wc581kexloum/KPS_GE_slides.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/82lg2psgyn7isc2/WebAppendix_KPS.pdf?raw=1)] [[Erratum](https://www.dropbox.com/s/lc08uor7t8iosv0/erratum_v2020-04.pdf?raw=1)] [[Non-technical Summary](https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks)]
+[[Data and Code](https://www.dropbox.com/s/05onvj5fa9av814/ReplicationCodeExport.zip?raw=1)]
+
+&nbsp;
+
+### 10. Technological Innovation, Intangible Capital, and Asset Prices
+####  (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/)*)
+#### *Annual Review of Financial Economics, 2019, Vol 11, 221-242*
+
+[[Paper](https://www.annualreviews.org/doi/full/10.1146/annurev-financial-110118-123049)]
+
+&nbsp;
+
+### 11. Financial Frictions and Employment during the Great Depression
+####  (*with [Efraim Benmelech](https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx) and [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx)*)
+#### *Journal of Financial Economics, 2019, 133(3), 541-563*
+
+[[Paper](https://www.dropbox.com/s/y9jxoaq00uutoto/GD_bfp.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/gtnboyrofznx3s3/GD_OA.pdf?raw=1)]
+
+&nbsp;
+
+### 12. Equilibrium Analysis of Asset Prices: Lessons from CIR and APT 
+#### (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/)*)
+#### *Journal of Portfolio Management, 2018, Vol 44 (6) Special Issue Dedicated to Stephen A. Ross*
+
+[[Paper](https://www.dropbox.com/s/se8s8kwwuan964j/JPM_final.pdf?raw=1)]
+
+
+&nbsp;
+
+### 13. In Search of Ideas: Technological Innovation and Executive Pay Inequality 
+####  (*with [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx)*)
+#### *Journal of Financial Economics, 2018, 130(1), 1-24*
+
+[[Paper](https://www.dropbox.com/s/7yp3a08l6bvjsa9/FP_executives.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/42oiy7hu6r0rm3q/WebAppendix_FP.pdf?rawg=1)] [[Non-technical Summary]](https://insight.kellogg.northwestern.edu/article/technological-innovation-and-the-executive-pay-gap)
+
+&nbsp;
+
+### 14.	Technological Innovation, Resource Allocation and Growth
+####  (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Amit Seru](https://people.stanford.edu/aseru/), and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)
+#### *Quarterly Journal of Economics, 2017, 132(2), 665-712*
+##### *Winner of Crowell Memorial Prize (second place),  Panagora Asset Management*
+
+[[Paper](https://www.dropbox.com/s/5aqvt4n4de2q3km/KPSS_patents.pdf?raw=1)]
+[[Web Appendix](https://www.dropbox.com/s/4pjkxv4y9g1d36e/KPSS_patents_APP.pdf?raw=1)]
+[[Replication Kit](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Replication-Kit)]
+[[Data, updated](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
+
+&nbsp;
+### 15.	Adverse Selection, Slow Moving Capital and Misallocation 
+####  (*with [Brett Green](https://www.brettgreen.info/) and [Willie Fuchs](https://sites.google.com/site/wfuchs/research)*)
+#### *Journal of Financial Economics, 2016 120(2)*
+
+[[Paper](https://www.dropbox.com/s/ikdfg2y49cun68l/AdverseSelection.pdf?raw=1)]
+
+&nbsp;
+
+### 16. Long-run Bulls and Bears
+####   (*with [Rui Albuquerque](http://ruialbuquerque.webs.com/), [Martin Eichenbaum](http://faculty.wcas.northwestern.edu/~yona/), and [Sergio Rebelo](http://www.kellogg.northwestern.edu/faculty/rebelo/htm/research.html)*)
+####  *Journal of Monetary Economics, 2015, 76(S)*
+
+[[Paper](https://www.dropbox.com/s/pesmr5uqw3wjt5y/BoomsBusts.pdf?raw=1)]
+
+&nbsp;
+
+### 17. Financial Relationships and the Limits to Arbitrage 
+####  (*with [Jiro E. Kondo](https://sites.google.com/site/jiroekondo/))*
+#### *Review of Finance, 2015,  19(6)*
+[[Paper](https://www.dropbox.com/s/4at4tr9ii6w5o4h/kplimits.pdf?raw=1)]
+
+&nbsp;
+
+### 18.	The Value and Ownership of Intangible Capital
+####   (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)
+#### *American Economic Review, Papers and Proceedings, May 2014, 104(5)*
+
+[[Paper](https://www.dropbox.com/s/ieq5rciggs9q4w1/OrganizationCapital_PP.pdf?raw=1)]
+
+&nbsp;
+
+### 19.	Portfolio Choice with Illiquid Assets 
+####   (*with [Andrew Ang](http://www.columbia.edu/~aa610/) and [Mark Westerfield](http://www.markwesterfield.com/))*
+#### *Management Science, 2014, 60(11)*
+
+###### *Winner of the 2011 Roger F Murray Prize (Second Prize), Q Group*
+
+[[Paper](https://www.dropbox.com/s/sg6ntkv7emfjp1w/APW-Liquidity.pdf?raw=1)]
+
+&nbsp;
+
+### 20.	Firm Characteristics and Stock Returns: The Role of Investment-Specific Shocks
+####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/))*
+#### *Review of Financial Studies, 2013, 26(11)*
+
+[[Paper  (corrects minor errors in published version)](https://www.dropbox.com/s/vvmh7sue3lflkl8/FirmCharacteristics.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/jv0cqs6vvl44btn/FirmCharacteristics_APP.pdf?raw=1)]
+
+&nbsp;
+
+### 21.	Growth Opportunities, Technology Shocks and Asset Prices
+####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/))*
+#### *Journal of Finance, April 2014, 69(2)*
+##### *Winner of the 2014 Amundi Smith Breeden Prize (First Prize)*
+
+[[Paper  (corrects minor errors in published version)](https://www.dropbox.com/s/k6v9v12gvqvybfh/GrowthOpt.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/bvi6epq0ai4asmq/GrowthOpt_APP.pdf?raw=1)]
+
+&nbsp;
+
+### 22.	Organization Capital and the Cross-Section of Expected Returns 
+####  (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml))*
+#### *Journal of Finance, August 2013, 68(4)*
+##### *Winner of the 2013 Amundi Smith Breeden Prize (First Prize)*
+
+[[Paper](https://www.dropbox.com/s/cgf6io9vmnddw50/OrganizationCapital.pdf?raw=1)]
+[[Web Appendix](https://www.dropbox.com/s/fzbc12udrxa2g2x/OrganizationCapital_APP.pdf?raw=1)]
+[[Replication Kit and Extended Data](https://www.dropbox.com/s/ffqfdt8vf9uwsk5/org%20cap%20replication%20and%20data%20update.zip?raw=1)]
+
+&nbsp;
+
+
+### 23.	Economic Activity of Firms and Asset Prices
+####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/)*)
+#### *Annual Review of Financial Economics, 2012, Vol 4, 361-384*
+
+[[Paper](http://www.annualreviews.org/doi/pdf/10.1146/annurev-financial-110311-101731)]
+
+&nbsp;
+
+### 24. Investment, Idiosyncratic Risk, and Ownership 
+####   (*with [Vasia Panousi](http://www.federalreserve.gov/econresdata/vasia-panousi.htm))*
+#### *Journal of Finance, June 2012, 67(3)*
+
+[[Paper](https://www.dropbox.com/s/f8j4ea65rrbvzl2/PanPapPaper.pdf?raw=1)]
+[[Web Appendix](https://www.dropbox.com/s/r7ho15ivnty2ikr/PanPapWEBAPP.pdf?raw=1)]
+
+&nbsp;
+
+### 25. Investment Shocks and Asset Prices
+#### *Journal of Political Economy, August 2011, 119(4)*
+
+[[Paper](https://www.dropbox.com/s/9p9l13xn7jjy3b4/InvTech.pdf?raw=1)]
+[[Web Appendix](https://www.dropbox.com/s/ngcz00pakdzyzuk/InvTech_APP.pdf?raw=1)] [[Data and Code](https://www.dropbox.com/s/bxslpppa8h4fi8q/JPEFiles.zip?raw=1)]
+
+&nbsp;
+
+### 26.	Growth Opportunities and Technology Shocks
+####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/)*)
+#### *American Economic Review, Papers and Proceedings, May 2010, 100(2), 532-536*
+
+[[Paper](https://www.dropbox.com/s/2708ixm8ucdfq3s/GrowthOpt_PP.pdf?raw=1)]
+
