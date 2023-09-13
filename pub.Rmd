@@ -4,15 +4,15 @@ title: "Publications"
 &nbsp;
 
 
-### 1. Measuring Document Similarity With Weighted Averages of Word Embeddings  
+### 1. [Measuring Document Similarity With Weighted Averages of Word Embeddings](https://www.sciencedirect.com/science/article/abs/pii/S0014498322000729)  
 #### (*with [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
 
-#### *Explorations in Economic History, forthcoming*
+#### *Explorations in Economic History, 2023, 87*
 [[Paper](https://www.dropbox.com/s/t380ftbzsirck7x/kps_eeh.pdf?raw=1)] 
 
 &nbsp;
 
-### 2. The Economics of Intangible Capital 
+### 2. [The Economics of Intangible Capital](https://www.aeaweb.org/articles?id=10.1257/jep.36.3.29) 
 
 #### (*with [Nicolas Crouzet](https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html), [Janice Eberly](https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx), and [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)
     
@@ -22,7 +22,7 @@ title: "Publications"
 
 &nbsp;
 
-### 3. Intangible Value
+### 3. [Intangible Value](https://www.nowpublishers.com/article/Details/CFR-0113)
 ####  (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml) and Edward Kim)*
 #### *Critical Finance Review, 2023, 11(2)*
 
@@ -31,7 +31,7 @@ title: "Publications"
 
 &nbsp;
 
-### 4. Working Remotely and the Supply-side Impact of Covid-19
+### 4. [Working Remotely and the Supply-side Impact of Covid-19](https://doi.org/10.1093/rapstu/raab026)
 ####  (*with [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home)*)
 #### *Review of Asset Pricing Studies, 2022, 12(1)*
 
@@ -39,7 +39,7 @@ title: "Publications"
 
 &nbsp;
 
-### 5. Missing Novelty in Drug Development
+### 5. [Missing Novelty in Drug Development](https://academic.oup.com/rfs/article/35/2/636/6178014)
 ####  (*with [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
 #### *Review of Financial Studies, 2022, 35(2)*
 
@@ -49,7 +49,7 @@ title: "Publications"
 
 &nbsp;
 
-### 6. Private and Social Returns to R&D: Drug Development and Demographics
+### 6. [Private and Social Returns to R&D: Drug Development and Demographics](https://www.aeaweb.org/articles?id=10.1257/pandp.20211104)
 #### (*with [Efraim Benmelech](https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx), [Janice C. Eberly](https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
 #### *American Economic Association, Papers and Proceedings, 2021*
 
@@ -57,7 +57,7 @@ title: "Publications"
 
 &nbsp;
 
-### 7. Measuring Technological Innovation over the Long Run 
+### 7. [Measuring Technological Innovation over the Long Run](https://www.aeaweb.org/articles?id=10.1257/aeri.20190499) 
 #### (*with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and Matt Taddy)*
 #### *American Economic Review: Insights, 2021, 3(3)*
 
@@ -70,7 +70,7 @@ title: "Publications"
 
 &nbsp;
 
-### 8.	Trust, Collaboration, and Economic Growth
+### 8.	[Trust, Collaboration, and Economic Growth](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3545)
 ####  (*with [Jiro E. Kondo](http://people.mcgill.ca/jiro.kondo/) and [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li)*)
 #### *Management Science, 2021, 67(3)*
 
@@ -78,7 +78,7 @@ title: "Publications"
 
 &nbsp;
 
-### 9.	Left Behind: Creative Destruction, Inequality, and the Stock Market 
+### 9.	[Left Behind: Creative Destruction, Inequality, and the Stock Market](https://www.journals.uchicago.edu/doi/abs/10.1086/704619?journalCode=jpe) 
 #### (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/) and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)
 #### *Journal of Political Economy, 2020, 128(3)*
 
@@ -87,7 +87,7 @@ title: "Publications"
 
 &nbsp;
 
-### 10. Technological Innovation, Intangible Capital, and Asset Prices
+### 10. [Technological Innovation, Intangible Capital, and Asset Prices](https://www.annualreviews.org/doi/abs/10.1146/annurev-financial-110118-123049)
 ####  (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/)*)
 #### *Annual Review of Financial Economics, 2019, Vol 11, 221-242*
 
@@ -95,7 +95,7 @@ title: "Publications"
 
 &nbsp;
 
-### 11. Financial Frictions and Employment during the Great Depression
+### 11. [Financial Frictions and Employment during the Great Depression](https://www.sciencedirect.com/science/article/abs/pii/S0304405X19300388)
 ####  (*with [Efraim Benmelech](https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx) and [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx)*)
 #### *Journal of Financial Economics, 2019, 133(3), 541-563*
 
@@ -103,7 +103,7 @@ title: "Publications"
 
 &nbsp;
 
-### 12. Equilibrium Analysis of Asset Prices: Lessons from CIR and APT 
+### 12. [Equilibrium Analysis of Asset Prices: Lessons from CIR and APT](https://www.pm-research.com/content/iijpormgmt/44/6/59) 
 #### (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/)*)
 #### *Journal of Portfolio Management, 2018, Vol 44 (6) Special Issue Dedicated to Stephen A. Ross*
 
@@ -112,7 +112,7 @@ title: "Publications"
 
 &nbsp;
 
-### 13. In Search of Ideas: Technological Innovation and Executive Pay Inequality 
+### 13. [In Search of Ideas: Technological Innovation and Executive Pay Inequality](https://www.sciencedirect.com/science/article/abs/pii/S0304405X18301740) 
 ####  (*with [Carola Frydman](http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx)*)
 #### *Journal of Financial Economics, 2018, 130(1), 1-24*
 
@@ -120,7 +120,7 @@ title: "Publications"
 
 &nbsp;
 
-### 14.	Technological Innovation, Resource Allocation and Growth
+### 14.	[Technological Innovation, Resource Allocation and Growth](https://doi.org/10.1093/qje/qjw040)
 ####  (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Amit Seru](https://people.stanford.edu/aseru/), and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)
 #### *Quarterly Journal of Economics, 2017, 132(2), 665-712*
 ##### *Winner of Crowell Memorial Prize (second place),  Panagora Asset Management*
@@ -131,7 +131,8 @@ title: "Publications"
 [[Data, updated](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
 
 &nbsp;
-### 15.	Adverse Selection, Slow Moving Capital and Misallocation 
+
+### 15.	[Adverse Selection, Slow Moving Capital and Misallocation](https://www.sciencedirect.com/science/article/abs/pii/S0304405X16000027)
 ####  (*with [Brett Green](https://www.brettgreen.info/) and [Willie Fuchs](https://sites.google.com/site/wfuchs/research)*)
 #### *Journal of Financial Economics, 2016 120(2)*
 
@@ -139,7 +140,7 @@ title: "Publications"
 
 &nbsp;
 
-### 16. Long-run Bulls and Bears
+### 16. [Long-run Bulls and Bears](https://www.sciencedirect.com/science/article/abs/pii/S030439321500118X)
 ####   (*with [Rui Albuquerque](http://ruialbuquerque.webs.com/), [Martin Eichenbaum](http://faculty.wcas.northwestern.edu/~yona/), and [Sergio Rebelo](http://www.kellogg.northwestern.edu/faculty/rebelo/htm/research.html)*)
 ####  *Journal of Monetary Economics, 2015, 76(S)*
 
@@ -147,14 +148,14 @@ title: "Publications"
 
 &nbsp;
 
-### 17. Financial Relationships and the Limits to Arbitrage 
+### 17. [Financial Relationships and the Limits to Arbitrage](https://academic.oup.com/rof/article/19/6/2095/1576239) 
 ####  (*with [Jiro E. Kondo](https://sites.google.com/site/jiroekondo/))*
 #### *Review of Finance, 2015,  19(6)*
 [[Paper](https://www.dropbox.com/s/4at4tr9ii6w5o4h/kplimits.pdf?raw=1)]
 
 &nbsp;
 
-### 18.	The Value and Ownership of Intangible Capital
+### 18.	[The Value and Ownership of Intangible Capital](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.189)
 ####   (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)
 #### *American Economic Review, Papers and Proceedings, May 2014, 104(5)*
 
@@ -162,7 +163,7 @@ title: "Publications"
 
 &nbsp;
 
-### 19.	Portfolio Choice with Illiquid Assets 
+### 19.	[Portfolio Choice with Illiquid Assets](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.1986) 
 ####   (*with [Andrew Ang](http://www.columbia.edu/~aa610/) and [Mark Westerfield](http://www.markwesterfield.com/))*
 #### *Management Science, 2014, 60(11)*
 
@@ -172,7 +173,7 @@ title: "Publications"
 
 &nbsp;
 
-### 20.	Firm Characteristics and Stock Returns: The Role of Investment-Specific Shocks
+### 20.	[Firm Characteristics and Stock Returns: The Role of Investment-Specific Shocks](https://doi.org/10.1093/rfs/hht026)
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/))*
 #### *Review of Financial Studies, 2013, 26(11)*
 
@@ -180,7 +181,7 @@ title: "Publications"
 
 &nbsp;
 
-### 21.	Growth Opportunities, Technology Shocks and Asset Prices
+### 21.	[Growth Opportunities, Technology Shocks and Asset Prices](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12136)
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/))*
 #### *Journal of Finance, April 2014, 69(2)*
 ##### *Winner of the 2014 Amundi Smith Breeden Prize (First Prize)*
@@ -189,7 +190,7 @@ title: "Publications"
 
 &nbsp;
 
-### 22.	Organization Capital and the Cross-Section of Expected Returns 
+### 22.	[Organization Capital and the Cross-Section of Expected Returns](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12034) 
 ####  (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml))*
 #### *Journal of Finance, August 2013, 68(4)*
 ##### *Winner of the 2013 Amundi Smith Breeden Prize (First Prize)*
@@ -201,7 +202,7 @@ title: "Publications"
 &nbsp;
 
 
-### 23.	Economic Activity of Firms and Asset Prices
+### 23.	[Economic Activity of Firms and Asset Prices](https://www.annualreviews.org/doi/10.1146/annurev-financial-110311-101731)
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/)*)
 #### *Annual Review of Financial Economics, 2012, Vol 4, 361-384*
 
@@ -209,7 +210,7 @@ title: "Publications"
 
 &nbsp;
 
-### 24. Investment, Idiosyncratic Risk, and Ownership 
+### 24. [Investment, Idiosyncratic Risk, and Ownership](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2012.01743.x) 
 ####   (*with [Vasia Panousi](http://www.federalreserve.gov/econresdata/vasia-panousi.htm))*
 #### *Journal of Finance, June 2012, 67(3)*
 
@@ -218,7 +219,7 @@ title: "Publications"
 
 &nbsp;
 
-### 25. Investment Shocks and Asset Prices
+### 25. [Investment Shocks and Asset Prices](https://www.journals.uchicago.edu/doi/full/10.1086/662221)
 #### *Journal of Political Economy, August 2011, 119(4)*
 
 [[Paper](https://www.dropbox.com/s/9p9l13xn7jjy3b4/InvTech.pdf?raw=1)]
@@ -226,7 +227,7 @@ title: "Publications"
 
 &nbsp;
 
-### 26.	Growth Opportunities and Technology Shocks
+### 26.	[Growth Opportunities and Technology Shocks](https://www.aeaweb.org/articles?id=10.1257/aer.100.2.532)
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/)*)
 #### *American Economic Review, Papers and Proceedings, May 2010, 100(2), 532-536*
 
