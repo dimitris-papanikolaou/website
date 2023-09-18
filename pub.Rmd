@@ -23,7 +23,7 @@ title: "Publications"
 &nbsp;
 
 ### 3. [Intangible Value](https://www.nowpublishers.com/article/Details/CFR-0113)
-####  (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml) and Edward Kim)*
+####  (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml) and [Edward Kim](https://edwardtkim.github.io/))*
 #### *Critical Finance Review, 2023, 11(2)*
 
 [[Paper](https://www.dropbox.com/s/nlw9pj10v7cjqpp/Intangible_Value.pdf?raw=1)]
@@ -45,7 +45,7 @@ title: "Publications"
 
 ##### *Winner of the 2017 Red Rock Conference and 2018 LBS Summer Finance Symposium Best Paper Awards*
 
-[[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)] [[Non-technical Summary](https://insight.kellogg.northwestern.edu/article/everyone-wants-pharmaceutical-breakthroughs-what-drives-drug-companies-to-pursue-them)]
+[[Paper](https://www.dropbox.com/s/t3nrtypgmizyiie/DevelopingNovelDrugs.pdf?raw=1)] [[Non-technical Summary](https://insight.kellogg.northwestern.edu/article/everyone-wants-pharmaceutical-breakthroughs-what-drives-drug-companies-to-pursue-them)][[Data, ](https://www.dropbox.com/scl/fi/nebzxddi77hdda2shnm6z/drug_icd9_noveltyscores_KLP21.dta?rlkey=za4qdza0mv2s9ucd5f3gpnb1l&raw=1)[Readme](https://www.dropbox.com/scl/fi/my5vuyywi4jwaizt9bj9s/Data_Overview_KLP_novelty.pdf?rlkey=w2t890ejljtvf9ihthks0y71m&raw=1)]
 
 &nbsp;
 

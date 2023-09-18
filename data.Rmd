@@ -8,14 +8,16 @@ title: "Data Library"
 
 [[Data, Extended to 2022](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
 
-
-#### 2. [Missing Novelty in Drug Development](https://academic.oup.com/rfs/article/35/2/636/6178014)  (*with [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
-
-[[Data, ](https://www.dropbox.com/scl/fi/nebzxddi77hdda2shnm6z/drug_icd9_noveltyscores_KLP21.dta?rlkey=za4qdza0mv2s9ucd5f3gpnb1l&raw=1)[ Readme](https://www.dropbox.com/scl/fi/my5vuyywi4jwaizt9bj9s/Data_Overview_KLP_novelty.pdf?rlkey=w2t890ejljtvf9ihthks0y71m&raw=1)]  
+#### 2. [Intangible Value](https://www.nowpublishers.com/article/Details/CFR-0113)  (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml) and [Edward Kim](https://edwardtkim.github.io/))*
+[[Data](https://github.com/edwardtkim/intangiblevalue)]
 
 #### 3. [Working Remotely and the Supply-side Impact of Covid-19](https://doi.org/10.1093/rapstu/raab026)  (*with [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home)*)
 [[Data](https://www.thecovidfactor.org/)] 
 
-#### 4.	[Organization Capital and the Cross-Section of Expected Returns](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12034)   (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml))*
+#### 4. [Missing Novelty in Drug Development](https://academic.oup.com/rfs/article/35/2/636/6178014)  (*with [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
+
+[[Data, ](https://www.dropbox.com/scl/fi/nebzxddi77hdda2shnm6z/drug_icd9_noveltyscores_KLP21.dta?rlkey=za4qdza0mv2s9ucd5f3gpnb1l&raw=1)[ Readme](https://www.dropbox.com/scl/fi/my5vuyywi4jwaizt9bj9s/Data_Overview_KLP_novelty.pdf?rlkey=w2t890ejljtvf9ihthks0y71m&raw=1)]  
+
+#### 5.	[Organization Capital and the Cross-Section of Expected Returns](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12034)   (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml))*
 
 [[Data, Extended to 2019](https://www.dropbox.com/s/ffqfdt8vf9uwsk5/org%20cap%20replication%20and%20data%20update.zip?raw=1)]
