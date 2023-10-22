@@ -1,22 +1,28 @@
 ---
 title: "Working Papers"
 ---
+
+### 1. Technology and Labor Displacement: Evidence from Linking Patents with Worker-Level Data  <span style="font-variant:small-caps;color:Tomato;">(new)</span>
+####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
+We develop separate measures of workers' exposure to labor-saving and labor-augmenting technologies based on textual analysis of patent documents and the tasks performed by workers in an occupation. Using administrative data on earnings of individual workers in the US, we show that these exposure measures are both negatively related to earnings of incumbent workers. Exposure to labor-saving technologies is associated with significant declines in average earnings and a higher likelihood of job loss for all worker types. By contrast, exposure to labor-augmenting technologies is associated with earnings declines for only certain types of workers: white collar workers, older workers, and workers that are paid more relative to their peers. In contrast to these effects on incumbents, we find a positive overall effect of labor-augmenting technologies on total worker compensation, employment, and the labor share. We interpret the sign and magnitudes of these effects through a model that also allows for skill displacement. 
+
+[[Paper](https://www.dropbox.com/scl/fi/me7lesjeozyea8r04sbi9/labor_exposure_RNR.pdf?rlkey=mi8hnqjl7w2px72mxwkyqfk88&raw=1) (ver 10/2023)]
  
 &nbsp;
 
-### 1. Who Bears the Cost of Aggregate Fluctuations and Why?   <span style="font-variant:small-caps;color:Tomato;">(new)</span>
+### 2. Time Variation in Risk Premia, Labor Market Dynamics, and Income Risk   <span style="font-variant:small-caps;color:Tomato;">(new)</span>
 #### (*with [Maarten Meeuwis](https://www.maartenmeeuwis.com/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Jonathan Rothbaum](https://sites.google.com/site/jlrothbaum/home?pli=1)*) 
 
-Higher discount rates lead to lower worker earnings for workers at the bottom of the income distribution; these declines are primarily driven by job separations. By contrast, lower cashflow (or productivity) news is followed by declines in earnings for workers in the top of the income distribution, with most of the effect coming from the intensive margin. We build an equilibrium model of labor market search that quantitatively replicates these facts. The model has several implications regarding the role of discount rates in generating unemployment fluctuations; the drivers of the low level of cyclicality of aggregate worker earnings; and the redistributive effects of business cycle fluctuations and monetary policy. 
+We provide both theory and evidence that time-variation in risk premia results in time-varying idiosyncratic income risk for workers. Using administrative data on worker earnings from the United States, we show that increases in risk premia lead to lower worker earnings for workers at the bottom of the income distribution; these declines are primarily driven by job separations. This pattern lies in sharp contrast to productivity shocks, which mainly affect earnings for workers at the top of the income distribution. We build an equilibrium model of labor market search that quantitatively replicates these facts. The model generates endogenous time-variation in income risk in response to changes in risk premia and matches several stylized features of the data regarding unemployment and income risk over the business cycle. 
 
-[[Paper](https://www.dropbox.com/s/oi3g8e56zf4ehq4/mpsr.pdf?raw=1) (ver 11/2022)]
+[[Paper]() (new version coming soon)]
 
 &nbsp;
 
-### 2. Intangible Capital, Non-rivalry, and Growth  <span style="font-variant:small-caps;color:Tomato;">(new)</span>
+### 3. Intangible Capital, Non-rivalry, and Growth  <span style="font-variant:small-caps;color:Tomato;">(new)</span>
 #### (*with [Nicolas Crouzet](https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html), [Janice Eberly](https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx), and [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)
 
-We provide an answer to why growth may slow even in the face of technological improvements. Our focus is on the role of intangible assets. Intangible assets are distinct from physical capital
+We provide an answer as to why growth may slow even in the face of technological improvements. Our focus is on the role of intangible assets. Intangible assets are distinct from physical capital
 in that they are comprised by information that requires a storage medium. A reduction in replication costs for intangible assets enables them to be less rivalrous in use, stimulating growth.
 However, we show how limits to excludability create a countervailing force that limits growth. This paper subsumes the working paper [A model of intangible capital](https://www.dropbox.com/s/x77j4e67b790l9u/Model_of_Intangible_Capital.pdf?raw=1).
 
@@ -24,10 +30,10 @@ However, we show how limits to excludability create a countervailing force that 
 
 &nbsp;
 
-### 3. Technology, Vintage-Specific Human Capital, and Labor Displacement: Evidence from Linking Patents with Occupations  
+### 4. Technological Change and Occupations over the Long Run
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
 
- We construct occupation-specific indicators of technological change that span two centuries (1850-2010) using textual analysis of patent documents and occupation task descriptions. We find strong evidence that much of technical change has been displacive of labor during this period. Contrary to the standard SBTC model, high-payed workers experience relatively worse outcomes. We reconcile this fact with the standard model by allowing for skill displacement. Previously titled "Technological Change and Occupations over the Long Run" 
+ We construct occupation-specific indicators of technological change that span two centuries (1850-2010) using textual analysis of patent documents and occupation task descriptions. We find strong evidence that much of technical change has been displacive of labor during this period. Contrary to the standard SBTC model, high-payed workers experience relatively worse outcomes. We reconcile this fact with the standard model by allowing for skill displacement.  
 
 [[Paper](https://www.dropbox.com/s/0ruvrsjl9nxpvzt/OccupationTechnology.pdf?raw=1) (ver. 08/2022)]
 [[Slides](https://www.dropbox.com/s/qigcguzb6xnjbcb/TechnologySkillSlides.pdf?raw=1)]
@@ -35,7 +41,7 @@ However, we show how limits to excludability create a countervailing force that 
 
 &nbsp;
 
-### 4. Technological Innovation and Labor Income Risk  
+### 5. Technological Innovation and Labor Income Risk  
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jae Song*)
 
 Using administrative data, we examine how labor income risk depends on innovation shocks.
@@ -45,7 +51,7 @@ Using administrative data, we examine how labor income risk depends on innovatio
 
 &nbsp;
 
-### 5. Evaluation and Learning in R&D Investment
+### 6. Evaluation and Learning in R&D Investment
 #### (*with [Alex Frankel](https://faculty.chicagobooth.edu/alexander-frankel), [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
 
 [[Paper](https://www.dropbox.com/s/i18l4ghq06oq82f/evaluation_learning.pdf?raw=1) (ver. 12/2022)]
