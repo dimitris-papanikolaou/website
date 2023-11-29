@@ -6,7 +6,7 @@ title: "Working Papers"
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
 We develop separate measures of workers' exposure to labor-saving and labor-augmenting technologies based on textual analysis of patent documents and the tasks performed by workers in an occupation. Using administrative data on earnings of individual workers in the US, we show that these exposure measures are both negatively related to earnings of incumbent workers. Exposure to labor-saving technologies is associated with significant declines in average earnings and a higher likelihood of job loss for all worker types. By contrast, exposure to labor-augmenting technologies is associated with earnings declines for only certain types of workers: white collar workers, older workers, and workers that are paid more relative to their peers. In contrast to these effects on incumbents, we find a positive overall effect of labor-augmenting technologies on total worker compensation, employment, and the labor share. We interpret the sign and magnitudes of these effects through a model that also allows for skill displacement. 
 
-[[Paper](https://www.dropbox.com/scl/fi/zlq7u209oirvvs0r3nmdi/LaborDisplacement_RNR.pdf?rlkey=6fq1m25o366f9r0iwoiz0cfi7&raw=1) (ver. 10/2023)]
+[[Paper](https://www.dropbox.com/scl/fi/zlq7u209oirvvs0r3nmdi/LaborDisplacement_RNR.pdf?rlkey=6fq1m25o366f9r0iwoiz0cfi7&raw=1)] [ [Slides](https://www.dropbox.com/scl/fi/q9t5e5bqbw1rg9rab0vfv/LaborDisplacement_RNR_Slides.pdf?rlkey=6rycbz7u4dzu3g5guse5vfu4z&raw=1)]
  
 &nbsp;
 
