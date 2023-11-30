@@ -15,7 +15,7 @@ We develop separate measures of workers' exposure to labor-saving and labor-augm
 
 We provide both theory and evidence that time-variation in risk premia results in time-varying idiosyncratic income risk for workers. Using administrative data on worker earnings from the United States, we show that increases in risk premia lead to lower worker earnings for workers at the bottom of the income distribution; these declines are primarily driven by job separations. This pattern lies in sharp contrast to productivity shocks, which mainly affect earnings for workers at the top of the income distribution. We build an equilibrium model of labor market search that quantitatively replicates these facts. The model generates endogenous time-variation in income risk in response to changes in risk premia and matches several stylized features of the data regarding unemployment and income risk over the business cycle. 
 
-[[Paper](https://www.dropbox.com/scl/fi/ow2yvb805w1kim2w5vh6g/RiskPremia_Labor.pdf?rlkey=5odl1mo4ceizgkg6zq62nnue8&dl=0) (ver. 10/2023)]
+[[Paper](https://www.dropbox.com/scl/fi/ow2yvb805w1kim2w5vh6g/RiskPremia_Labor.pdf?rlkey=5odl1mo4ceizgkg6zq62nnue8&dl=0)][[Slides](https://www.dropbox.com/scl/fi/5c57bjzxa3cp8jspycz8k/RiskPremia_Labor_Slides.pdf?rlkey=l1ezj3cdwkc10dpxhgb18w15r&raw=1)]
 
 &nbsp;
 
