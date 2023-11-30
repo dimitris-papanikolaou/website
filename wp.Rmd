@@ -2,7 +2,7 @@
 title: "Working Papers"
 ---
 
-### 1. Technology and Labor Displacement: Evidence from Linking Patents with Worker-Level Data  <span style="font-variant:small-caps;color:Tomato;">(new)</span>
+### 1. <span style="font-variant:small-caps;color:Tomato;">(new)</span> Technology and Labor Displacement: Evidence from Linking Patents with Worker-Level Data  
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
 We develop separate measures of workers' exposure to labor-saving and labor-augmenting technologies based on textual analysis of patent documents and the tasks performed by workers in an occupation. Using administrative data on earnings of individual workers in the US, we show that these exposure measures are both negatively related to earnings of incumbent workers. Exposure to labor-saving technologies is associated with significant declines in average earnings and a higher likelihood of job loss for all worker types. By contrast, exposure to labor-augmenting technologies is associated with earnings declines for only certain types of workers: white collar workers, older workers, and workers that are paid more relative to their peers. In contrast to these effects on incumbents, we find a positive overall effect of labor-augmenting technologies on total worker compensation, employment, and the labor share. We interpret the sign and magnitudes of these effects through a model that also allows for skill displacement. 
 
@@ -10,7 +10,7 @@ We develop separate measures of workers' exposure to labor-saving and labor-augm
  
 &nbsp;
 
-### 2. Time Variation in Risk Premia, Labor Market Dynamics, and Income Risk   <span style="font-variant:small-caps;color:Tomato;">(new)</span>
+### 2. <span style="font-variant:small-caps;color:Tomato;">(new)</span> Time Variation in Risk Premia, Labor Market Dynamics, and Income Risk   
 #### (*with [Maarten Meeuwis](https://www.maartenmeeuwis.com/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Jonathan Rothbaum](https://sites.google.com/site/jlrothbaum/home?pli=1)*) 
 
 We provide both theory and evidence that time-variation in risk premia results in time-varying idiosyncratic income risk for workers. Using administrative data on worker earnings from the United States, we show that increases in risk premia lead to lower worker earnings for workers at the bottom of the income distribution; these declines are primarily driven by job separations. This pattern lies in sharp contrast to productivity shocks, which mainly affect earnings for workers at the top of the income distribution. We build an equilibrium model of labor market search that quantitatively replicates these facts. The model generates endogenous time-variation in income risk in response to changes in risk premia and matches several stylized features of the data regarding unemployment and income risk over the business cycle. 
@@ -19,7 +19,7 @@ We provide both theory and evidence that time-variation in risk premia results i
 
 &nbsp;
 
-### 3. Intangible Capital, Non-rivalry, and Growth  <span style="font-variant:small-caps;color:Tomato;">(new)</span>
+### 3. Intangible Capital, Non-rivalry, and Growth   
 #### (*with [Nicolas Crouzet](https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html), [Janice Eberly](https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx), and [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)
 
 We provide an answer as to why growth may slow even in the face of technological improvements. Our focus is on the role of intangible assets. Intangible assets are distinct from physical capital

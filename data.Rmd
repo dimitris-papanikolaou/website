@@ -21,3 +21,8 @@ title: "Data Library"
 #### 5.	[Organization Capital and the Cross-Section of Expected Returns](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12034)   (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml))*
 
 [[Data, Extended to 2019](https://www.dropbox.com/s/ffqfdt8vf9uwsk5/org%20cap%20replication%20and%20data%20update.zip?raw=1)]
+
+#### 6. [Measuring Technological Innovation over the Long Run](https://www.aeaweb.org/articles?id=10.1257/aeri.20190499)  (*with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and Matt Taddy)*
+
+[[Data, Extended to 2022](https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Extended-Data)] 
+
