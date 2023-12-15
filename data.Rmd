@@ -2,6 +2,10 @@
 title: "Data Library"
 ---
 
+
+<img src="https://www.dropbox.com/scl/fi/x34b5nl8ob0ber99aw2ty/_A7_3748.jpg?rlkey=2igd8dpkzxhlte6tvomukeqww&raw=1" width="1000" />
+
+
 &nbsp;
 
 #### 1. [KPSS: Technological Innovation, Resource Allocation and Growth](https://academic.oup.com/qje/article-abstract/132/2/665/3076284)   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Amit Seru](https://people.stanford.edu/aseru/), and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)

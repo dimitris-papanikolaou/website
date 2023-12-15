@@ -2,6 +2,10 @@
 title: "Working Papers"
 ---
 
+<img src="https://www.dropbox.com/scl/fi/1wgvmftydwzn4eyvxzv5f/_A7_4045.jpg?rlkey=aag19emr1nui98etfne5hejm2&raw=1" width="1000" />
+
+&nbsp;
+
 ### 1. <span style="font-variant:small-caps;color:Tomato;">(new)</span> Technology and Labor Displacement: Evidence from Linking Patents with Worker-Level Data  
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
 We develop separate measures of workers' exposure to labor-saving and labor-augmenting technologies based on textual analysis of patent documents and the tasks performed by workers in an occupation. Using administrative data on earnings of individual workers in the US, we show that these exposure measures are both negatively related to earnings of incumbent workers. Exposure to labor-saving technologies is associated with significant declines in average earnings and a higher likelihood of job loss for all worker types. By contrast, exposure to labor-augmenting technologies is associated with earnings declines for only certain types of workers: white collar workers, older workers, and workers that are paid more relative to their peers. In contrast to these effects on incumbents, we find a positive overall effect of labor-augmenting technologies on total worker compensation, employment, and the labor share. We interpret the sign and magnitudes of these effects through a model that also allows for skill displacement. 
