@@ -6,15 +6,15 @@ title: "Working Papers"
 
 &nbsp;
 
-### 1. Technology and Labor Displacement: Evidence from Linking Patents with Worker-Level Data  
+### Technology and Labor Displacement: Evidence from Linking Patents with Worker-Level Data  
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
 We develop separate measures of workers' exposure to labor-saving and labor-augmenting technologies based on textual analysis of patent documents and the tasks performed by workers in an occupation. Using administrative data on earnings of individual workers in the US, we show that these exposure measures are both negatively related to earnings of incumbent workers. Exposure to labor-saving technologies is associated with significant declines in average earnings and a higher likelihood of job loss for all worker types. By contrast, exposure to labor-augmenting technologies is associated with earnings declines for only certain types of workers: white collar workers, older workers, and workers that are paid more relative to their peers. In contrast to these effects on incumbents, we find a positive overall effect of labor-augmenting technologies on total worker compensation, employment, and the labor share. We interpret the sign and magnitudes of these effects through a model that also allows for skill displacement. 
 
-[[Paper](https://www.dropbox.com/scl/fi/zlq7u209oirvvs0r3nmdi/LaborDisplacement_RNR.pdf?rlkey=6fq1m25o366f9r0iwoiz0cfi7&raw=1)] [ [Slides](https://www.dropbox.com/scl/fi/q9t5e5bqbw1rg9rab0vfv/LaborDisplacement_RNR_Slides.pdf?rlkey=6rycbz7u4dzu3g5guse5vfu4z&raw=1)]
+[[Paper (ver. 7/2024)](https://www.dropbox.com/scl/fi/zlq7u209oirvvs0r3nmdi/LaborDisplacement_RNR.pdf?rlkey=6fq1m25o366f9r0iwoiz0cfi7&raw=1)] [ [Slides](https://www.dropbox.com/scl/fi/q9t5e5bqbw1rg9rab0vfv/LaborDisplacement_RNR_Slides.pdf?rlkey=6rycbz7u4dzu3g5guse5vfu4z&raw=1)]
  
 &nbsp;
 
-### 2. Time Variation in Risk Premia, Labor Market Dynamics, and Income Risk   
+### Time Variation in Risk Premia, Labor Market Dynamics, and Income Risk   
 #### (*with [Maarten Meeuwis](https://www.maartenmeeuwis.com/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Jonathan Rothbaum](https://sites.google.com/site/jlrothbaum/home?pli=1)*) 
 
 #### *American Economic Review, Revise and Resubmit*
@@ -22,41 +22,68 @@ We develop separate measures of workers' exposure to labor-saving and labor-augm
 
 We provide both theory and evidence that time-variation in risk premia results in time-varying idiosyncratic income risk for workers. Using administrative data on worker earnings from the United States, we show that increases in risk premia lead to lower worker earnings for workers at the bottom of the income distribution; these declines are primarily driven by job separations. This pattern lies in sharp contrast to productivity shocks, which mainly affect earnings for workers at the top of the income distribution. We build an equilibrium model of labor market search that quantitatively replicates these facts. The model generates endogenous time-variation in income risk in response to changes in risk premia and matches several stylized features of the data regarding unemployment and income risk over the business cycle. 
 
-[[Paper](https://www.dropbox.com/scl/fi/ow2yvb805w1kim2w5vh6g/RiskPremia_Labor.pdf?rlkey=5odl1mo4ceizgkg6zq62nnue8&dl=0)][[Slides](https://www.dropbox.com/scl/fi/5c57bjzxa3cp8jspycz8k/RiskPremia_Labor_Slides.pdf?rlkey=l1ezj3cdwkc10dpxhgb18w15r&raw=1)]
+[[Paper (ver. 9/2023)](https://www.dropbox.com/scl/fi/ow2yvb805w1kim2w5vh6g/RiskPremia_Labor.pdf?rlkey=5odl1mo4ceizgkg6zq62nnue8&dl=0)][[Slides](https://www.dropbox.com/scl/fi/5c57bjzxa3cp8jspycz8k/RiskPremia_Labor_Slides.pdf?rlkey=l1ezj3cdwkc10dpxhgb18w15r&raw=1)]
 
 &nbsp;
 
-### 3. Intangible Capital, Non-rivalry, and Growth   
+### Intangible Capital, Firm Scope, and Growth   
 #### (*with [Nicolas Crouzet](https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html), [Janice Eberly](https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx), and [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)
 
-We provide an answer as to why growth may slow even in the face of technological improvements. Our focus is on the role of intangible assets. Intangible assets are distinct from physical capital
-in that they are comprised by information that requires a storage medium. A reduction in replication costs for intangible assets enables them to be less rivalrous in use, stimulating growth.
-However, we show how limits to excludability create a countervailing force that limits growth. This paper subsumes the working paper [A model of intangible capital](https://www.dropbox.com/s/x77j4e67b790l9u/Model_of_Intangible_Capital.pdf?raw=1).
+Intangible assets represent information that needs to be embodied, or stored, in order to be used in production. This information can be replicated and stored in multiple instances, even if imperfectly. Replicability implies that a specific intangible asset can be deployed simultaneously in multiple uses by a single firm, allowing it to expand its scope.  At the same time, however, replicability implies a risk that a firm's intangibles will be copied or appropriated by competitors. We embed these properties into an otherwise standard endogenous growth model, and show how improvements in the technology for replicating intangibles can lead to larger firms, an increase in concentration, valuation ratios, and the profit share, but lower growth.  
 
-[[Paper](https://www.dropbox.com/s/t3pun2wpakqbz55/ceep_latest.pdf?raw=1) (ver. 10/2022)]
+[[Paper](https://www.dropbox.com/s/t3pun2wpakqbz55/ceep_latest.pdf?raw=1) (ver. 9/2024)]
+
+
 
 &nbsp;
 
-### 4. Technological Change and Occupations over the Long Run
+### Winners and Losers: Competition, Creative Destruction, and Labor Income Risk  
+####   (*with [Brice Green](https://brice.green/), [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jae Song*)
+
+Using U.S. administrative data, we find that creative destruction in the product market passes through to worker earnings. This passthrough is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earning declines than profit gains from their own firm's innovations due to job destruction, while top workers are significantly more exposed than the average worker. We interpret the implications for worker welfare using a structural model featuring creative destruction in the product market. Our estimates imply significant welfare losses and demand for insurance against creative destruction. Subsumes [Technological Innovation and Labor Income Risk](https://www.nber.org/papers/w26964).
+
+[Coming soon]
+
+
+
+&nbsp;
+
+### Productivity Shocks and Inflation in Incomplete Markets  
+####   (*with [Qiushi Huang](https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi) and [Leonid Kogan](http://web.mit.edu/lkogan2/www/)* )
+
+Innovation leads to higher productivity, yet it can lead to higher inflation if markets are incomplete. Exploiting changes in state level R\&D tax credit policy, we establish a causal link between the level of innovation and the local price of non-tradable consumption goods. We rationalize this finding in a multi-region model of a monetary union where regions can experience displacive shocks that reallocate output among agents. Because benefits of economic growth accrue asymmetrically across all agents, prices of non-tradable goods can rise even as regional output increases. Local stock markets provide evidence that is consistent with model predictions. In both the data and the model, returns to local growth firms help agents insure against increases in the local price level.
+
+[Coming soon]
+
+ 
+
+&nbsp;
+
+### Evaluation and Learning in R&D Investment
+#### (*with [Alex Frankel](https://faculty.chicagobooth.edu/alexander-frankel), [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
+
+We examine the role of spillover learning in shaping the value of exploratory versus incremental R\&D. Using data from drug development, we show that novel drug candidates generate more knowledge spillovers than incremental ones. Despite being less likely to reach regulatory approval, they are more likely to inspire subsequent successful drugs. We introduce a model where firms are better able to \textit{evaluate} the viability of incremental drugs, but where investing in novel drugs helps firms \textit{learn} about future projects. Firms appear to put more value on evaluation versus learning motives, and these patterns are in-part driven by the appropriability of new knowledge, and firms' discount rates.  
+
+[[Paper](https://www.dropbox.com/s/i18l4ghq06oq82f/evaluation_learning.pdf?raw=1) (ver. 12/2022)]
+
+&nbsp;
+
+### Technological Change and Occupations over the Long Run
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
 
  We construct occupation-specific indicators of technological change that span two centuries (1850-2010) using textual analysis of patent documents and occupation task descriptions. We find strong evidence that much of technical change has been displacive of labor during this period. 
 
 [Under Revision, new version coming soon]
 
-
 &nbsp;
 
-### 5. Technological Innovation and Labor Income Risk  
+### Technological Innovation and Labor Income Risk  
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jae Song*)
 
-Using administrative data, we examine how labor income risk depends on innovation shocks.
+Using administrative data, we examine how labor income risk depends on innovation shocks. Subsumed by ``Winners and Losers: Competition, Creative Destruction, and Labor Income Risk''.
 
-[Under Revision, new version coming soon]
+[[Paper](https://www.nber.org/papers/w26964)]
 
-&nbsp;
 
-### 6. Evaluation and Learning in R&D Investment
-#### (*with [Alex Frankel](https://faculty.chicagobooth.edu/alexander-frankel), [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
 
-[[Paper](https://www.dropbox.com/s/i18l4ghq06oq82f/evaluation_learning.pdf?raw=1) (ver. 12/2022)]
+
