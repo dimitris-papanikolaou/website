@@ -35,15 +35,6 @@ Intangible assets represent information that needs to be embodied, or stored, in
 
 
 
-&nbsp;
-
-### Winners and Losers: Competition, Creative Destruction, and Labor Income Risk  
-####   (*with [Brice Green](https://brice.green/), [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jae Song*)
-
-Using U.S. administrative data, we find that creative destruction in the product market passes through to worker earnings. This passthrough is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earning declines than profit gains from their own firm's innovations due to job destruction, while top workers are significantly more exposed than the average worker. We interpret the implications for worker welfare using a structural model featuring creative destruction in the product market. Our estimates imply significant welfare losses and demand for insurance against creative destruction. Subsumes [Technological Innovation and Labor Income Risk](https://www.nber.org/papers/w26964).
-
-[Coming soon]
-
 
 
 &nbsp;
@@ -53,8 +44,18 @@ Using U.S. administrative data, we find that creative destruction in the product
 
 Innovation leads to higher productivity, yet it can lead to higher inflation if markets are incomplete. Exploiting changes in state level R\&D tax credit policy, we establish a causal link between the level of innovation and the local price of non-tradable consumption goods. We rationalize this finding in a multi-region model of a monetary union where regions can experience displacive shocks that reallocate output among agents. Because benefits of economic growth accrue asymmetrically across all agents, prices of non-tradable goods can rise even as regional output increases. Local stock markets provide evidence that is consistent with model predictions. In both the data and the model, returns to local growth firms help agents insure against increases in the local price level.
 
-[Coming soon]
+[[Paper](https://www.dropbox.com/scl/fi/k3ozsygbvlpedk4bhk4hy/InflationRiskSharing.pdf?rlkey=i1de4xrobgfgzto6ggxlau5hs&raw=1) (ver. 09/2024)]
 
+
+
+&nbsp;
+
+### Winners and Losers: Competition, Creative Destruction, and Labor Income Risk  
+####   (*with [Brice Green](https://brice.green/), [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jae Song*)
+
+Using U.S. administrative data, we find that creative destruction in the product market passes through to worker earnings. This passthrough is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earning declines than profit gains from their own firm's innovations due to job destruction, while top workers are significantly more exposed than the average worker. We interpret the implications for worker welfare using a structural model featuring creative destruction in the product market. Our estimates imply significant welfare losses and demand for insurance against creative destruction. Subsumes [Technological Innovation and Labor Income Risk](https://www.nber.org/papers/w26964).
+
+[Coming soon]
  
 
 &nbsp;
