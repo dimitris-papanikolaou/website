@@ -2,8 +2,6 @@
 title: "Working Papers"
 ---
 
-<img src="https://www.dropbox.com/scl/fi/1wgvmftydwzn4eyvxzv5f/_A7_4045.jpg?rlkey=aag19emr1nui98etfne5hejm2&raw=1" width="1000" />
-
 &nbsp;
 
 ### Technology and Labor Displacement: Evidence from Linking Patents with Worker-Level Data  
@@ -33,9 +31,6 @@ Intangible assets represent information that needs to be embodied, or stored, in
 [[Paper](https://www.dropbox.com/s/t3pun2wpakqbz55/ceep_latest.pdf?raw=1) (ver. 9/2024)]
 
 
-
-
-
 &nbsp;
 
 ### Productivity Shocks and Inflation in Incomplete Markets  
@@ -45,6 +40,15 @@ Innovation leads to higher productivity, yet it can lead to higher inflation if 
 
 [[Paper](https://www.dropbox.com/scl/fi/k3ozsygbvlpedk4bhk4hy/InflationRiskSharing.pdf?rlkey=i1de4xrobgfgzto6ggxlau5hs&raw=1) (ver. 09/2024)]
 
+
+&nbsp;
+
+### Tech Dollars and Exchange Rate Reconnect
+####   (*with [Qiushi Huang](https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi) and [Leonid Kogan](http://web.mit.edu/lkogan2/www/)* )
+
+We document that there is a (re)connection between exchange rate movements and relative changes in aggregate quantities, such as consumption and output growth, once wealth changes are controlled for. We find that relative wealth changes positively correlate with aggregate quantities, and that the real dollar index is positively correlated with U.S. innovation intensity. These observations motivate our analysis of how technological innovation affects exchange rate movements. We introduce a minimal deviation from the standard endowment economy model of exchange rate: in an economic boom, new firms are created, but they are randomly distributed to a small part of the population. Our calibrated model successfully replicates key features of the data, specifically, the joint dynamics of exchange rates, stock returns, real output and consumption growth, and trade flows.
+
+[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5008685)]
 
 
 &nbsp;
@@ -64,7 +68,7 @@ Using U.S. administrative data, we find that creative destruction in the product
 
 We examine the role of spillover learning in shaping the value of exploratory versus incremental R\&D. Using data from drug development, we show that novel drug candidates generate more knowledge spillovers than incremental ones. Despite being less likely to reach regulatory approval, they are more likely to inspire subsequent successful drugs. We introduce a model where firms are better able to \textit{evaluate} the viability of incremental drugs, but where investing in novel drugs helps firms \textit{learn} about future projects. Firms appear to put more value on evaluation versus learning motives, and these patterns are in-part driven by the appropriability of new knowledge, and firms' discount rates.  
 
-[[Paper](https://www.dropbox.com/s/i18l4ghq06oq82f/evaluation_learning.pdf?raw=1) (ver. 12/2022)]
+[[Paper (ver. 9/2024)](https://www.dropbox.com/s/i18l4ghq06oq82f/evaluation_learning.pdf?raw=1)]
 
 &nbsp;
 
