@@ -4,6 +4,26 @@ title: "Working Papers"
 
 &nbsp;
 
+### Artificial Intelligence and the Labor Market
+####   (*with [Menaka Hampole](https://www.menakahampole.com/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
+
+We leverage recent advances in NLP to construct measures of workers' task exposure to AI and machine learning technologies over the 2010 to 2023 period that vary across firms and time. Using a theoretical framework that allows for a labor-saving technology to affect worker productivity both directly and indirectly, we show that the impact on wage earnings and employment can be summarized by two statistics. First, labor demand decreases in the average exposure of workers' tasks to AI technologies; second, holding the average exposure constant, labor demand increases in the dispersion of task exposures to AI, as workers shift effort to tasks that are not displaced by AI. Exploiting exogenous variation in our measures based on pre-existing hiring practices across firms, we find empirical support for these predictions, together with a lower demand for skills affected by AI. Overall, we find muted effects of AI on employment due to offsetting effects: highly-exposed occupations experience relatively lower demand compared to less exposed occupations, but the resulting increase in firm productivity increases overall employment across all occupations. 
+
+[[Paper (ver. 2/2025)](https://www.dropbox.com/scl/fi/x4uc38a7d75f7i7txvy90/AILabor.pdf?rlkey=5v7tpbs28zz2kdiewybs9ktqe&raw=1)]
+
+&nbsp;
+
+### Measuring Creative Destruction
+####   (*with [Ali Kakhbod](https://haas.berkeley.edu/faculty/ali-kakhbod/), [Leonid Kogan](http://web.mit.edu/lkogan2/www/), and Peiyao Li*)
+
+We examine the link between a firm's future performance and innovations made by other firms using text-based measures of innovation displacement---how relevant one firm's innovations are to another's operations. Our findings indicate that when other major innovators' recent innovations are similar to the focal firm's technologies, the focal firm's profit growth over the next 7 years is expected to decline, with the association exacerbating annually, especially for non-innovative firms. This displacement effect persists across various firm types and model specifications. Moreover, firms exposed to higher displacement have higher risk-adjusted stock returns in the following year.
+
+[[Paper (ver. 11/2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5008685)
+
+
+
+&nbsp;
+
 ### Technology and Labor Displacement: Evidence from Linking Patents with Worker-Level Data  
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
 
@@ -53,6 +73,15 @@ We document that there is a (re)connection between exchange rate movements and r
 
 [[Paper 11/2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667334)]
 
+&nbsp;
+
+### Evaluation and Learning in R&D Investment
+#### (*with [Alex Frankel](https://faculty.chicagobooth.edu/alexander-frankel), [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
+
+We examine the role of spillover learning in shaping the value of exploratory versus incremental R\&D. Using data from drug development, we show that novel drug candidates generate more knowledge spillovers than incremental ones. Despite being less likely to reach regulatory approval, they are more likely to inspire subsequent successful drugs. We introduce a model where firms are better able to \textit{evaluate} the viability of incremental drugs, but where investing in novel drugs helps firms \textit{learn} about future projects. Firms appear to put more value on evaluation versus learning motives, and these patterns are in-part driven by the appropriability of new knowledge, and firms' discount rates.  
+
+[[Paper (ver. 9/2024)](https://www.dropbox.com/s/i18l4ghq06oq82f/evaluation_learning.pdf?raw=1)]
+
 
 &nbsp;
 
@@ -64,14 +93,6 @@ Using U.S. administrative data, we find that creative destruction in the product
 [Coming soon]
  
 
-&nbsp;
-
-### Evaluation and Learning in R&D Investment
-#### (*with [Alex Frankel](https://faculty.chicagobooth.edu/alexander-frankel), [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
-
-We examine the role of spillover learning in shaping the value of exploratory versus incremental R\&D. Using data from drug development, we show that novel drug candidates generate more knowledge spillovers than incremental ones. Despite being less likely to reach regulatory approval, they are more likely to inspire subsequent successful drugs. We introduce a model where firms are better able to \textit{evaluate} the viability of incremental drugs, but where investing in novel drugs helps firms \textit{learn} about future projects. Firms appear to put more value on evaluation versus learning motives, and these patterns are in-part driven by the appropriability of new knowledge, and firms' discount rates.  
-
-[[Paper (ver. 9/2024)](https://www.dropbox.com/s/i18l4ghq06oq82f/evaluation_learning.pdf?raw=1)]
 
 &nbsp;
 
@@ -84,6 +105,12 @@ We examine the role of spillover learning in shaping the value of exploratory ve
 
 &nbsp;
 
+
+
+## Dormant Working Papers
+
+&nbsp;
+
 ### Technological Innovation and Labor Income Risk  
 ####   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and Jae Song*)
 
@@ -91,6 +118,11 @@ Using administrative data, we examine how labor income risk depends on innovatio
 
 [[Paper](https://www.nber.org/papers/w26964)]
 
+&nbsp;
 
+### Sources of Systematic Risk
+#### (*with Igor Makarov*)
 
+Using the restrictions implied by the heteroskedasticity of stock returns, we identify four factors in the U.S. industry returns. The first correlates highly with the market portfolio; the second is a portfolio of stocks that produce investment goods minus stocks that produce consumption goods; the third differentiates between cyclical and noncyclical stocks. The fourth, a portfolio of industries that produce input goods minus the rest of the market, is a robust predictor of excess returns on the market portfolio and bond returns. The extracted factors are shown to contain significant information about future macroeconomic and financial variables.
 
+[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=968229)]
