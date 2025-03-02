@@ -3,8 +3,6 @@ title: "Data Library"
 ---
 
 
-<img src="https://www.dropbox.com/scl/fi/x34b5nl8ob0ber99aw2ty/_A7_3748.jpg?rlkey=2igd8dpkzxhlte6tvomukeqww&raw=1" width="1000" />
-
 
 &nbsp;
 
@@ -28,5 +26,6 @@ title: "Data Library"
 
 #### 6. [Measuring Technological Innovation over the Long Run](https://www.aeaweb.org/articles?id=10.1257/aeri.20190499)  (*with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and Matt Taddy)*
 
-[[Data, Extended to 2022](https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Extended-Data)] 
+[[Data, Extended to 2022](https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Extended-Data)] [[Pairwise Citation Data](https://www.dropbox.com/s/1lh1fxkgrwlvn6b/full_citations_combined_v2019-0305.zip?raw=1)]
+
 
