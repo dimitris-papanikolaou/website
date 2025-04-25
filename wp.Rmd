@@ -66,12 +66,12 @@ Innovation leads to higher productivity, yet it can lead to higher inflation if 
 
 &nbsp;
 
-### 7. Tech Dollars and Exchange Rate Reconnect
+### 7. Tech Dollars: Technological Innovation and Exchange Rates
 ####   (*with [Qiushi Huang](https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi) and [Leonid Kogan](http://web.mit.edu/lkogan2/www/)* )
 
 We document that there is a (re)connection between exchange rate movements and relative changes in aggregate quantities, such as consumption and output growth, once wealth changes are controlled for. We find that relative wealth changes positively correlate with aggregate quantities, and that the real dollar index is positively correlated with U.S. innovation intensity. These observations motivate our analysis of how technological innovation affects exchange rate movements. We introduce a minimal deviation from the standard endowment economy model of exchange rate: in an economic boom, new firms are created, but they are randomly distributed to a small part of the population. Our calibrated model successfully replicates key features of the data, specifically, the joint dynamics of exchange rates, stock returns, real output and consumption growth, and trade flows.
 
-[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667334) (ver. 11/2024)]
+[[Paper](https://www.dropbox.com/scl/fi/g3jycpu0hvdkk21vdu3cf/FX_techdollars.pdf?rlkey=s2v4mej45pfiqiohgi90nyr8n&raw=1) (ver. 04/2025)]
 
 &nbsp;
 
