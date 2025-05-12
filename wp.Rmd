@@ -66,12 +66,14 @@ Innovation leads to higher productivity, yet it can lead to higher inflation if 
 
 &nbsp;
 
-### 7. Tech Dollars and Exchange Rate Reconnect
+
+### 7. Tech Dollars: Technological Innovation and Exchange Rates
 ####   (*with [Qiushi Huang](https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi) and [Leonid Kogan](http://web.mit.edu/lkogan2/www/)* )
 
 We document that there is a (re)connection between exchange rate movements and relative changes in aggregate quantities, such as consumption and output growth, once wealth changes are controlled for. We find that relative wealth changes positively correlate with aggregate quantities, and that the real dollar index is positively correlated with U.S. innovation intensity. These observations motivate our analysis of how technological innovation affects exchange rate movements. We introduce a minimal deviation from the standard endowment economy model of exchange rate: in an economic boom, new firms are created, but they are randomly distributed to a small part of the population. Our calibrated model successfully replicates key features of the data, specifically, the joint dynamics of exchange rates, stock returns, real output and consumption growth, and trade flows.
 
-[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667334) (ver. 11/2024)]
+[[Paper](https://www.dropbox.com/scl/fi/g3jycpu0hvdkk21vdu3cf/FX_techdollars.pdf?rlkey=s2v4mej45pfiqiohgi90nyr8n&raw=1) (ver. 04/2025)]
+
 
 &nbsp;
 
@@ -81,6 +83,18 @@ We document that there is a (re)connection between exchange rate movements and r
 We examine the role of spillover learning in shaping the value of exploratory versus incremental R\&D. Using data from drug development, we show that novel drug candidates generate more knowledge spillovers than incremental ones. Despite being less likely to reach regulatory approval, they are more likely to inspire subsequent successful drugs. We introduce a model where firms are better able to \textit{evaluate} the viability of incremental drugs, but where investing in novel drugs helps firms \textit{learn} about future projects. Firms appear to put more value on evaluation versus learning motives, and these patterns are in-part driven by the appropriability of new knowledge, and firms' discount rates.  
 
 [[Paper](https://www.dropbox.com/s/i18l4ghq06oq82f/evaluation_learning.pdf?raw=1)  (ver. 1/2025)]
+
+&nbsp;
+
+### 9. Natural Language Processing and Innovation Research
+#### (*with [Antonin Bergaud](https://sites.google.com/site/abergeaudeco) and [Adam Jaffe](https://scholarworks.brandeis.edu/esploro/profile/adam_jaffe)*)
+
+#### *Prepared for the Annual Review of Economics*
+
+Innovation is central to models in economics, strategy, management, and finance, yet it remains difficult to measure due to its intangible and knowledge-based nature. Recent advancements in Natural Language Processing offer new methods to analyze textual artifacts, providing empirical insights into previously hard-to-measure aspects of innovation. This paper provides an overview of the current applications of these methods in empirical innovation research, highlights their transformative potential for reshaping how researchers study and quantify innovation, and discusses the critical challenges that accompany their use.
+
+[[Paper](https://www.dropbox.com/scl/fi/1cfikn3qfxz1w6kyd2mqe/ARE_Innovation.pdf?rlkey=gt4i2j3xa4o1i0rsi1rz3g6a7&e=2&st=fgaj8yxf&raw=1)]
+
 
 
 &nbsp;&nbsp;
