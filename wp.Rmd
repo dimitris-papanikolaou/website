@@ -61,6 +61,8 @@ Intangible assets represent information that needs to be embodied, or stored, in
 ### 6. Productivity Shocks and Inflation in Incomplete Markets  
 ####   (*with [Qiushi Huang](https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi) and [Leonid Kogan](http://web.mit.edu/lkogan2/www/)* )
 
+#### *Review of Financial Studies, Revise and Resubmit*
+
 Innovation leads to higher productivity, yet it can lead to higher inflation if markets are incomplete. Exploiting changes in state level R\&D tax credit policy, we establish a causal link between the level of innovation and the local price of non-tradable consumption goods. We rationalize this finding in a multi-region model of a monetary union where regions can experience displacive shocks that reallocate output among agents. Because benefits of economic growth accrue asymmetrically across all agents, prices of non-tradable goods can rise even as regional output increases. Local stock markets provide evidence that is consistent with model predictions. In both the data and the model, returns to local growth firms help agents insure against increases in the local price level.
 
 [[Paper](https://www.dropbox.com/scl/fi/k3ozsygbvlpedk4bhk4hy/InflationRiskSharing.pdf?rlkey=i1de4xrobgfgzto6ggxlau5hs&raw=1) (ver. 5/2025)]
