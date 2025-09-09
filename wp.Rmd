@@ -9,7 +9,7 @@ title: "Working Papers"
 
 We leverage recent advances in NLP to construct measures of workers' task exposure to AI and machine learning technologies over the 2010 to 2023 period that vary across firms and time. Using a theoretical framework that allows for a labor-saving technology to affect worker productivity both directly and indirectly, we show that the impact on wage earnings and employment can be summarized by two statistics. First, labor demand decreases in the average exposure of workers' tasks to AI technologies; second, holding the average exposure constant, labor demand increases in the dispersion of task exposures to AI, as workers shift effort to tasks that are not displaced by AI. Exploiting exogenous variation in our measures based on pre-existing hiring practices across firms, we find empirical support for these predictions, together with a lower demand for skills affected by AI. Overall, we find muted effects of AI on employment due to offsetting effects: highly-exposed occupations experience relatively lower demand compared to less exposed occupations, but the resulting increase in firm productivity increases overall employment across all occupations. 
 
-[[Paper](https://www.dropbox.com/scl/fi/x4uc38a7d75f7i7txvy90/AILabor.pdf?rlkey=5v7tpbs28zz2kdiewybs9ktqe&raw=1)  (ver. 2/2025)]
+[[Paper](https://www.dropbox.com/scl/fi/t0o23d6wc5e20q4z9fv2k/AILabor.pdf?rlkey=odaafoy773d8xgpxn1nwt3900&raw=1)  (ver. 9/2025)]
 
 &nbsp;
 
