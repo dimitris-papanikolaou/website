@@ -37,7 +37,7 @@ We develop separate measures of workers' exposure to labor-saving and labor-augm
  
 &nbsp;
 
-### 4. Time-Varying Risk Premia and Heterogenous Labor Market Dynamic   
+### 4. Time-Varying Risk Premia and Heterogenous Labor Market Dynamics   
 #### (*with [Maarten Meeuwis](https://www.maartenmeeuwis.com/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Jonathan Rothbaum](https://sites.google.com/site/jlrothbaum/home?pli=1)*) 
 
 #### *American Economic Review, Revise and Resubmit*
@@ -85,6 +85,8 @@ We document that there is a (re)connection between exchange rate movements and r
 #### (*with [Alex Frankel](https://faculty.chicagobooth.edu/alexander-frankel), [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
 
 We examine the role of spillover learning in shaping the value of exploratory versus incremental R\&D. Using data from drug development, we show that novel drug candidates generate more knowledge spillovers than incremental ones. Despite being less likely to reach regulatory approval, they are more likely to inspire subsequent successful drugs. We introduce a model where firms are better able to \textit{evaluate} the viability of incremental drugs, but where investing in novel drugs helps firms \textit{learn} about future projects. Firms appear to put more value on evaluation versus learning motives, and these patterns are in-part driven by the appropriability of new knowledge, and firms' discount rates.  
+
+##### *Winner of the 2025 Red Rock Conference Best Paper Award*
 
 [[Paper](https://www.dropbox.com/s/i18l4ghq06oq82f/evaluation_learning.pdf?raw=1)  (ver. 1/2025)]
 

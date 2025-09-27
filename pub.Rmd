@@ -1,6 +1,16 @@
 ---
 title: "Publications"
 ---
+&nbsp;
+
+### [Technology and Labor Markets: Past, Present, and Future; Evidence from Two Centuries of Innovation](https://www.brookings.edu/events/bpea-fall-2025-conference/)
+
+#### (*with Huben Liu,  [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
+
+#### *Brookings Papers on Economic Activity, Fall 2025* 
+
+[[Paper](https://www.dropbox.com/scl/fi/ujopp41kwk453n6qhpt4j/TechnologyLaborLR.pdf?rlkey=o1lj4f2ie2t58eie04urviewv&raw=1)] [[Slides](https://www.dropbox.com/scl/fi/30bijsckgvi1uu8tcuu2z/TechnologyLaborLR_Slides.pdf?rlkey=nblk37vp5cdlvtxwllr2gc9fh&raw=1)] [[Summary](https://www.brookings.edu/articles/technology-and-labor-markets-past-present-and-future/)]
+[[Video](https://www.youtube.com/watch?v=shHSyRJgDto)]
 
 &nbsp;
 
@@ -215,6 +225,7 @@ title: "Publications"
 
 [[Paper](https://www.dropbox.com/s/f8j4ea65rrbvzl2/PanPapPaper.pdf?raw=1)]
 [[Web Appendix](https://www.dropbox.com/s/r7ho15ivnty2ikr/PanPapWEBAPP.pdf?raw=1)]
+
 &nbsp;
 
 ### [Economic Activity of Firms and Asset Prices](https://www.annualreviews.org/doi/10.1146/annurev-financial-110311-101731)
@@ -222,6 +233,7 @@ title: "Publications"
 #### *Annual Review of Financial Economics, 2012, Vol 4, 361-384*
 
 [[Paper](http://www.annualreviews.org/doi/pdf/10.1146/annurev-financial-110311-101731)]
+
 &nbsp;
 
 ### [Investment Shocks and Asset Prices](https://www.journals.uchicago.edu/doi/full/10.1086/662221)
