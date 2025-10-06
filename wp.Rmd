@@ -44,7 +44,7 @@ We develop separate measures of workers' exposure to labor-saving and labor-augm
 
 Using US administrative data on worker earnings, we show that increases in risk premia lead to lower earnings for lower-paid workers. These declines in earnings are primarily driven by job separations. We build an equilibrium model of labor market search that quantitatively replicates the observed heterogeneity in labor market dynamics across worker income levels. Our findings lend further support to the idea that fluctuations in risk premia are a key driver of unemployment and labor market dynamics. Importantly, our work illustrates the importance of the job destruction margin for understanding the heterogeneous dynamics of worker earnings over the business cycle.  
 
-[[Paper](https://www.dropbox.com/scl/fi/lmrbqr6kziliqu84iwf76/RiskPremia_Labor_vOct24.pdf?rlkey=xhi4jg95gdk3oiiybexi9mq9p&raw=1)  (ver. 1/2025)][[Slides](https://www.dropbox.com/scl/fi/kwxu5aga0jsmy7suuehdg/RiskPremia_Labor_Slides.pdf?rlkey=9m55gf1q34gzjww4t9l6fygjo&raw=1)]
+[[Paper](https://www.dropbox.com/scl/fi/ow2yvb805w1kim2w5vh6g/RiskPremia_Labor.pdf?rlkey=5odl1mo4ceizgkg6zq62nnue8&raw=1)  (ver. 10/2025)][[Slides](https://www.dropbox.com/scl/fi/kwxu5aga0jsmy7suuehdg/RiskPremia_Labor_Slides.pdf?rlkey=9m55gf1q34gzjww4t9l6fygjo&raw=1)]
 
 &nbsp;
 
