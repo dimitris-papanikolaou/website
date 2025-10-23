@@ -7,6 +7,8 @@ title: "Working Papers"
 ### 1. Artificial Intelligence and the Labor Market
 ####   (*with [Menaka Hampole](https://www.menakahampole.com/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)
 
+#### *Quarterly Journal of Economics, Revise and Resubmit*
+
 We leverage recent advances in NLP to construct measures of workers' task exposure to AI and machine learning technologies over the 2010 to 2023 period that vary across firms and time. Using a theoretical framework that allows for a labor-saving technology to affect worker productivity both directly and indirectly, we show that the impact on wage earnings and employment can be summarized by two statistics. First, labor demand decreases in the average exposure of workers' tasks to AI technologies; second, holding the average exposure constant, labor demand increases in the dispersion of task exposures to AI, as workers shift effort to tasks that are not displaced by AI. Exploiting exogenous variation in our measures based on pre-existing hiring practices across firms, we find empirical support for these predictions, together with a lower demand for skills affected by AI. Overall, we find muted effects of AI on employment due to offsetting effects: highly-exposed occupations experience relatively lower demand compared to less exposed occupations, but the resulting increase in firm productivity increases overall employment across all occupations. 
 
 [[Paper](https://www.dropbox.com/scl/fi/t0o23d6wc5e20q4z9fv2k/AILabor.pdf?rlkey=odaafoy773d8xgpxn1nwt3900&raw=1)  (ver. 9/2025)]
@@ -46,19 +48,11 @@ Using US administrative data on worker earnings, we show that increases in risk 
 
 [[Paper](https://www.dropbox.com/scl/fi/ow2yvb805w1kim2w5vh6g/RiskPremia_Labor.pdf?rlkey=5odl1mo4ceizgkg6zq62nnue8&raw=1)  (ver. 10/2025)][[Slides](https://www.dropbox.com/scl/fi/kwxu5aga0jsmy7suuehdg/RiskPremia_Labor_Slides.pdf?rlkey=9m55gf1q34gzjww4t9l6fygjo&raw=1)]
 
-&nbsp;
-
-### 5. Intangible Capital, Firm Scope, and Growth   
-#### (*with [Nicolas Crouzet](https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html), [Janice Eberly](https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx), and [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)
-
-Intangible assets represent information that needs to be embodied, or stored, in order to be used in production. This information can be replicated and stored in multiple instances, even if imperfectly. Replicability implies that a specific intangible asset can be deployed simultaneously in multiple uses by a single firm, allowing it to expand its scope.  At the same time, however, replicability implies a risk that a firm's intangibles will be copied or appropriated by competitors. We embed these properties into an otherwise standard endogenous growth model, and show how improvements in the technology for replicating intangibles can lead to larger firms, an increase in concentration, valuation ratios, and the profit share, but lower growth.  
-
-[[Paper](https://www.dropbox.com/s/t3pun2wpakqbz55/ceep_latest.pdf?raw=1) (ver. 9/2024)]
 
 
 &nbsp;
 
-### 6. Productivity Shocks and Inflation in Incomplete Markets  
+### 5. Productivity Shocks and Inflation in Incomplete Markets  
 ####   (*with [Qiushi Huang](https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi) and [Leonid Kogan](http://web.mit.edu/lkogan2/www/)* )
 
 #### *Review of Financial Studies, Revise and Resubmit*
@@ -66,6 +60,15 @@ Intangible assets represent information that needs to be embodied, or stored, in
 Innovation leads to higher productivity, yet it can lead to higher inflation if markets are incomplete. Exploiting changes in state level R\&D tax credit policy, we establish a causal link between the level of innovation and the local price of non-tradable consumption goods. We rationalize this finding in a multi-region model of a monetary union where regions can experience displacive shocks that reallocate output among agents. Because benefits of economic growth accrue asymmetrically across all agents, prices of non-tradable goods can rise even as regional output increases. Local stock markets provide evidence that is consistent with model predictions. In both the data and the model, returns to local growth firms help agents insure against increases in the local price level.
 
 [[Paper](https://www.dropbox.com/scl/fi/k3ozsygbvlpedk4bhk4hy/InflationRiskSharing.pdf?rlkey=i1de4xrobgfgzto6ggxlau5hs&raw=1) (ver. 5/2025)]
+
+&nbsp;
+
+### 6. Intangible Capital, Firm Scope, and Growth   
+#### (*with [Nicolas Crouzet](https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html), [Janice Eberly](https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx), and [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)
+
+Intangible assets represent information that needs to be embodied, or stored, in order to be used in production. This information can be replicated and stored in multiple instances, even if imperfectly. Replicability implies that a specific intangible asset can be deployed simultaneously in multiple uses by a single firm, allowing it to expand its scope.  At the same time, however, replicability implies a risk that a firm's intangibles will be copied or appropriated by competitors. We embed these properties into an otherwise standard endogenous growth model, and show how improvements in the technology for replicating intangibles can lead to larger firms, an increase in concentration, valuation ratios, and the profit share, but lower growth.  
+
+[[Paper](https://www.dropbox.com/s/t3pun2wpakqbz55/ceep_latest.pdf?raw=1) (ver. 9/2024)]
 
 
 &nbsp;
