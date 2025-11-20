@@ -2,30 +2,55 @@
 title: "Data Library"
 ---
 
+<style>
+.pub-title {
+  font-size: 120%;
+  font-weight: bold;
+}
+body {
+  font-size: 190%;
+}
+</style>
 
+<br>
 
-&nbsp;
+ 
 
-#### 1. [KPSS: Technological Innovation, Resource Allocation and Growth](https://academic.oup.com/qje/article-abstract/132/2/665/3076284)   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), [Amit Seru](https://people.stanford.edu/aseru/), and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)
+1. <span class="pub-title">[KPSS: Technological Innovation, Resource Allocation and Growth](https://academic.oup.com/qje/article-abstract/132/2/665/3076284)</span>  
+   (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), 
+   [Amit Seru](https://people.stanford.edu/aseru/), 
+   and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)  
 
-[[Data, Extended to 2022](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
+   [[Data, Extended to 2022](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
 
-#### 2. [Intangible Value](https://www.nowpublishers.com/article/Details/CFR-0113)  (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml) and [Edward Kim](https://edwardtkim.github.io/))*
-[[Data](https://github.com/edwardtkim/intangiblevalue)]
+1. <span class="pub-title">[Intangible Value](https://www.nowpublishers.com/article/Details/CFR-0113)</span>  
+   (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml) and 
+   [Edward Kim](https://edwardtkim.github.io/)*)  
 
-#### 3. [Working Remotely and the Supply-side Impact of Covid-19](https://doi.org/10.1093/rapstu/raab026)  (*with [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home)*)
-[[Data](https://www.thecovidfactor.org/)] 
+   [[Data](https://github.com/edwardtkim/intangiblevalue)]
 
-#### 4. [Missing Novelty in Drug Development](https://academic.oup.com/rfs/article/35/2/636/6178014)  (*with [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)
+1. <span class="pub-title">[Working Remotely and the Supply-side Impact of Covid-19](https://doi.org/10.1093/rapstu/raab026)</span>  
+   (*with [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home)*)  
 
-[[Data, ](https://www.dropbox.com/scl/fi/nebzxddi77hdda2shnm6z/drug_icd9_noveltyscores_KLP21.dta?rlkey=za4qdza0mv2s9ucd5f3gpnb1l&raw=1)[ Readme](https://www.dropbox.com/scl/fi/my5vuyywi4jwaizt9bj9s/Data_Overview_KLP_novelty.pdf?rlkey=w2t890ejljtvf9ihthks0y71m&raw=1)]  
+   [[Data](https://www.thecovidfactor.org/)]
 
-#### 5.	[Organization Capital and the Cross-Section of Expected Returns](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12034)   (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml))*
+1. <span class="pub-title">[Missing Novelty in Drug Development](https://academic.oup.com/rfs/article/35/2/636/6178014)</span>  
+   (*with [Danielle Li](https://mitsloan.mit.edu/faculty/directory/danielle-li) and 
+   [Joshua Krieger](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435)*)  
 
-[[Data, Extended to 2019](https://www.dropbox.com/s/ffqfdt8vf9uwsk5/org%20cap%20replication%20and%20data%20update.zip?raw=1)]
+   [[Data](https://www.dropbox.com/scl/fi/nebzxddi77hdda2shnm6z/drug_icd9_noveltyscores_KLP21.dta?rlkey=za4qdza0mv2s9ucd5f3gpnb1l&raw=1)],
+   [[Readme](https://www.dropbox.com/scl/fi/my5vuyywi4jwaizt9bj9s/Data_Overview_KLP_novelty.pdf?rlkey=w2t890ejljtvf9ihthks0y71m&raw=1)]
 
-#### 6. [Measuring Technological Innovation over the Long Run](https://www.aeaweb.org/articles?id=10.1257/aeri.20190499)  (*with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), [Amit Seru](https://people.stanford.edu/aseru/), and Matt Taddy)*
+1. <span class="pub-title">[Organization Capital and the Cross-Section of Expected Returns](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12034)</span>  
+   (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)  
 
-[[Data, Extended to 2022](https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Extended-Data)] [[Pairwise Citation Data](https://www.dropbox.com/s/1lh1fxkgrwlvn6b/full_citations_combined_v2019-0305.zip?raw=1)]
+   [[Data, Extended to 2019](https://www.dropbox.com/s/ffqfdt8vf9uwsk5/org%20cap%20replication%20and%20data%20update.zip?raw=1)]
 
+1. <span class="pub-title">[Measuring Technological Innovation over the Long Run](https://www.aeaweb.org/articles?id=10.1257/aeri.20190499)</span>  
+   (*with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), 
+   [Amit Seru](https://people.stanford.edu/aseru/), 
+   and Matt Taddy*)  
+
+   [[Data, Extended to 2022](https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Extended-Data)]
+   [[Pairwise Citation Data](https://www.dropbox.com/s/1lh1fxkgrwlvn6b/full_citations_combined_v2019-0305.zip?raw=1)]
 

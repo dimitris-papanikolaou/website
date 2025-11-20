@@ -9,7 +9,7 @@ title: "Dimitris Papanikolaou"
 
 <h3 style="padding-top:1px;padding-bottom:5px;">
 
-John L. and Helen Kellogg Professor of Finance
+John L. and Helen Kellogg Professor of Finance,
 
 Kellogg School of Management, 
 
@@ -18,3 +18,5 @@ Northwestern University
 2211 Campus Dr, Office 4319, 
 
 Evanston IL, 60208
+
+d-papanikolaou@kellogg.northwestern.edu
