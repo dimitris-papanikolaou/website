@@ -13,6 +13,16 @@ body {
   font-size: 190%;
 }
 </style>
+1. <span class="pub-title">Time-Varying Risk Premia and Heterogenous Labor Market Dynamics</span>  
+   (*with [Maarten Meeuwis](https://www.maartenmeeuwis.com/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home), and [Jonathan Rothbaum](https://sites.google.com/site/jlrothbaum/home?pli=1)*)  
+   *American Economic Review, Forthcoming*  
+   [[Paper](https://www.dropbox.com/scl/fi/ow2yvb805w1kim2w5vh6g/RiskPremia_Labor.pdf?rlkey=5odl1mo4ceizgkg6zq62nnue8&raw=1)]
+   [[Slides](https://www.dropbox.com/scl/fi/kwxu5aga0jsmy7suuehdg/RiskPremia_Labor_Slides.pdf?rlkey=9m55gf1q34gzjww4t9l6fygjo&raw=1)]
+
+1. <span class="pub-title">Natural Language Processing and Innovation Research</span>  
+   (*with [Antonin Bergaud](https://sites.google.com/site/abergeaudeco) and [Adam Jaffe](https://scholarworks.brandeis.edu/esploro/profile/adam_jaffe)*)  
+   *Annual Review of Economics, Forthcoming*   
+   [[Paper](https://www.dropbox.com/scl/fi/1cfikn3qfxz1w6kyd2mqe/ARE_Innovation.pdf?rlkey=gt4i2j3xa4o1i0rsi1rz3g6a7&e=2&st=fgaj8yxf&raw=1)]
 
 1. <span class="pub-title">[Technology and Labor Markets: Past, Present, and Future; Evidence from Two Centuries of Innovation](https://www.brookings.edu/events/bpea-fall-2025-conference/)</span>  
    (*with Huben Liu,  [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home), and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)  
@@ -21,6 +31,7 @@ body {
    [[Slides](https://www.dropbox.com/scl/fi/30bijsckgvi1uu8tcuu2z/TechnologyLaborLR_Slides.pdf?rlkey=nblk37vp5cdlvtxwllr2gc9fh&raw=1)]
    [[Summary](https://www.brookings.edu/articles/technology-and-labor-markets-past-present-and-future/)]
    [[Video](https://www.youtube.com/watch?v=shHSyRJgDto)]
+   [[Podcast](https://www.brookings.edu/articles/what-jobs-will-be-most-affected-by-ai/)]
 
 1. <span class="pub-title">[Measuring Document Similarity With Weighted Averages of Word Embeddings](https://www.sciencedirect.com/science/article/abs/pii/S0014498322000729)</span>  
    (*with [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home) and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)  
