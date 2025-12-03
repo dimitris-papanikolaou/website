@@ -318,6 +318,35 @@ $(document).ready(function () {
 body {
   font-size: 190%;
 }
+
+details.abstract {
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+details.abstract summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+}
+
+details.abstract summary::-webkit-details-marker {
+  display: none; /* hide default triangle in some browsers */
+}
+
+details.abstract summary::before {
+  content: "► ";
+  font-size: 0.9em;
+}
+
+details.abstract[open] summary::before {
+  content: "▼ ";
+}
+
+details.abstract {
+  margin-top: -0.65em;    /* vertical space above */
+  margin-bottom: 1em;   /* vertical space below */
+}
 </style>
 <ol style="list-style-type: decimal">
 <li><p><span class="pub-title">Time-Varying Risk Premia and Heterogenous
@@ -331,16 +360,46 @@ Rothbaum</a></em>)<br />
 [<a
 href="https://www.dropbox.com/scl/fi/ow2yvb805w1kim2w5vh6g/RiskPremia_Labor.pdf?rlkey=5odl1mo4ceizgkg6zq62nnue8&amp;raw=1">Paper</a>]
 [<a
-href="https://www.dropbox.com/scl/fi/kwxu5aga0jsmy7suuehdg/RiskPremia_Labor_Slides.pdf?rlkey=9m55gf1q34gzjww4t9l6fygjo&amp;raw=1">Slides</a>]</p></li>
+href="https://www.dropbox.com/scl/fi/kwxu5aga0jsmy7suuehdg/RiskPremia_Labor_Slides.pdf?rlkey=9m55gf1q34gzjww4t9l6fygjo&amp;raw=1">Slides</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>Using U.S. administrative data on worker earnings, we show that
+increases in risk premia lead to lower labor earnings, particularly for
+lower-paid workers. These declines are primarily driven by job
+separations. We build an equilibrium model of labor market search that
+quantitatively replicates the observed heterogeneity in labor market
+dynamics across worker earnings levels. Our findings underscore the role
+of time-varying risk premia as a key driver of labor market fluctuations
+and highlight the importance of both the job creation and the job
+destruction margins in understanding the heterogeneity in worker
+outcomes over the business cycle.</p>
+</details></li>
 <li><p><span class="pub-title">Natural Language Processing and
 Innovation Research</span><br />
 (<em>with <a href="https://sites.google.com/site/abergeaudeco">Antonin
 Bergaud</a> and <a
 href="https://scholarworks.brandeis.edu/esploro/profile/adam_jaffe">Adam
 Jaffe</a></em>)<br />
-<em>Annual Review of Economics, Forthcoming</em><br />
+<em>Annual Review of Economics, Volume 18, 2025</em><br />
 [<a
-href="https://www.dropbox.com/scl/fi/1cfikn3qfxz1w6kyd2mqe/ARE_Innovation.pdf?rlkey=gt4i2j3xa4o1i0rsi1rz3g6a7&amp;e=2&amp;st=fgaj8yxf&amp;raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/scl/fi/1cfikn3qfxz1w6kyd2mqe/ARE_Innovation.pdf?rlkey=gt4i2j3xa4o1i0rsi1rz3g6a7&amp;e=2&amp;st=fgaj8yxf&amp;raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>Innovation is central to models in economics, strategy, management,
+and finance, yet it remains difficult to measure due to its intangible
+and knowledge-based nature. Recent advancements in Natural Language
+Processing offer new methods to analyze textual artifacts, providing
+empirical insights into previously hard-to-measure aspects of
+innovation. This paper provides an overview of the current applications
+of these methods in empirical innovation research, highlights their
+transformative potential for reshaping how researchers study and
+quantify innovation, and discusses the critical challenges that
+accompany their use.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.brookings.edu/events/bpea-fall-2025-conference/">Technology
 and Labor Markets: Past, Present, and Future; Evidence from Two
@@ -358,7 +417,25 @@ href="https://www.dropbox.com/scl/fi/30bijsckgvi1uu8tcuu2z/TechnologyLaborLR_Sli
 [<a
 href="https://www.brookings.edu/articles/technology-and-labor-markets-past-present-and-future/">Summary</a>]
 [<a href="https://www.youtube.com/watch?v=shHSyRJgDto">Video</a>] [<a
-href="https://www.brookings.edu/articles/what-jobs-will-be-most-affected-by-ai/">Podcast</a>]</p></li>
+href="https://www.brookings.edu/articles/what-jobs-will-be-most-affected-by-ai/">Podcast</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We use recent advances in natural language processing and large
+language models to construct novel measures of technology exposure for
+workers that span almost two centuries. Combining our measures with
+Census data on occupation employment, we show that technological
+progress over the 20th century has led to economically meaningful shifts
+in labor demand across occupations: it has consistently increased demand
+for occupations with higher education requirements, occupations that pay
+higher wages, and occupations with a greater fraction of female workers.
+Using these insights and a calibrated model, we then explore different
+scenarios for how advances in artificial intelligence (AI) are likely to
+impact employment trends in the medium run. The model predicts a
+reversal of past trends, with AI favoring occupations that are
+lower-educated, lower-paid, and more male-dominated.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.sciencedirect.com/science/article/abs/pii/S0014498322000729">Measuring
 Document Similarity With Weighted Averages of Word
@@ -370,7 +447,26 @@ href="https://mitsloan.mit.edu/phd/students/bryan-seegmiller">Bryan
 Seegmiller</a></em>)<br />
 <em>Explorations in Economic History, 2023, 87</em><br />
 [<a
-href="https://www.dropbox.com/s/t380ftbzsirck7x/kps_eeh.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/t380ftbzsirck7x/kps_eeh.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We detail a methodology for estimating the textual similarity between
+two documents while accounting for the possibility that two different
+words can have a similar meaning. We illustrate the method’s usefulness
+in facilitating comparisons between documents with very different
+formats and vocabularies by textually linking occupation task and
+industry output descriptions with related technologies as described in
+patent texts; we also examine economic applications of the resultant
+document similarity measures. In a final application we demonstrate that
+the method also works well relative to alternatives for comparing
+documents within the same domain by showing that pairwise textual
+similarity between occupations’ task descriptions strongly predicts the
+probability that a given worker will transition from one occupation to
+another. Finally, we offer some suggestions on other potential uses and
+guidance in implementing the method</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.nowpublishers.com/article/Details/CFR-0113">Intangible
 Value</a></span><br />
@@ -381,7 +477,24 @@ Kim</a></em>)<br />
 [<a
 href="https://www.dropbox.com/s/nlw9pj10v7cjqpp/Intangible_Value.pdf?raw=1">Paper</a>]
 [<a href="https://github.com/papadimi/edwardtkim/intangiblevalue">Data
-and Code</a>]</p></li>
+and Code</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>Intangible assets are absent from traditional measures of value,
+despite their very large (and growing) importance in firms’ capital
+stocks. As a result, the fundamental anchor for value that uses book
+assets is mismeasured. We propose a simple improvement to the classic
+value factor (HMLFF) proposed by Fama and French (1992, 1993). Our
+intangible value factor, HMLINT, prices assets as well as or better than
+the traditional value factor but yields substantially higher returns.
+This outperformance holds over the entire sample, as well as in more
+recent decades in which value has underperformed. We show that this is
+likely due to the intangible value factor sorting more effectively on
+productivity, profitability, financial soundness, and on other valuation
+ratios such as price to earnings or price to sales.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.aeaweb.org/articles?id=10.1257/jep.36.3.29">The
 Economics of Intangible Capital</a></span><br />
@@ -393,9 +506,29 @@ Eberly</a>, and <a href="http://www.anderson.ucla.edu/x33175.xml">Andrea
 Eisfeldt</a></em>)<br />
 <em>Journal of Economic Perspectives, 2022, 36(3)</em><br />
 [<a
-href="https://www.aeaweb.org/articles?id=10.1257/jep.36.3.29">Paper</a>]<br />
+href="https://www.aeaweb.org/articles?id=10.1257/jep.36.3.29">Paper</a>]
 <a href="https://www.nber.org/papers/w30376">[Companion Paper: A Model
-of Intangible Capital]</a></p></li>
+of Intangible Capital]</a></p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>Intangible assets are a large and growing part of firms’ capital
+stocks. Intangibles are accumulated via investment–foregoing consumption
+today for output in the future—but they lack a physical presence. Rather
+than stopping with this “lack,” we instead focus on the positive
+properties of intangibles. Specifically, intangibles must be stored, so
+characteristics of the storage medium have important implications for
+their value and use. These properties include non-rivalry, allowing the
+intangible to be used simultaneously in different production streams,
+and limited excludability, which prevents the firm from capturing all
+the benefits or rents from the intangible. We develop these ideas in a
+simple way to illustrate how outcomes such as scalability and
+distribution of ownership follow. We discuss how intangibles can help to
+understand important trends in macroeconomics and finance, including
+productivity, factor shares, inequality, investment and valuation, rents
+and market power, and firm financing.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://doi.org/10.1093/rapstu/raab026">Working Remotely and the
 Supply-side Impact of Covid-19</a></span><br />
@@ -405,7 +538,22 @@ Schmidt</a></em>)<br />
 <em>Review of Asset Pricing Studies, 2022, 12(1)</em><br />
 [<a
 href="https://www.dropbox.com/s/v711g9jzdgz94wn/Covid19exposures.pdf?raw=1">Paper</a>]
-[<a href="https://www.thecovidfactor.org/">Data</a>]</p></li>
+[<a href="https://www.thecovidfactor.org/">Data</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We analyze the supply-side disruptions associated with COVID-19. We
+find that sectors in which a higher fraction of the workforce is not
+able to work remotely experienced greater declines in employment and
+expected revenue growth, worse stock market performance, and higher
+likelihood of default. The stock market overweights low-exposure
+industries. Thus, our findings cast light on the disconnect between
+stock market indices and aggregate outcomes. We combine these ex ante
+heterogeneous industry exposures with daily financial market data to
+create a stock return portfolio that tracks news about the supply-side
+disruptions resulting from the pandemic.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://academic.oup.com/rfs/article/35/2/636/6178014">Missing
 Novelty in Drug Development</a></span><br />
@@ -424,7 +572,22 @@ href="https://insight.kellogg.northwestern.edu/article/everyone-wants-pharmaceut
 Summary</a>] [<a
 href="https://www.dropbox.com/scl/fi/nebzxddi77hdda2shnm6z/drug_icd9_noveltyscores_KLP21.dta?rlkey=za4qdza0mv2s9ucd5f3gpnb1l&amp;raw=1">Data</a>],
 [<a
-href="https://www.dropbox.com/scl/fi/my5vuyywi4jwaizt9bj9s/Data_Overview_KLP_novelty.pdf?rlkey=w2t890ejljtvf9ihthks0y71m&amp;raw=1">Readme</a>]</p></li>
+href="https://www.dropbox.com/scl/fi/my5vuyywi4jwaizt9bj9s/Data_Overview_KLP_novelty.pdf?rlkey=w2t890ejljtvf9ihthks0y71m&amp;raw=1">Readme</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We provide evidence that risk aversion leads pharmaceutical firms to
+underinvest in radical innovation. We introduce a new measure of drug
+novelty based on chemical similarity and show that firms face a
+risk-reward trade-off: novel drug candidates are less likely to obtain
+FDA approval but are based on more valuable patents. Consistent with a
+simple model of costly external finance, we show that a positive shock
+to firms’ net worth leads firms to develop more novel drugs. This
+suggests that even large firms may behave as though they are risk
+averse, reducing their willingness to investment in potentially valuable
+radical innovation.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.aeaweb.org/articles?id=10.1257/aeri.20190499">Measuring
 Technological Innovation over the Long Run</a></span><br />
@@ -450,7 +613,28 @@ Kit</a>] [<a
 href="https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Replication-Kit">Replication
 Kit (GitHub)</a>] [<a
 href="https://www.dropbox.com/s/1lh1fxkgrwlvn6b/full_citations_combined_v2019-0305.zip?raw=1">Pairwise
-Citation Data</a>]</p></li>
+Citation Data</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We use textual analysis of high-dimensional data from patent
+documents to create new indicators of technological innovation. We
+identify important patents based on textual similarity of a given patent
+to previous and subsequent work: these patents are distinct from
+previous work but related to subsequent innovations. Our importance
+indicators correlate with existing measures of patent quality but also
+provide complementary information. We identify breakthrough innovations
+as the most important patents—those in the right tail of our measure—and
+construct time series indices of technological change at the aggregate
+and sectoral levels. Our technology indices capture the evolution of
+technological waves over a long time span (1840 to the present) and
+cover innovation by private and public firms as well as nonprofit
+organizations and the US government. Advances in electricity and
+transportation drive the index in the 1880s, chemicals and electricity
+in the 1920s and 1930s, and computers and communication in the
+post-1980s.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3545">Trust,
 Collaboration, and Economic Growth</a></span><br />
@@ -460,7 +644,27 @@ href="https://mitsloan.mit.edu/faculty/directory/danielle-li">Danielle
 Li</a></em>)<br />
 <em>Management Science, 2021, 67(3)</em><br />
 [<a
-href="https://www.dropbox.com/s/zhszlac6a01slac/KPcycles.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/zhszlac6a01slac/KPcycles.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We propose a macroeconomic model in which variation in the level of
+trust leads to higher innovation, investment, and productivity growth.
+The key feature in the model is a hold-up friction in the creation of
+new capital. Innovators generate ideas but are inefficient at
+implementing them into productive capital on their own. Firms can help
+innovators implement their ideas efficiently but cannot ex ante commit
+to compensating them appropriately. Rather, firms are disciplined only
+by the value of their reputations—the present value of their future
+partnerships. We model trust as a public signal and construct a
+correlated equilibrium. When trust is high, firms anticipate fruitful
+collaborations and thus can credibly commit to not expropriating
+inventors, leading to the more efficient production of new capital. Our
+model can be used to qualitatively replicate the empirical relation
+between measures of trust and investment, innovation, and productivity
+growth—at both the micro and macro level.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211104">Private
 and Social Returns to R&amp;D: Drug Development and
@@ -469,14 +673,28 @@ Demographics</a></span><br />
 href="https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx">Efraim
 Benmelech</a>, <a
 href="https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx">Janice
-C. Eberly</a>,<br />
-and <a
+C. Eberly</a>, and <a
 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435">Joshua
 Krieger</a></em>)<br />
 <em>American Economic Association, Papers and Proceedings,
 2021</em><br />
 [<a
-href="https://www.dropbox.com/s/sn71vwn3kxu1oq8/Aging_PP.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/sn71vwn3kxu1oq8/Aging_PP.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>Investment in intangible capital such as R&amp;D has increased
+dramatically since the 1990s. However, productivity growth remains
+sluggish in recent years. One potential reason is that a significant
+share of the increase in intangible investment is geared toward consumer
+products such as pharmaceutical drugs with limited spillovers to
+productivity. We document that a significant share of R&amp;D spending
+in the United States is done by pharmaceutical firms and geared to
+developing drugs for older patients. Increased life expectancy and
+quality of life for the elderly increases welfare but may not be
+reflected in estimates of total factor productivity.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.journals.uchicago.edu/doi/abs/10.1086/704619?journalCode=jpe">Left
 Behind: Creative Destruction, Inequality, and the Stock
@@ -496,7 +714,22 @@ href="https://www.dropbox.com/s/lc08uor7t8iosv0/erratum_v2020-04.pdf?raw=1">Erra
 href="https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks">Non-technical
 Summary</a>] [<a
 href="https://www.dropbox.com/s/05onvj5fa9av814/ReplicationCodeExport.zip?raw=1">Data
-and Code</a>]</p></li>
+and Code</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We develop a general equilibrium model of asset prices in which
+benefits of technological innovation are distributed asymmetrically.
+Financial market participants do not capture all economic gains from
+innovation even when they own shares in innovating firms. Such gains
+accrue partly to the innovators, who cannot sell claims on proceeds from
+their future ideas. We show how the resulting inequality among agents
+can give rise to a high risk premium on the aggregate stock market,
+return comovement and average return differences among firms, and the
+failure of traditional representative agent asset pricing models to
+account for cross-sectional differences in risk premia.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.annualreviews.org/doi/abs/10.1146/annurev-financial-110118-123049">Technological
 Innovation, Intangible Capital, and Asset Prices</a></span><br />
@@ -504,7 +737,22 @@ Innovation, Intangible Capital, and Asset Prices</a></span><br />
 Kogan</a></em>)<br />
 <em>Annual Review of Financial Economics, 2019, 11, 221–242</em><br />
 [<a
-href="https://www.annualreviews.org/doi/full/10.1146/annurev-financial-110118-123049">Paper</a>]</p></li>
+href="https://www.annualreviews.org/doi/full/10.1146/annurev-financial-110118-123049">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We review research on the asset pricing implications of models with
+innovation and intangible capital. In these models, technological
+innovation shocks propagate differently than standard total factor
+productivity shocks—and therefore have qualitatively distinct asset
+pricing implications. We discuss recent approaches to measuring
+intangible capital and innovation, many of which rely on the prices of
+financial securities. Last, we review models that explore the economic
+differences between intangible and innovation relative to other forms of
+investments—focusing on the role of human capital and cash-flow
+appropriability.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X19300388">Financial
 Frictions and Employment during the Great Depression</a></span><br />
@@ -517,7 +765,24 @@ Frydman</a></em>)<br />
 [<a
 href="https://www.dropbox.com/s/y9jxoaq00uutoto/GD_bfp.pdf?raw=1">Paper</a>]
 [<a href="https://www.dropbox.com/s/gtnboyrofznx3s3/GD_OA.pdf?raw=1">Web
-Appendix</a>]</p></li>
+Appendix</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We provide new evidence that a disruption in credit supply played a
+quantitatively significant role in the unprecedented contraction of
+employment during the Great Depression using a novel, hand-collected
+dataset of large industrial firms. Our identification strategy exploits
+preexisting variation in the need to raise external funds at a time when
+public bond markets essentially froze. Local bank failures inhibited
+firms’ ability to substitute public debt for private debt, which
+exacerbated financial constraints. We estimate a large and negative
+causal effect of financing frictions on firm employment. We find that
+the lack of access to credit likely accounted for a substantial fraction
+of the aggregate decline in employment of large firms between 1928 and
+1933.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X18301740">In
 Search of Ideas: Technological Innovation and Executive Pay
@@ -532,7 +797,24 @@ href="https://www.dropbox.com/s/7yp3a08l6bvjsa9/FP_executives.pdf?raw=1">Paper</
 href="https://www.dropbox.com/s/42oiy7hu6r0rm3q/WebAppendix_FP.pdf?raw=1">Web
 Appendix</a>] [<a
 href="https://insight.kellogg.northwestern.edu/article/technological-innovation-and-the-executive-pay-gap">Non-technical
-Summary</a>]</p></li>
+Summary</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We develop a general equilibrium model that delivers realistic
+fluctuations in pay inequality as a result of changes in the technology
+frontier. In our model, executives add value to the firm not only by
+participating in production decisions, as do other workers in the
+economy, but also by identifying new investment opportunities.
+Improvements in technology that are specific to new vintages of capital
+raise the return to managers’ skills for discovering new growth projects
+and, thus, increase the compensation of executives relative to workers
+and disparities in pay across executives. Our model implies that,
+controlling for firm size, compensation is higher in fast-growing firms
+and that pay inequality increases as investment opportunities in the
+economy improve. Both predictions are consistent with the data.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.pm-research.com/content/iijpormgmt/44/6/59">Equilibrium
 Analysis of Asset Prices: Lessons from CIR and APT</a></span><br />
@@ -540,7 +822,21 @@ Analysis of Asset Prices: Lessons from CIR and APT</a></span><br />
 Kogan</a></em>)<br />
 <em>Journal of Portfolio Management, 2018, 44(6)</em><br />
 [<a
-href="https://www.dropbox.com/s/se8s8kwwuan964j/JPM_final.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/se8s8kwwuan964j/JPM_final.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>The Cox, Ingersoll, and Ross (CIR) model proposed a framework for
+asset pricing in general equilibrium, introducing an explicit
+description of the macroeconomy into a model of financial markets. The
+research program started by CIR has been influential and remains highly
+relevant. In this article, the two authors, both doctoral students of
+Professor Stephen Ross and one later his colleague at MIT, summarize how
+the seminal contribution of CIR has seeded their own academic work, with
+a particular focus on equilibrium analysis of cross-sectional patterns
+in stock returns.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://doi.org/10.1093/qje/qjw040">Technological Innovation,
 Resource Allocation and Growth</a></span><br />
@@ -557,7 +853,28 @@ Appendix</a>] [<a
 href="https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Replication-Kit">Replication
 Kit</a>] [<a
 href="https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data">Data,
-updated</a>]</p></li>
+updated</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We propose a new measure of the economic importance of each
+innovation. Our measure uses newly collected data on patents issued to
+U.S. firms in the 1926 to 2010 period, combined with the stock market
+response to news about patents. Our patent-level estimates of private
+economic value are positively related to the scientific value of these
+patents, as measured by the number of citations the patent receives in
+the future. Our new measure is associated with substantial growth,
+reallocation, and creative destruction, consistent with the predictions
+of Schumpeterian growth models. Aggregating our measure suggests that
+technological innovation accounts for significant medium-run
+fluctuations in aggregate economic growth and TFP. Our measure contains
+additional information relative to citation-weighted patent counts; the
+relation between our measure and firm growth is considerably stronger.
+Importantly, the degree of creative destruction that is associated with
+our measure is higher than previous estimates, confirming that it is a
+useful proxy for the private valuation of patents.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X16000027">Adverse
 Selection, Slow Moving Capital and Misallocation</a></span><br />
@@ -566,7 +883,24 @@ href="https://sites.google.com/site/wfuchs/research">Willie
 Fuchs</a></em>)<br />
 <em>Journal of Financial Economics, 2016, 120(2)</em><br />
 [<a
-href="https://www.dropbox.com/s/ikdfg2y49cun68l/AdverseSelection.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/ikdfg2y49cun68l/AdverseSelection.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We embed adverse selection into a dynamic, general equilibrium model
+with heterogeneous capital and study its implications for aggregate
+dynamics. The friction leads to delays in firms’ divestment decisions
+and thus slow recoveries from shocks, even when these shocks do not
+affect the economy’s potential output. The impediments to reallocation
+increase with the dispersion in productivity and decrease with the
+interest rate, the frequency of sectoral shocks, and households’
+consumption smoothing motives. When households are risk averse, delaying
+reallocation serves as a hedge against future shocks, which can lead to
+persistent misallocation. Our model also provides a micro-foundation for
+convex adjustment costs and a link between the nature of these costs and
+the underlying economic environment.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.sciencedirect.com/science/article/abs/pii/S030439321500118X">Long-run
 Bulls and Bears</a></span><br />
@@ -577,7 +911,22 @@ href="http://www.kellogg.northwestern.edu/faculty/rebelo/htm/research.html">Serg
 Rebelo</a></em>)<br />
 <em>Journal of Monetary Economics, 2015, 76(S)</em><br />
 [<a
-href="https://www.dropbox.com/s/pesmr5uqw3wjt5y/BoomsBusts.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/pesmr5uqw3wjt5y/BoomsBusts.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>A central challenge in asset pricing is the weak connection between
+stock returns and observable economic fundamentals. We provide evidence
+that this connection is stronger than previously thought. We use a
+modified version of the Bry–Boschan algorithm to identify long-run
+swings in the stock market. We call these swings long-run bull and bear
+episodes. We find that there is a high correlation between stock returns
+and fundamentals across bull and bear episodes. This correlation is much
+higher than the analogous time-series correlations. We show that several
+asset pricing models cannot simultaneously account for the low
+time-series and high episode correlations.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://academic.oup.com/rof/article/19/6/2095/1576239">Financial
 Relationships and the Limits to Arbitrage</a></span><br />
@@ -585,7 +934,23 @@ Relationships and the Limits to Arbitrage</a></span><br />
 Kondo</a>)</em>)<br />
 <em>Review of Finance, 2015, 19(6)</em><br />
 [<a
-href="https://www.dropbox.com/s/4at4tr9ii6w5o4h/kplimits.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/4at4tr9ii6w5o4h/kplimits.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We propose a model of limited arbitrage based on financial
+relationships. Financially constrained arbitrageurs may choose to seek
+additional financing from banks that have the technology to profit from
+the strategies themselves. A holdup problem arises because banks cannot
+commit to providing capital. To minimize competition, arbitrageurs will
+choose to stay constrained and underinvest in the arbitrage unless banks
+have sufficient reputational capital. This problem arises when
+mispricing is largest. More competition among financiers, higher
+arbitrageur wealth, and allowing for explicit contracts can worsen the
+holdup problem. When arbitrage is risky, financial relationships are
+more valuable, mitigating the problem.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.1986">Portfolio
 Choice with Illiquid Assets</a></span><br />
@@ -595,7 +960,25 @@ Westerfield</a></em>)<br />
 <em>Management Science, 2014, 60(11)</em><br />
 <em>Winner of the 2011 Roger F. Murray Prize (Second Prize)</em><br />
 [<a
-href="https://www.dropbox.com/s/sg6ntkv7emfjp1w/APW-Liquidity.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/sg6ntkv7emfjp1w/APW-Liquidity.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We present a model of optimal allocation to liquid and illiquid
+assets, where illiquidity risk results from the restriction that an
+asset cannot be traded for intervals of uncertain duration. Illiquidity
+risk leads to increased and state-dependent risk aversion and reduces
+the allocation to both liquid and illiquid risky assets. Uncertainty
+about the length of the illiquidity interval, as opposed to a
+deterministic nontrading interval, is a primary determinant of the cost
+of illiquidity. We allow market liquidity to vary from “normal” periods,
+when all assets are fully liquid, to “illiquidity crises,” when some
+assets can only be traded infrequently. The possibility of a liquidity
+crisis leads to limited arbitrage in normal times. Investors are willing
+to forgo 2% of their wealth to hedge against illiquidity crises
+occurring once every 10 years.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://doi.org/10.1093/rfs/hht026">Firm Characteristics and Stock
 Returns: The Role of Investment-Specific Shocks</a></span><br />
@@ -606,7 +989,23 @@ Kogan</a></em>)<br />
 href="https://www.dropbox.com/s/vvmh7sue3lflkl1/FirmCharacteristics.pdf?raw=1">Paper</a>]
 [<a
 href="https://www.dropbox.com/s/jv0cqs6vvl44btn/FirmCharacteristics_APP.pdf?raw=1">Web
-Appendix</a>]</p></li>
+Appendix</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>Average return differences among firms sorted on valuation ratios,
+past investment, profitability, market beta, or idiosyncratic volatility
+are largely driven by differences in exposures of firms to the same
+systematic factor related to embodied technology shocks. Using a
+calibrated structural model, we show that these firm characteristics are
+correlated with the ratio of growth opportunities to firm value, which
+affects firms’ exposures to capital-embodied productivity shocks and
+risk premia. We thus provide a unified explanation for several apparent
+anomalies in the cross-section of stock returns—namely, predictability
+of returns by these firm characteristics and return comovement among
+firms with similar characteristics.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12136">Growth
 Opportunities, Technology Shocks and Asset Prices</a></span><br />
@@ -619,7 +1018,22 @@ Prize)</em><br />
 href="https://www.dropbox.com/s/k6v9v12gvqvybfh/GrowthOpt.pdf?raw=1">Paper</a>]
 [<a
 href="https://www.dropbox.com/s/bvi6epq0ai4asmq/GrowthOpt_APP.pdf?raw=1">Web
-Appendix</a>]</p></li>
+Appendix</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We explore the impact of investment-specific technology (IST) shocks
+on the cross section of stock returns. Using a structural model, we show
+that IST shocks have a differential effect on the value of assets in
+place and the value of growth opportunities. This differential
+sensitivity to IST shocks has two main implications. First, firm risk
+premia depend on the contribution of growth opportunities to firm value.
+Second, firms with similar levels of growth opportunities comove with
+each other, giving rise to the value factor in stock returns and the
+failure of the conditional CAPM. Our empirical tests confirm the model’s
+predictions.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.aeaweb.org/articles?id=10.1257/aer.104.5.189">The
 Value and Ownership of Intangible Capital</a></span><br />
@@ -627,7 +1041,21 @@ Value and Ownership of Intangible Capital</a></span><br />
 Eisfeldt</a></em>)<br />
 <em>American Economic Review P&amp;P, 2014</em><br />
 [<a
-href="https://www.dropbox.com/s/ieq5rciggs9q4w1/OrganizationCapital_PP.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/ieq5rciggs9q4w1/OrganizationCapital_PP.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>Intangible capital which relies on essential human inputs, or
+“organization capital,” presents a unique challenge for measurement.
+Organization capital cannot be fully owned by firms’ financiers, because
+it is partly embodied in key labor inputs. Instead, cash flows must be
+shared with key talent and thus neither book nor market values will
+fully capture its value. Measurement of organization capital requires a
+model featuring these unique property rights. We use accounting data
+along with a simple example of such a model to measure the fraction of
+the US capital stock which is missing from book and market values.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12034">Organization
 Capital and the Cross-Section of Expected Returns</a></span><br />
@@ -642,7 +1070,21 @@ href="https://www.dropbox.com/s/cgf6io9vmnddw50/OrganizationCapital.pdf?raw=1">P
 href="https://www.dropbox.com/s/fzbc12udrxa2g2x/OrganizationCapital_APP.pdf?raw=1">Web
 Appendix</a>] [<a
 href="https://www.dropbox.com/s/ffqfdt8vf9uwsk5/org%20cap%20replication%20and%20data%20update.zip?raw=1">Replication
-Kit</a>]</p></li>
+Kit</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>Organization capital is a production factor that is embodied in the
+firm’s key talent and has an efficiency that is firm specific. Hence,
+both shareholders and key talent have a claim to its cash flows. We
+develop a model in which the outside option of the key talent determines
+the share of firm cash flows that accrue to shareholders. This outside
+option varies systematically and renders firms with high organization
+capital riskier from shareholders’ perspective. We find that firms with
+more organization capital have average returns that are 4.6% higher than
+firms with less organization capital.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2012.01743.x">Investment,
 Idiosyncratic Risk, and Ownership</a></span><br />
@@ -654,7 +1096,22 @@ Panousi</a></em>)<br />
 href="https://www.dropbox.com/s/f8j4ea65rrbvzl2/PanPapPaper.pdf?raw=1">Paper</a>]
 [<a
 href="https://www.dropbox.com/s/r7ho15ivnty2ikr/PanPapWEBAPP.pdf?raw=1">Web
-Appendix</a>]</p></li>
+Appendix</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>High-powered incentives may induce higher managerial effort, but they
+also expose managers to idiosyncratic risk. If managers are risk averse,
+they might underinvest when firm-specific uncertainty increases, leading
+to suboptimal investment decisions from the perspective of
+well-diversified shareholders. We empirically document that, when
+idiosyncratic risk rises, firm investment falls, and more so when
+managers own a larger fraction of the firm. This negative effect of
+managerial risk aversion on investment is mitigated if executives are
+compensated with options rather than with shares or if institutional
+investors form a large part of the shareholder base.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.annualreviews.org/doi/10.1146/annurev-financial-110311-101731">Economic
 Activity of Firms and Asset Prices</a></span><br />
@@ -662,7 +1119,24 @@ Activity of Firms and Asset Prices</a></span><br />
 Kogan</a></em>)<br />
 <em>Annual Review of Financial Economics, 2012</em><br />
 [<a
-href="http://www.annualreviews.org/doi/pdf/10.1146/annurev-financial-110311-101731">Paper</a>]</p></li>
+href="http://www.annualreviews.org/doi/pdf/10.1146/annurev-financial-110311-101731">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>In this review we survey the recent research on the fundamental
+determinants of stock returns. These studies explore how firms’
+systematic risk and their investment and production decisions are
+jointly determined in equilibrium. Models with production provide
+insights into several types of empirical patterns, including (a) the
+correlations between firms’ economic characteristics and their risk
+premia, (b) the comovement of stock returns among firms with similar
+characteristics, and (c) the joint dynamics of asset returns and
+macroeconomic quantities. Moreover, by explicitly relating firms’ stock
+returns and cash flows to fundamental shocks, models with production
+connect the analysis of financial markets with the research on the
+origins of macroeconomic fluctuations.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.journals.uchicago.edu/doi/full/10.1086/662221">Investment
 Shocks and Asset Prices</a></span><br />
@@ -673,7 +1147,23 @@ href="https://www.dropbox.com/s/9p9l13xn7jjy3b4/InvTech.pdf?raw=1">Paper</a>]
 href="https://www.dropbox.com/s/ngcz00pakdzyzuk/InvTech_APP.pdf?raw=1">Web
 Appendix</a>] [<a
 href="https://www.dropbox.com/s/bxslpppa8h4fi8q/JPEFiles.zip?raw=1">Data
-and Code</a>]</p></li>
+and Code</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>I explore the implications for asset prices and macroeconomic
+dynamics of shocks that improve real investment opportunities and thus
+affect the representative household’s marginal utility. These investment
+shocks generate differences in risk premia due to their heterogeneous
+impact on firms: they benefit firms producing investment relative to
+firms producing consumption goods and increase the value of growth
+opportunities relative to the value of existing assets. Using data on
+asset returns, I find that a positive investment shock leads to high
+marginal utility states. A general equilibrium model with investment
+shocks matches key features of macroeconomic quantities and asset
+prices.</p>
+</details></li>
 <li><p><span class="pub-title"><a
 href="https://www.aeaweb.org/articles?id=10.1257/aer.100.2.532">Growth
 Opportunities and Technology Shocks</a></span><br />
@@ -681,7 +1171,15 @@ Opportunities and Technology Shocks</a></span><br />
 Kogan</a></em>)<br />
 <em>American Economic Review P&amp;P, 2010</em><br />
 [<a
-href="https://www.dropbox.com/s/2708ixm8ucdfq3s/GrowthOpt_PP.pdf?raw=1">Paper</a>]</p></li>
+href="https://www.dropbox.com/s/2708ixm8ucdfq3s/GrowthOpt_PP.pdf?raw=1">Paper</a>]</p>
+<details class="abstract">
+<summary>
+<p>Summary</p>
+</summary>
+<p>We propose a theoretically motivated procedure for measuring
+heterogeneity in firms’ growth opportunities and document its empirical
+properties.</p>
+</details></li>
 </ol>
 
 
