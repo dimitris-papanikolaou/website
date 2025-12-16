@@ -46,6 +46,14 @@ details.abstract {
 
 <br>
 
+1. <span class="pub-title">Winners and Losers: Competition, Creative Destruction, and Labor Income Risk</span>     
+   (*with [Brice Green](https://brice.green/), [Leonid Kogan](http://web.mit.edu/lkogan2/www/), and [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home)*)   
+   [[Paper](https://www.dropbox.com/scl/fi/07c86f5cb4ihywy220fu6/CreativeDestructionLabor.pdf?rlkey=0qebbedyqg3loip0a9ez9wqfe&raw=1) (ver. 12/2025)]
+<details class="abstract">
+  <summary>Summary</summary>
+  Using U.S. administrative data, we find that technology-driven creative destruction in the product market passes through to worker earnings. The passthrough to incumbent worker earnings is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earning declines and changes in the likelihood of job destruction than profit gains from their own firm's innovations, while top workers are significantly more exposed than the average worker.  We develop an endogenous-growth model with monopsonistic labor markets and worker heterogeneity that replicates this asymmetry and the distribution of earnings risk. Creative destruction exposes high-income workers to concentrated downside risk while offering lower-income workers upward mobility, shaping the welfare consequences of innovation policy.
+</details>
+
 1. <span class="pub-title">Artificial Intelligence and the Labor Market</span>     
 (*with [Menaka Hampole](https://www.menakahampole.com/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home), and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)  
    *Quarterly Journal of Economics, Revise and Resubmit*   
