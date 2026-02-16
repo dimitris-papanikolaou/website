@@ -1,0 +1,32 @@
+# Retirement wealth simulation parameters
+# Edit this file to change assumptions. One parameter per line: name = value
+# Lines starting with # and blank lines are ignored.
+
+# Savings and horizon
+X = 20000
+initial_savings = 0
+savings_growth_rate = 0
+start_age = 30
+retire_age = 65
+# Stock allocation: fraction in stocks = (stock_allocation_offset - age) / 100
+stock_allocation_offset = 140
+
+# Risk-free rate (decimal, e.g. 0.02 = 2%)
+r_f = 0.02
+
+# Stock return: r_t = x_t + e_t, with x_t AR(1): x_t = x_mean + phi*(x_{t-1} - x_mean) + eta_t
+# x_mean = unconditional equity premium (decimal)
+# phi = AR(1) persistence
+# sigma_eta = std of innovation eta_t
+# sigma_e = std of shock e_t
+# rho = correlation between eta_t and e_t (e.g. -0.75)
+x_mean = 0.05
+phi = 0.85
+sigma_eta = 0.023
+sigma_e = 0.20
+rho = -0.75
+
+# Simulation
+n_sim = 5000
+seed = 42
+# (use seed = none for different random draw each run)

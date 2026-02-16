@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Retirement Wealth Simulation</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    :root {
+      --bg: #f5f5f0;
+      --card: #fff;
+      --border: #ccc;
+      --accent: #2c5f7a;
+      --text: #222;
+      --muted: #666;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 1.5rem;
+      line-height: 1.5;
+    }
+    h1 { margin-top: 0; color: var(--accent); font-size: 1.5rem; }
+    section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+    }
+    section h2 {
+      margin: 0 0 1rem 0;
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+    .form-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: baseline;
+    }
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+      min-width: 140px;
+    }
+    .form-group label { font-size: 0.9rem; font-weight: 500; }
+    .form-group input {
+      padding: 0.4rem 0.5rem;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      font-size: 1rem;
+    }
+    .hint {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-top: 0.25rem;
+    }
+    .sim-params {
+      margin-top: 0.5rem;
+    }
+    .sim-params summary {
+      cursor: pointer;
+      font-weight: 500;
+      color: var(--accent);
+    }
+    .sim-params .form-row { margin-top: 0.75rem; }
+    button[type="submit"] {
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      padding: 0.6rem 1.2rem;
+      border-radius: 6px;
+      font-size: 1rem;
+      cursor: pointer;
+      margin-top: 0.5rem;
+    }
+    button[type="submit"]:hover { opacity: 0.9; }
+    button[type="submit"]:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+    #results { display: none; }
+    #results.visible { display: block; }
+    #results h2 { margin-bottom: 0.75rem; }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+    .stat-item {
+      background: var(--bg);
+      padding: 0.5rem 0.75rem;
+      border-radius: 4px;
+      font-size: 0.9rem;
+    }
+    .stat-item .label { color: var(--muted); }
+    .stat-item .value { font-weight: 600; }
+    .error {
+      background: #fdd;
+      color: #800;
+      padding: 0.5rem 0.75rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+    #chart-container { max-width: 640px; height: 320px; }
+  </style>
+</head>
+<body>
+  <h1>Retirement Wealth Simulation</h1>
+
+  <section>
+    <h2>Your plan</h2>
+    <form id="main-form">
+      <div class="form-row">
+        <div class="form-group">
+          <label for="start_age">Current age</label>
+          <input type="number" id="start_age" name="start_age" min="18" max="100" required>
+        </div>
+        <div class="form-group">
+          <label for="retire_age">Target retirement age</label>
+          <input type="number" id="retire_age" name="retire_age" min="25" max="100" required>
+        </div>
+        <div class="form-group">
+          <label for="X">Annual savings ($)</label>
+          <input type="number" id="X" name="X" min="0" step="1000" required>
+        </div>
+        <div class="form-group">
+          <label for="initial_savings">Initial savings ($)</label>
+          <input type="number" id="initial_savings" name="initial_savings" min="0" step="1000">
+        </div>
+        <div class="form-group">
+          <label for="savings_growth_rate">Savings growth per year (decimal, e.g. 0.02 = 2%)</label>
+          <input type="number" id="savings_growth_rate" name="savings_growth_rate" step="0.01" min="-0.5" placeholder="0">
+        </div>
+        <div class="form-group">
+          <label for="stock_allocation_offset">Stock allocation (X − age)</label>
+          <input type="number" id="stock_allocation_offset" name="stock_allocation_offset" min="0" max="200" required>
+          <span class="hint">Fraction in stocks = (this value − your age) / 100, capped between 0 and 100%.</span>
+        </div>
+      </div>
+
+      <details class="sim-params">
+        <summary>Simulation parameters</summary>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="r_f">Risk-free rate (decimal, e.g. 0.02 = 2%)</label>
+            <input type="number" id="r_f" name="r_f" step="0.001">
+          </div>
+          <div class="form-group">
+            <label for="x_mean">Equity premium (decimal)</label>
+            <input type="number" id="x_mean" name="x_mean" step="0.01">
+          </div>
+          <div class="form-group">
+            <label for="phi">AR(1) persistence (phi)</label>
+            <input type="number" id="phi" name="phi" step="0.01" min="-1" max="1">
+          </div>
+          <div class="form-group">
+            <label for="sigma_eta">Sigma eta (innovation std)</label>
+            <input type="number" id="sigma_eta" name="sigma_eta" step="0.001">
+          </div>
+          <div class="form-group">
+            <label for="sigma_e">Sigma e (return shock std)</label>
+            <input type="number" id="sigma_e" name="sigma_e" step="0.01">
+          </div>
+          <div class="form-group">
+            <label for="rho">Correlation (eta, e)</label>
+            <input type="number" id="rho" name="rho" step="0.01" min="-1" max="1">
+          </div>
+          <div class="form-group">
+            <label for="n_sim">Number of simulations</label>
+            <input type="number" id="n_sim" name="n_sim" min="1000" max="100000" step="1000">
+          </div>
+          <div class="form-group">
+            <label for="seed">Random seed (blank = different each run)</label>
+            <input type="text" id="seed" name="seed" placeholder="42 or leave blank">
+          </div>
+        </div>
+      </details>
+
+      <button type="submit" id="submit-btn">Run simulation</button>
+    </form>
+  </section>
+
+  <div id="results">
+    <section>
+      <h2>Summary statistics</h2>
+      <div class="stats-grid" id="stats-grid"></div>
+    </section>
+    <section>
+      <h2>Distribution of wealth at retirement</h2>
+      <div id="chart-container"><canvas id="chart"></canvas></div>
+    </section>
+  </div>
+
+  <div id="error" class="error" style="display: none;"></div>
+
+  <script>
+    const form = document.getElementById('main-form');
+    const submitBtn = document.getElementById('submit-btn');
+    const resultsEl = document.getElementById('results');
+    const statsGrid = document.getElementById('stats-grid');
+    const errorEl = document.getElementById('error');
+    let chartInstance = null;
+
+    // Fetch defaults and prefill form
+    async function loadDefaults() {
+      try {
+        const res = await fetch('/api/defaults');
+        if (!res.ok) throw new Error('Failed to load defaults');
+        const defaults = await res.json();
+        for (const [key, value] of Object.entries(defaults)) {
+          const input = form.elements[key];
+          if (input) {
+            if (value === null || value === undefined) input.value = '';
+            else input.value = value;
+          }
+        }
+      } catch (e) {
+        console.warn('Could not load defaults:', e);
+      }
+    }
+
+    function collectFormData() {
+      const data = {};
+      const entries = new FormData(form).entries();
+      const intKeys = ['start_age', 'retire_age', 'stock_allocation_offset', 'n_sim'];
+      const floatKeys = ['X', 'r_f', 'phi', 'sigma_eta', 'sigma_e', 'rho', 'x_mean', 'initial_savings', 'savings_growth_rate'];
+      for (const [key, value] of entries) {
+        if (value === '') {
+          if (key === 'seed') data[key] = null;
+          continue;
+        }
+        if (key === 'seed') {
+          const v = String(value).trim().toLowerCase();
+          data[key] = (v === 'none' || v === '') ? null : parseInt(value, 10);
+        } else if (intKeys.includes(key)) {
+          const n = parseInt(value, 10);
+          if (!Number.isNaN(n)) data[key] = n;
+        } else if (floatKeys.includes(key)) {
+          const n = parseFloat(value);
+          if (!Number.isNaN(n)) data[key] = n;
+        } else {
+          data[key] = value;
+        }
+      }
+      return data;
+    }
+
+    function formatMoney(n) {
+      return new Intl.NumberFormat('en-US', { maximumFractionDigits: 0 }).format(n);
+    }
+
+    function showError(msg) {
+      errorEl.textContent = msg;
+      errorEl.style.display = 'block';
+      resultsEl.classList.remove('visible');
+    }
+
+    function hideError() {
+      errorEl.style.display = 'none';
+    }
+
+    function renderStats(summary) {
+      const order = ['mean', 'median', 'std', 'min', 'max', 'p5', 'p25', 'p75', 'p95'];
+      const labels = {
+        mean: 'Mean',
+        median: 'Median',
+        std: 'Std dev',
+        min: 'Min',
+        max: 'Max',
+        p5: '5th %ile',
+        p25: '25th %ile',
+        p75: '75th %ile',
+        p95: '95th %ile',
+      };
+      statsGrid.innerHTML = order.map(k => `
+        <div class="stat-item">
+          <div class="label">${labels[k] || k}</div>
+          <div class="value">$${formatMoney(summary[k])}</div>
+        </div>
+      `).join('');
+    }
+
+    function renderHistogram(histogram) {
+      const { counts, edges } = histogram;
+      const labels = edges.slice(0, -1).map((e, i) => {
+        const a = edges[i];
+        const b = edges[i + 1];
+        return `$${formatMoney(a)}–${formatMoney(b)}`;
+      });
+      const ctx = document.getElementById('chart').getContext('2d');
+      if (chartInstance) chartInstance.destroy();
+      chartInstance = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [{
+            label: 'Count',
+            data: counts,
+            backgroundColor: 'rgba(44, 95, 122, 0.6)',
+            borderColor: 'rgba(44, 95, 122, 0.8)',
+            borderWidth: 1,
+          }],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+          },
+          scales: {
+            x: {
+              title: { display: true, text: 'Wealth at retirement' },
+              ticks: { maxTicksLimit: 12 },
+            },
+            y: {
+              title: { display: true, text: 'Count' },
+              beginAtZero: true,
+            },
+          },
+        },
+      });
+    }
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      hideError();
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Running simulation…';
+      try {
+        const body = collectFormData();
+        const res = await fetch('/api/run', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(body),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) {
+          showError(data.error || `Error ${res.status}`);
+          return;
+        }
+        renderStats(data.summary);
+        renderHistogram(data.histogram);
+        resultsEl.classList.add('visible');
+        resultsEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      } catch (err) {
+        showError(err.message || 'Network error');
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Run simulation';
+      }
+    });
+
+    loadDefaults();
+  </script>
+</body>
+</html>
