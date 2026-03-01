@@ -5,7 +5,7 @@
 .quarto
 r_lib
 *_files/
-
+theme-preview.html
 /.quarto/
 **/*.quarto_ipynb
 
