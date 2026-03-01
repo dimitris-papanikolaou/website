@@ -5,8 +5,27 @@ title: "Media"
 
 ## In the news
 
-- **Brookings podcast** — [What jobs will be most affected by AI?](https://www.brookings.edu/articles/what-jobs-will-be-most-affected-by-ai/) (technology and labor markets)
+- **Washington Post** — [Step aside Edison, Tesla and Bell: New measurement shows when U.S. inventors were most influential](https://www.washingtonpost.com/business/2018/11/27/is-third-wave-us-innovation-over-what-we-learned-measurement-americas-most-influential-inventions/) (2018). On measuring technological innovation over the long run—patents, breakthrough inventions, and the “third wave” of American innovation.
+- **Washington Post** — [Programming jobs are being lost to artificial intelligence](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/) (2025). On AI and labor market displacement.
+- **Brookings** — [What jobs will be most affected by AI?](https://www.brookings.edu/articles/what-jobs-will-be-most-affected-by-ai/) (podcast on technology and labor markets).
+- **Brookings** — [Technology and labor markets: Past, present, and future](https://www.brookings.edu/articles/technology-and-labor-markets-past-present-and-future/) (summary and context for the BPEA paper).
+- **NBER Digest** — [Technological advance and labor demand: Evidence from two centuries](https://www.nber.org/digest/202601/technological-advance-and-labor-demand-evidence-two-centuries) (2026). Non-technical summary of the technology-and-labor BPEA working paper.
+- **Barron's** — [What value investing strategies are missing](https://www.barrons.com/articles/what-value-investing-strategies-are-missing-51618427835). On intangibles and the value premium.
+- **AFA** — [Panel: AI and finance](https://www.youtube.com/watch?v=T-AyBUMcWeg) (American Finance Association, video).
+- **Video** — [Interview: Retirement Savings](https://www.youtube.com/watch?v=TJm_uf7tKgg).
+
+## Kellogg Insight
+
+Non-technical summaries of research (innovation, labor markets, asset prices, pharma):
+
+- [How much does innovation drive economic growth?](https://insight.kellogg.northwestern.edu/article/measuring-innovation-patents-productivity) — Measuring technological innovation with patents and productivity.
+- [Investors’ fear of missing out on disruptive technology leads to overvalued stocks](https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks) — The value premium puzzle and creative destruction (Left Behind).
+- [Everyone wants pharmaceutical breakthroughs. What drives drug companies to pursue them?](https://insight.kellogg.northwestern.edu/article/everyone-wants-pharmaceutical-breakthroughs-what-drives-drug-companies-to-pursue-them) — Missing novelty in drug development.
+- [Technological innovation and the executive pay gap](https://insight.kellogg.northwestern.edu/article/technological-innovation-and-the-executive-pay-gap) — In search of ideas: innovation and executive pay.
+- [When new technology arrives, who wins and who loses?](https://insight.kellogg.northwestern.edu/article/when-new-tech-arrives-who-wins-who-loses) — Technology exposure and labor market outcomes.
+- [Which workers suffer most when new technology arrives?](https://insight.kellogg.northwestern.edu/article/which-workers-suffer-most-when-new-technology-arrives) — Occupation-level exposure to technology over time.
+- [The AI tidal wave doesn’t have to drown workers](https://insight.kellogg.northwestern.edu/article/the-ai-tidal-wave-doesnt-have-to-drown-workers) — AI and the labor market.
 
 ## Research in plain language
 
-Key papers and non-technical summaries are linked from the [Publications](pub.qmd) and [Working Papers](wp.qmd) pages (e.g. "Non-technical Summary" and "Summary" links where available).
+Additional non-technical summaries and “Summary” links are on the [Publications](pub.qmd) and [Working Papers](wp.qmd) pages.
