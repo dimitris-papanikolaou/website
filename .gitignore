@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.quarto
+r_lib
+*_files/
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Large assets (keep links as Dropbox/OpenICPSR in publications; do not commit)
+/OldFiles/
+/assets/data/ReplicationCodeExport.zip
+/assets/papers/ReplicationCodeExport.zip
+/assets/data/KPST_Breakthrough_v201912.dta
+/assets/data/full_citations_combined_v2019-0305.zip
+/assets/data/JPEFiles.zip

@@ -1,0 +1,82 @@
+---
+title: "Working Papers"
+---
+
+<br>
+
+```{r}
+#| echo: false
+#| results: asis
+'%||%' <- function(a, b) if (is.null(a)) b else a
+suppressWarnings(suppressPackageStartupMessages(library(yaml)))
+pubs <- read_yaml("content/publications.yml")
+wps <- Filter(function(x) identical(x$type, "working_paper") && !isTRUE(x$dormant), pubs)
+dormant <- Filter(function(x) identical(x$type, "working_paper") && isTRUE(x$dormant), pubs)
+
+html_escape <- function(x) {
+  x <- gsub("&", "&amp;", x, fixed = TRUE)
+  x <- gsub("<", "&lt;", x, fixed = TRUE)
+  x <- gsub(">", "&gt;", x, fixed = TRUE)
+  x
+}
+
+render_entry <- function(p, num) {
+  if (nzchar(p$title_url %||% "")) {
+    title_html <- sprintf('<span class="pub-title"><a href="%s">%s</a></span>',
+      p$title_url, html_escape(p$title))
+  } else {
+    title_html <- sprintf('<span class="pub-title">%s</span>', html_escape(p$title))
+  }
+  cat(sprintf("\n%s. %s     \n", num, title_html))
+
+  auths <- p$authors %||% list()
+  if (length(auths) > 0) {
+    parts <- vapply(auths, function(a) {
+      if (nzchar(a$url %||% "")) {
+        sprintf('[%s](%s)', html_escape(a$name), a$url)
+      } else {
+        html_escape(a$name)
+      }
+    }, character(1))
+    cat(sprintf("   (*with %s*)   \n", paste(parts, collapse = ", ")))
+  }
+
+  if (!is.null(p$venue) && nzchar(p$venue)) {
+    cat(sprintf("   *%s*   \n", html_escape(p$venue)))
+  }
+
+  if (nzchar(p$notes %||% "")) {
+    cat(sprintf("   *%s*   \n", html_escape(p$notes)))
+  }
+
+  for (lnk in p$links %||% list()) {
+    text <- lnk$label
+    if (nzchar(lnk$suffix %||% "")) {
+      text <- paste0(text, lnk$suffix)
+    }
+    cat(sprintf("   [[%s](%s)]\n", text, lnk$url))
+  }
+
+  ab <- trimws(p$abstract %||% "")
+  if (nzchar(ab)) {
+    ab <- html_escape(ab)
+    cat(sprintf("   <details class=\"abstract\">\n  <summary>Summary</summary>\n %s\n</details>\n\n", ab))
+  }
+}
+
+for (i in seq_along(wps)) {
+  render_entry(wps[[i]], i)
+}
+```
+
+<br>
+
+## Dormant Working Papers
+
+```{r}
+#| echo: false
+#| results: asis
+for (i in seq_along(dormant)) {
+  render_entry(dormant[[i]], i)
+}
+```

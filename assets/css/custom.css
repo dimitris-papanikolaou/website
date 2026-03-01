@@ -1,0 +1,30 @@
+/* Shared publication and abstract styles (no body font-size override) */
+.pub-title {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+details.abstract {
+  margin-top: 0.5em;
+  margin-bottom: 1rem;
+}
+
+details.abstract summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+}
+
+details.abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+details.abstract summary::before {
+  content: "► ";
+  font-size: 0.9em;
+}
+
+details.abstract[open] summary::before {
+  content: "▼ ";
+}
+

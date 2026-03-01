@@ -1,0 +1,690 @@
+# Single source of truth for publications and working papers.
+# Rendered by pub.qmd (type: publication) and wp.qmd (type: working_paper; dormant: true for dormant section).
+
+- type: publication
+  title: Time-Varying Risk Premia and Heterogenous Labor Market Dynamics
+  authors:
+    - name: Maarten Meeuwis
+      url: https://www.maartenmeeuwis.com/
+    - name: Lawrence Schmidt
+      url: https://sites.google.com/site/lawrencedwschmidt/home
+    - name: Jonathan Rothbaum
+      url: https://sites.google.com/site/jlrothbaum/home?pli=1
+  venue: American Economic Review, Forthcoming
+  links:
+    - label: Paper
+      url: assets/papers/RiskPremia_Labor.pdf
+    - label: Slides
+      url: assets/slides/RiskPremia_Labor_Slides.pdf
+  abstract: |
+    Using U.S. administrative data on worker earnings, we show that increases in risk premia lead to
+    lower labor earnings, particularly for lower-paid workers. These declines are primarily driven
+    by job separations. We build an equilibrium model of labor market search that quantitatively
+    replicates the observed heterogeneity in labor market dynamics across worker earnings levels.
+    Our findings underscore the role of time-varying risk premia as a key driver of labor market
+    fluctuations and highlight the importance of both the job creation and the job destruction
+    margins in understanding the heterogeneity in worker outcomes over the business cycle.
+
+- type: publication
+  title: Natural Language Processing and Innovation Research
+  authors:
+    - name: Antonin Bergaud
+      url: https://sites.google.com/site/abergeaudeco
+    - name: Adam Jaffe
+      url: https://scholarworks.brandeis.edu/esploro/profile/adam_jaffe
+  venue: Annual Review of Economics, Volume 18, 2025
+  links:
+    - label: Paper
+      url: assets/papers/ARE_Innovation.pdf
+  abstract: |
+    Innovation is central to models in economics, strategy, management, and finance, yet it remains difficult to measure due to its intangible and knowledge-based nature. Recent advancements in Natural Language Processing offer new methods to analyze textual artifacts, providing empirical insights into previously hard-to-measure aspects of innovation. This paper provides an overview of the current applications of these methods in empirical innovation research, highlights their transformative potential for reshaping how researchers study and quantify innovation, and discusses the critical challenges that accompany their use.
+
+- type: publication
+  title: "Technology and Labor Markets: Past, Present, and Future, Evidence from Two Centuries of Innovation"
+  title_url: https://www.brookings.edu/events/bpea-fall-2025-conference/
+  authors:
+    - name: Huben Liu
+    - name: Lawrence Schmidt
+      url: https://sites.google.com/site/lawrencedwschmidt/home
+    - name: Bryan Seegmiller
+      url: https://mitsloan.mit.edu/phd/students/bryan-seegmiller
+  venue: Brookings Papers on Economic Activity, Fall 2025
+  links:
+    - label: Paper
+      url: assets/papers/TechnologyLaborLR.pdf
+    - label: Slides
+      url: assets/slides/TechnologyLaborLR_Slides.pdf
+    - label: Summary
+      url: https://www.brookings.edu/articles/technology-and-labor-markets-past-present-and-future/
+    - label: Video
+      url: https://www.youtube.com/watch?v=shHSyRJgDto
+    - label: Podcast
+      url: https://www.brookings.edu/articles/what-jobs-will-be-most-affected-by-ai/
+  abstract: |
+    We use recent advances in natural language processing and large language models to construct novel measures of technology exposure for workers that span almost two centuries. Combining our measures with Census data on occupation employment, we show that technological progress over the 20th century has led to economically meaningful shifts in labor demand across occupations: it has consistently increased demand for occupations with higher education requirements, occupations that pay higher wages, and occupations with a greater fraction of female workers. Using these insights and a calibrated model, we then explore different scenarios for how advances in artificial intelligence (AI) are likely to impact employment trends in the medium run. The model predicts a reversal of past trends, with AI favoring occupations that are lower-educated, lower-paid, and more male-dominated.
+
+- type: publication
+  title: "Measuring Document Similarity With Weighted Averages of Word Embeddings"
+  title_url: https://www.sciencedirect.com/science/article/abs/pii/S0014498322000729
+  authors:
+    - name: Lawrence Schmidt
+      url: https://sites.google.com/site/lawrencedwschmidt/home
+    - name: Bryan Seegmiller
+      url: https://mitsloan.mit.edu/phd/students/bryan-seegmiller
+  venue: Explorations in Economic History, 2023, 87
+  links:
+    - label: Paper
+      url: assets/papers/kps_eeh.pdf
+  abstract: |
+    We detail a methodology for estimating the textual similarity between two documents while
+    accounting for the possibility that two different words can have a similar meaning. We illustrate
+    the method's usefulness in facilitating comparisons between documents with very different formats
+    and vocabularies by textually linking occupation task and industry output descriptions with
+    related technologies as described in patent texts; we also examine economic applications of the
+    resultant document similarity measures. In a final application we demonstrate that the method
+    also works well relative to alternatives for comparing documents within the same domain by
+    showing that pairwise textual similarity between occupations' task descriptions strongly predicts
+    the probability that a given worker will transition from one occupation to another. Finally, we
+    offer some suggestions on other potential uses and guidance in implementing the method.
+
+- type: publication
+  title: Intangible Value
+  title_url: https://www.nowpublishers.com/article/Details/CFR-0113
+  authors:
+    - name: Andrea Eisfeldt
+      url: http://www.anderson.ucla.edu/x33175.xml
+    - name: Edward Kim
+      url: https://edwardtkim.github.io/
+  venue: Critical Finance Review, 2023, 11(2)
+  links:
+    - label: Paper
+      url: assets/papers/Intangible_Value.pdf
+    - label: Data and Code
+      url: https://github.com/edwardtkim/intangiblevalue
+  abstract: |
+    Intangible assets are absent from traditional measures of value, despite their
+    very large (and growing) importance in firms' capital stocks. As a result, the
+    fundamental anchor for value that uses book assets is mismeasured. We propose
+    a simple improvement to the classic value factor (HMLFF) proposed by Fama
+    and French (1992, 1993). Our intangible value factor, HMLINT, prices assets
+    as well as or better than the traditional value factor but yields substantially
+    higher returns. This outperformance holds over the entire sample, as well as in
+    more recent decades in which value has underperformed. We show that this is
+    likely due to the intangible value factor sorting more effectively on productivity,
+    profitability, financial soundness, and on other valuation ratios such as price to
+    earnings or price to sales.
+
+- type: publication
+  title: The Economics of Intangible Capital
+  title_url: https://www.aeaweb.org/articles?id=10.1257/jep.36.3.29
+  authors:
+    - name: Nicolas Crouzet
+      url: https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html
+    - name: Janice Eberly
+      url: https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx
+    - name: Andrea Eisfeldt
+      url: http://www.anderson.ucla.edu/x33175.xml
+  venue: Journal of Economic Perspectives, 2022, 36(3)
+  links:
+    - label: Paper
+      url: https://www.aeaweb.org/articles?id=10.1257/jep.36.3.29
+    - label: "Companion Paper: A Model of Intangible Capital"
+      url: https://www.nber.org/papers/w30376
+  abstract: |
+    Intangible assets are a large and growing part of firms' capital stocks. Intangibles are accumulated via investment--foregoing consumption today for output in the future—but they lack a physical presence. Rather than stopping with this "lack," we instead focus on the positive properties of intangibles. Specifically, intangibles must be stored, so characteristics of the storage medium have important implications for their value and use. These properties include non-rivalry, allowing the intangible to be used simultaneously in different production streams, and limited excludability, which prevents the firm from capturing all the benefits or rents from the intangible. We develop these ideas in a simple way to illustrate how outcomes such as scalability and distribution of ownership follow. We discuss how intangibles can help to understand important trends in macroeconomics and finance, including productivity, factor shares, inequality, investment and valuation, rents and market power, and firm financing.
+
+- type: publication
+  title: Working Remotely and the Supply-side Impact of Covid-19
+  title_url: https://doi.org/10.1093/rapstu/raab026
+  authors:
+    - name: Lawrence Schmidt
+      url: https://sites.google.com/site/lawrencedwschmidt/home
+  venue: Review of Asset Pricing Studies, 2022, 12(1)
+  links:
+    - label: Paper
+      url: assets/papers/Covid19exposures.pdf
+    - label: Data
+      url: https://www.thecovidfactor.org/
+  abstract: |
+    We analyze the supply-side disruptions associated with COVID-19. We find that sectors in which a higher fraction of the workforce is not able to work remotely experienced greater declines in employment and expected revenue growth, worse stock market performance, and higher likelihood of default. The stock market overweights low-exposure industries. Thus, our findings cast light on the disconnect between stock market indices and aggregate outcomes. We combine these ex ante heterogeneous industry exposures with daily financial market data to create a stock return portfolio that tracks news about the supply-side disruptions resulting from the pandemic.
+
+- type: publication
+  title: Missing Novelty in Drug Development
+  title_url: https://academic.oup.com/rfs/article/35/2/636/6178014
+  authors:
+    - name: Danielle Li
+      url: https://mitsloan.mit.edu/faculty/directory/danielle-li
+    - name: Joshua Krieger
+      url: https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435
+  venue: Review of Financial Studies, 2022, 35(2)
+  notes: Winner of the 2017 Red Rock Conference and 2018 LBS Summer Finance Symposium Best Paper Awards
+  links:
+    - label: Paper
+      url: assets/papers/DevelopingNovelDrugs.pdf
+    - label: Non-technical Summary
+      url: https://insight.kellogg.northwestern.edu/article/everyone-wants-pharmaceutical-breakthroughs-what-drives-drug-companies-to-pursue-them
+    - label: Data
+      url: https://www.dropbox.com/scl/fi/nebzxddi77hdda2shnm6z/drug_icd9_noveltyscores_KLP21.dta?rlkey=za4qdza0mv2s9ucd5f3gpnb1l&raw=1
+    - label: Readme
+      url: https://www.dropbox.com/scl/fi/my5vuyywi4jwaizt9bj9s/Data_Overview_KLP_novelty.pdf?rlkey=w2t890ejljtvf9ihthks0y71m&raw=1
+  abstract: |
+    We provide evidence that risk aversion leads pharmaceutical firms to underinvest in radical innovation. We introduce a new measure of drug novelty based on chemical similarity and show that firms face a risk-reward trade-off: novel drug candidates are less likely to obtain FDA approval but are based on more valuable patents. Consistent with a simple model of costly external finance, we show that a positive shock to firms' net worth leads firms to develop more novel drugs. This suggests that even large firms may behave as though they are risk averse, reducing their willingness to investment in potentially valuable radical innovation.
+
+- type: publication
+  title: Measuring Technological Innovation over the Long Run
+  title_url: https://www.aeaweb.org/articles?id=10.1257/aeri.20190499
+  authors:
+    - name: Bryan Kelly
+      url: http://faculty.chicagobooth.edu/bryan.kelly/
+    - name: Amit Seru
+      url: https://people.stanford.edu/aseru/
+    - name: Matt Taddy
+  venue: "American Economic Review: Insights, 2021, 3(3)"
+  links:
+    - label: Accepted Version
+      url: assets/papers/MeasuringInnovationLR_AERI.pdf
+    - label: Working Paper Version
+      url: assets/papers/MeasuringInnovationLR.pdf
+    - label: Non-technical Summary
+      url: https://insight.kellogg.northwestern.edu/article/measuring-innovation-patents-productivity
+    - label: Media Coverage
+      url: https://www.washingtonpost.com/business/2018/11/27/is-third-wave-us-innovation-over-what-we-learned-measurement-americas-most-influential-inventions/
+    - label: Patent-level metrics
+      url: https://www.openicpsr.org/openicpsr/project/119043/version/V1/view
+    - label: Time-Series data
+      url: https://www.openicpsr.org/openicpsr/project/119043/version/V1/view
+    - label: Replication Kit
+      url: https://www.openicpsr.org/openicpsr/project/119043/version/V1/view
+    - label: "Replication Kit (GitHub)"
+      url: https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Replication-Kit
+    - label: Pairwise Citation Data
+      url: https://www.dropbox.com/scl/fi/1m96czhofv825jc4mnqgs/full_citations_combined_v2019-0305.zip?rlkey=bu0h7ro56je2y0vsfytq9dnbf&raw=1
+  abstract: |
+    We use textual analysis of high-dimensional data from patent documents to create new indicators of technological innovation. We identify important patents based on textual similarity of a given patent to previous and subsequent work: these patents are distinct from previous work but related to subsequent innovations. Our importance indicators correlate with existing measures of patent quality but also provide complementary information. We identify breakthrough innovations as the most important patents—those in the right tail of our measure—and construct time series indices of technological change at the aggregate and sectoral levels. Our technology indices capture the evolution of technological waves over a long time span (1840 to the present) and cover innovation by private and public firms as well as nonprofit organizations and the US government. Advances in electricity and transportation drive the index in the 1880s, chemicals and electricity in the 1920s and 1930s, and computers and communication in the post-1980s.
+
+- type: publication
+  title: Trust, Collaboration, and Economic Growth
+  title_url: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3545
+  authors:
+    - name: Jiro E. Kondo
+      url: http://people.mcgill.ca/jiro.kondo/
+    - name: Danielle Li
+      url: https://mitsloan.mit.edu/faculty/directory/danielle-li
+  venue: Management Science, 2021, 67(3)
+  links:
+    - label: Paper
+      url: assets/papers/KPcycles.pdf
+  abstract: |
+    We propose a macroeconomic model in which variation in the level of trust leads to higher innovation, investment, and productivity growth. The key feature in the model is a hold-up friction in the creation of new capital. Innovators generate ideas but are inefficient at implementing them into productive capital on their own. Firms can help innovators implement their ideas efficiently but cannot ex ante commit to compensating them appropriately. Rather, firms are disciplined only by the value of their reputations—the present value of their future partnerships. We model trust as a public signal and construct a correlated equilibrium. When trust is high, firms anticipate fruitful collaborations and thus can credibly commit to not expropriating inventors, leading to the more efficient production of new capital. Our model can be used to qualitatively replicate the empirical relation between measures of trust and investment, innovation, and productivity growth—at both the micro and macro level.
+
+- type: publication
+  title: "Private and Social Returns to R&D: Drug Development and Demographics"
+  title_url: https://www.aeaweb.org/articles?id=10.1257/pandp.20211104
+  authors:
+    - name: Efraim Benmelech
+      url: https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx
+    - name: Janice C. Eberly
+      url: https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx
+    - name: Joshua Krieger
+      url: https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435
+  venue: American Economic Association, Papers and Proceedings, 2021
+  links:
+    - label: Paper
+      url: assets/papers/Aging_PP.pdf
+  abstract: |
+    Investment in intangible capital such as R&D has increased dramatically since the 1990s. However, productivity growth remains sluggish in recent years. One potential reason is that a significant share of the increase in intangible investment is geared toward consumer products such as pharmaceutical drugs with limited spillovers to productivity. We document that a significant share of R&D spending in the United States is done by pharmaceutical firms and geared to developing drugs for older patients. Increased life expectancy and quality of life for the elderly increases welfare but may not be reflected in estimates of total factor productivity.
+
+- type: publication
+  title: "Left Behind: Creative Destruction, Inequality, and the Stock Market"
+  title_url: https://www.journals.uchicago.edu/doi/abs/10.1086/704619?journalCode=jpe
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+    - name: Noah Stoffman
+      url: http://kelley.iu.edu/nstoffma/
+  venue: Journal of Political Economy, 2020, 128(3)
+  links:
+    - label: Paper
+      url: assets/papers/KPS_GE.pdf
+    - label: Slides
+      url: assets/slides/KPS_GE_slides.pdf
+    - label: Web Appendix
+      url: assets/papers/WebAppendix_KPS.pdf
+    - label: Erratum
+      url: assets/papers/erratum_v2020-04.pdf
+    - label: Non-technical Summary
+      url: https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks
+    - label: Data and Code
+      url: https://www.dropbox.com/s/05onvj5fa9av814/ReplicationCodeExport.zip?raw=1
+  abstract: |
+    We develop a general equilibrium model of asset prices in which benefits of technological innovation are distributed asymmetrically. Financial market participants do not capture all economic gains from innovation even when they own shares in innovating firms. Such gains accrue partly to the innovators, who cannot sell claims on proceeds from their future ideas. We show how the resulting inequality among agents can give rise to a high risk premium on the aggregate stock market, return comovement and average return differences among firms, and the failure of traditional representative agent asset pricing models to account for cross-sectional differences in risk premia.
+
+- type: publication
+  title: Technological Innovation, Intangible Capital, and Asset Prices
+  title_url: https://www.annualreviews.org/doi/abs/10.1146/annurev-financial-110118-123049
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+  venue: Annual Review of Financial Economics, 2019, 11, 221–242
+  links:
+    - label: Paper
+      url: https://www.annualreviews.org/doi/full/10.1146/annurev-financial-110118-123049
+  abstract: |
+    We review research on the asset pricing implications of models with innovation and intangible capital. In these models, technological innovation shocks propagate differently than standard total factor productivity shocks—and therefore have qualitatively distinct asset pricing implications. We discuss recent approaches to measuring intangible capital and innovation, many of which rely on the prices of financial securities. Last, we review models that explore the economic differences between intangible and innovation relative to other forms of investments—focusing on the role of human capital and cash-flow appropriability.
+
+- type: publication
+  title: Financial Frictions and Employment during the Great Depression
+  title_url: https://www.sciencedirect.com/science/article/abs/pii/S0304405X19300388
+  authors:
+    - name: Efraim Benmelech
+      url: https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx
+    - name: Carola Frydman
+      url: http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx
+  venue: Journal of Financial Economics, 2019, 133(3)
+  links:
+    - label: Paper
+      url: assets/papers/GD_bfp.pdf
+    - label: Web Appendix
+      url: assets/papers/GD_OA.pdf
+  abstract: |
+    We provide new evidence that a disruption in credit supply played a quantitatively significant role in the unprecedented contraction of employment during the Great Depression using a novel, hand-collected dataset of large industrial firms. Our identification strategy exploits preexisting variation in the need to raise external funds at a time when public bond markets essentially froze. Local bank failures inhibited firms' ability to substitute public debt for private debt, which exacerbated financial constraints. We estimate a large and negative causal effect of financing frictions on firm employment. We find that the lack of access to credit likely accounted for a substantial fraction of the aggregate decline in employment of large firms between 1928 and 1933.
+
+- type: publication
+  title: "In Search of Ideas: Technological Innovation and Executive Pay Inequality"
+  title_url: https://www.sciencedirect.com/science/article/abs/pii/S0304405X18301740
+  authors:
+    - name: Carola Frydman
+      url: http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx
+  venue: Journal of Financial Economics, 2018, 130(1)
+  links:
+    - label: Paper
+      url: assets/papers/FP_executives.pdf
+    - label: Web Appendix
+      url: assets/papers/WebAppendix_FP.pdf
+    - label: Non-technical Summary
+      url: https://insight.kellogg.northwestern.edu/article/technological-innovation-and-the-executive-pay-gap
+  abstract: |
+    We develop a general equilibrium model that delivers realistic fluctuations in pay inequality as a result of changes in the technology frontier. In our model, executives add value to the firm not only by participating in production decisions, as do other workers in the economy, but also by identifying new investment opportunities. Improvements in technology that are specific to new vintages of capital raise the return to managers' skills for discovering new growth projects and, thus, increase the compensation of executives relative to workers and disparities in pay across executives. Our model implies that, controlling for firm size, compensation is higher in fast-growing firms and that pay inequality increases as investment opportunities in the economy improve. Both predictions are consistent with the data.
+
+- type: publication
+  title: "Equilibrium Analysis of Asset Prices: Lessons from CIR and APT"
+  title_url: https://www.pm-research.com/content/iijpormgmt/44/6/59
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+  venue: Journal of Portfolio Management, 2018, 44(6)
+  links:
+    - label: Paper
+      url: assets/papers/JPM_final.pdf
+  abstract: |
+    The Cox, Ingersoll, and Ross (CIR) model proposed a framework for asset pricing in general equilibrium, introducing an explicit description of the macroeconomy into a model of financial markets. The research program started by CIR has been influential and remains highly relevant. In this article, the two authors, both doctoral students of Professor Stephen Ross and one later his colleague at MIT, summarize how the seminal contribution of CIR has seeded their own academic work, with a particular focus on equilibrium analysis of cross-sectional patterns in stock returns.
+
+- type: publication
+  title: Technological Innovation, Resource Allocation and Growth
+  title_url: https://doi.org/10.1093/qje/qjw040
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+    - name: Amit Seru
+      url: https://people.stanford.edu/aseru/
+    - name: Noah Stoffman
+      url: http://kelley.iu.edu/nstoffma/
+  venue: Quarterly Journal of Economics, 2017, 132(2)
+  notes: Winner of Crowell Memorial Prize (second place)
+  links:
+    - label: Paper
+      url: assets/papers/KPSS_patents.pdf
+    - label: Web Appendix
+      url: assets/papers/KPSS_patents_APP.pdf
+    - label: Replication Kit
+      url: https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Replication-Kit
+    - label: Data, updated
+      url: https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data
+  abstract: |
+    We propose a new measure of the economic importance of each innovation. Our measure uses newly collected data on patents issued to U.S. firms in the 1926 to 2010 period, combined with the stock market response to news about patents. Our patent-level estimates of private economic value are positively related to the scientific value of these patents, as measured by the number of citations the patent receives in the future. Our new measure is associated with substantial growth, reallocation, and creative destruction, consistent with the predictions of Schumpeterian growth models. Aggregating our measure suggests that technological innovation accounts for significant medium-run fluctuations in aggregate economic growth and TFP. Our measure contains additional information relative to citation-weighted patent counts; the relation between our measure and firm growth is considerably stronger. Importantly, the degree of creative destruction that is associated with our measure is higher than previous estimates, confirming that it is a useful proxy for the private valuation of patents.
+
+- type: publication
+  title: Adverse Selection, Slow Moving Capital and Misallocation
+  title_url: https://www.sciencedirect.com/science/article/abs/pii/S0304405X16000027
+  authors:
+    - name: Brett Green
+      url: https://www.brettgreen.info/
+    - name: Willie Fuchs
+      url: https://sites.google.com/site/wfuchs/research
+  venue: Journal of Financial Economics, 2016, 120(2)
+  links:
+    - label: Paper
+      url: assets/papers/AdverseSelection.pdf
+  abstract: |
+    We embed adverse selection into a dynamic, general equilibrium model with heterogeneous capital and study its implications for aggregate dynamics. The friction leads to delays in firms' divestment decisions and thus slow recoveries from shocks, even when these shocks do not affect the economy's potential output. The impediments to reallocation increase with the dispersion in productivity and decrease with the interest rate, the frequency of sectoral shocks, and households' consumption smoothing motives. When households are risk averse, delaying reallocation serves as a hedge against future shocks, which can lead to persistent misallocation. Our model also provides a micro-foundation for convex adjustment costs and a link between the nature of these costs and the underlying economic environment.
+
+- type: publication
+  title: Long-run Bulls and Bears
+  title_url: https://www.sciencedirect.com/science/article/abs/pii/S030439321500118X
+  authors:
+    - name: Rui Albuquerque
+      url: http://ruialbuquerque.webs.com/
+    - name: Martin Eichenbaum
+      url: http://faculty.wcas.northwestern.edu/~yona/
+    - name: Sergio Rebelo
+      url: http://www.kellogg.northwestern.edu/faculty/rebelo/htm/research.html
+  venue: Journal of Monetary Economics, 2015, 76(S)
+  links:
+    - label: Paper
+      url: assets/papers/BoomsBusts.pdf
+  abstract: |
+    A central challenge in asset pricing is the weak connection between stock returns and observable economic fundamentals. We provide evidence that this connection is stronger than previously thought. We use a modified version of the Bry–Boschan algorithm to identify long-run swings in the stock market. We call these swings long-run bull and bear episodes. We find that there is a high correlation between stock returns and fundamentals across bull and bear episodes. This correlation is much higher than the analogous time-series correlations. We show that several asset pricing models cannot simultaneously account for the low time-series and high episode correlations.
+
+- type: publication
+  title: Financial Relationships and the Limits to Arbitrage
+  title_url: https://academic.oup.com/rof/article/19/6/2095/1576239
+  authors:
+    - name: Jiro E. Kondo
+      url: https://sites.google.com/site/jiroekondo/
+  venue: Review of Finance, 2015, 19(6)
+  links:
+    - label: Paper
+      url: assets/papers/kplimits.pdf
+  abstract: |
+    We propose a model of limited arbitrage based on financial relationships. Financially constrained arbitrageurs may choose to seek additional financing from banks that have the technology to profit from the strategies themselves. A holdup problem arises because banks cannot commit to providing capital. To minimize competition, arbitrageurs will choose to stay constrained and underinvest in the arbitrage unless banks have sufficient reputational capital. This problem arises when mispricing is largest. More competition among financiers, higher arbitrageur wealth, and allowing for explicit contracts can worsen the holdup problem. When arbitrage is risky, financial relationships are more valuable, mitigating the problem.
+
+- type: publication
+  title: Portfolio Choice with Illiquid Assets
+  title_url: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.1986
+  authors:
+    - name: Andrew Ang
+      url: http://www.columbia.edu/~aa610/
+    - name: Mark Westerfield
+      url: http://www.markwesterfield.com/
+  venue: Management Science, 2014, 60(11)
+  notes: Winner of the 2011 Roger F. Murray Prize (Second Prize)
+  links:
+    - label: Paper
+      url: assets/papers/APW-Liquidity.pdf
+  abstract: |
+    We present a model of optimal allocation to liquid and illiquid assets, where illiquidity risk results from the restriction that an asset cannot be traded for intervals of uncertain duration. Illiquidity risk leads to increased and state-dependent risk aversion and reduces the allocation to both liquid and illiquid risky assets. Uncertainty about the length of the illiquidity interval, as opposed to a deterministic nontrading interval, is a primary determinant of the cost of illiquidity. We allow market liquidity to vary from "normal" periods, when all assets are fully liquid, to "illiquidity crises," when some assets can only be traded infrequently. The possibility of a liquidity crisis leads to limited arbitrage in normal times. Investors are willing to forgo 2% of their wealth to hedge against illiquidity crises occurring once every 10 years.
+
+- type: publication
+  title: "Firm Characteristics and Stock Returns: The Role of Investment-Specific Shocks"
+  title_url: https://doi.org/10.1093/rfs/hht026
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+  venue: Review of Financial Studies, 2013, 26(11)
+  links:
+    - label: Paper
+      url: assets/papers/FirmCharacteristics.pdf
+    - label: Web Appendix
+      url: assets/papers/FirmCharacteristics_APP.pdf
+  abstract: |
+    Average return differences among firms sorted on valuation ratios, past investment, profitability, market beta, or idiosyncratic volatility are largely driven by differences in exposures of firms to the same systematic factor related to embodied technology shocks. Using a calibrated structural model, we show that these firm characteristics are correlated with the ratio of growth opportunities to firm value, which affects firms' exposures to capital-embodied productivity shocks and risk premia. We thus provide a unified explanation for several apparent anomalies in the cross-section of stock returns—namely, predictability of returns by these firm characteristics and return comovement among firms with similar characteristics.
+
+- type: publication
+  title: Growth Opportunities, Technology Shocks and Asset Prices
+  title_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12136
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+  venue: Journal of Finance, 2014, 69(2)
+  notes: Winner of the 2014 Amundi Smith Breeden Prize (First Prize)
+  links:
+    - label: Paper
+      url: assets/papers/GrowthOpt.pdf
+    - label: Web Appendix
+      url: assets/papers/GrowthOpt_APP.pdf
+  abstract: |
+    We explore the impact of investment-specific technology (IST) shocks on the cross section of stock returns. Using a structural model, we show that IST shocks have a differential effect on the value of assets in place and the value of growth opportunities. This differential sensitivity to IST shocks has two main implications. First, firm risk premia depend on the contribution of growth opportunities to firm value. Second, firms with similar levels of growth opportunities comove with each other, giving rise to the value factor in stock returns and the failure of the conditional CAPM. Our empirical tests confirm the model's predictions.
+
+- type: publication
+  title: The Value and Ownership of Intangible Capital
+  title_url: https://www.aeaweb.org/articles?id=10.1257/aer.104.5.189
+  authors:
+    - name: Andrea Eisfeldt
+      url: http://www.anderson.ucla.edu/x33175.xml
+  venue: American Economic Review P&P, 2014
+  links:
+    - label: Paper
+      url: assets/papers/OrganizationCapital_PP.pdf
+  abstract: |
+    Intangible capital which relies on essential human inputs, or "organization capital," presents a unique challenge for measurement. Organization capital cannot be fully owned by firms' financiers, because it is partly embodied in key labor inputs. Instead, cash flows must be shared with key talent and thus neither book nor market values will fully capture its value. Measurement of organization capital requires a model featuring these unique property rights. We use accounting data along with a simple example of such a model to measure the fraction of the US capital stock which is missing from book and market values.
+
+- type: publication
+  title: Organization Capital and the Cross-Section of Expected Returns
+  title_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12034
+  authors:
+    - name: Andrea Eisfeldt
+      url: http://www.anderson.ucla.edu/x33175.xml
+  venue: Journal of Finance, 2013, 68(4)
+  notes: Winner of the 2013 Amundi Smith Breeden Prize (First Prize)
+  links:
+    - label: Paper
+      url: assets/papers/OrganizationCapital.pdf
+    - label: Web Appendix
+      url: assets/papers/OrganizationCapital_APP.pdf
+    - label: Replication Kit
+      url: https://www.dropbox.com/s/ffqfdt8vf9uwsk5/org%20cap%20replication%20and%20data%20update.zip?raw=1
+  abstract: |
+    Organization capital is a production factor that is embodied in the firm's key talent and has an efficiency that is firm specific. Hence, both shareholders and key talent have a claim to its cash flows. We develop a model in which the outside option of the key talent determines the share of firm cash flows that accrue to shareholders. This outside option varies systematically and renders firms with high organization capital riskier from shareholders' perspective. We find that firms with more organization capital have average returns that are 4.6% higher than firms with less organization capital.
+
+- type: publication
+  title: Investment, Idiosyncratic Risk, and Ownership
+  title_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2012.01743.x
+  authors:
+    - name: Vasia Panousi
+      url: http://www.federalreserve.gov/econresdata/vasia-panousi.htm
+  venue: Journal of Finance, 2012, 67(3)
+  links:
+    - label: Paper
+      url: assets/papers/PanPapPaper.pdf
+    - label: Web Appendix
+      url: assets/papers/PanPapWEBAPP.pdf
+  abstract: |
+    High-powered incentives may induce higher managerial effort, but they also expose managers to idiosyncratic risk. If managers are risk averse, they might underinvest when firm-specific uncertainty increases, leading to suboptimal investment decisions from the perspective of well-diversified shareholders. We empirically document that, when idiosyncratic risk rises, firm investment falls, and more so when managers own a larger fraction of the firm. This negative effect of managerial risk aversion on investment is mitigated if executives are compensated with options rather than with shares or if institutional investors form a large part of the shareholder base.
+
+- type: publication
+  title: Economic Activity of Firms and Asset Prices
+  title_url: https://www.annualreviews.org/doi/10.1146/annurev-financial-110311-101731
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+  venue: Annual Review of Financial Economics, 2012
+  links:
+    - label: Paper
+      url: http://www.annualreviews.org/doi/pdf/10.1146/annurev-financial-110311-101731
+  abstract: |
+    In this review we survey the recent research on the fundamental determinants of stock returns. These studies explore how firms' systematic risk and their investment and production decisions are jointly determined in equilibrium. Models with production provide insights into several types of empirical patterns, including (a) the correlations between firms' economic characteristics and their risk premia, (b) the comovement of stock returns among firms with similar characteristics, and (c) the joint dynamics of asset returns and macroeconomic quantities. Moreover, by explicitly relating firms' stock returns and cash flows to fundamental shocks, models with production connect the analysis of financial markets with the research on the origins of macroeconomic fluctuations.
+
+- type: publication
+  title: Investment Shocks and Asset Prices
+  title_url: https://www.journals.uchicago.edu/doi/full/10.1086/662221
+  authors: []
+  venue: Journal of Political Economy, 2011
+  links:
+    - label: Paper
+      url: assets/papers/InvTech.pdf
+    - label: Web Appendix
+      url: assets/papers/InvTech_APP.pdf
+    - label: Data and Code
+      url: https://www.dropbox.com/scl/fi/u50pe7fead167etrrp1d2/JPEFiles.zip?rlkey=tpiis6xj6x9bscvurvuffuptg&raw=1
+  abstract: |
+    I explore the implications for asset prices and macroeconomic dynamics of shocks that improve real investment opportunities and thus affect the representative household's marginal utility. These investment shocks generate differences in risk premia due to their heterogeneous impact on firms: they benefit firms producing investment relative to firms producing consumption goods and increase the value of growth opportunities relative to the value of existing assets. Using data on asset returns, I find that a positive investment shock leads to high marginal utility states. A general equilibrium model with investment shocks matches key features of macroeconomic quantities and asset prices.
+
+- type: publication
+  title: Growth Opportunities and Technology Shocks
+  title_url: https://www.aeaweb.org/articles?id=10.1257/aer.100.2.532
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+  venue: American Economic Review P&P, 2010
+  links:
+    - label: Paper
+      url: assets/papers/GrowthOpt_PP.pdf
+  abstract: |
+    We propose a theoretically motivated procedure for measuring heterogeneity in firms'
+    growth opportunities and document its empirical properties.
+
+# --- Working papers (active) ---
+
+- type: working_paper
+  title: "Winners and Losers: Competition, Creative Destruction, and Labor Income Risk"
+  authors:
+    - name: Brice Green
+      url: https://brice.green/
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+    - name: Lawrence Schmidt
+      url: https://sites.google.com/site/lawrencedwschmidt/home
+  venue: null
+  links:
+    - label: Paper
+      url: assets/papers/CreativeDestructionLabor.pdf
+      suffix: " (ver. 12/2025)"
+  abstract: |
+    Using U.S. administrative data, we find that technology-driven creative destruction in the product market passes through to worker earnings. The passthrough to incumbent worker earnings is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earning declines and changes in the likelihood of job destruction than profit gains from their own firm's innovations, while top workers are significantly more exposed than the average worker.  We develop an endogenous-growth model with monopsonistic labor markets and worker heterogeneity that replicates this asymmetry and the distribution of earnings risk. Creative destruction exposes high-income workers to concentrated downside risk while offering lower-income workers upward mobility, shaping the welfare consequences of innovation policy.
+
+- type: working_paper
+  title: Artificial Intelligence and the Labor Market
+  authors:
+    - name: Menaka Hampole
+      url: https://www.menakahampole.com/
+    - name: Lawrence Schmidt
+      url: https://sites.google.com/site/lawrencedwschmidt/home
+    - name: Bryan Seegmiller
+      url: https://mitsloan.mit.edu/phd/students/bryan-seegmiller
+  venue: Quarterly Journal of Economics, Revise and Resubmit
+  links:
+    - label: Paper
+      url: assets/papers/AILabor.pdf
+      suffix: " (ver. 9/2025)"
+  abstract: |
+    We leverage recent advances in NLP to construct measures of workers' task exposure to AI and machine learning technologies over the 2010 to 2023 period that vary across firms and time. Using a theoretical framework that allows for a labor-saving technology to affect worker productivity both directly and indirectly, we show that the impact on wage earnings and employment can be summarized by two statistics. First, labor demand decreases in the average exposure of workers' tasks to AI technologies; second, holding the average exposure constant, labor demand increases in the dispersion of task exposures to AI, as workers shift effort to tasks that are not displaced by AI. Exploiting exogenous variation in our measures based on pre-existing hiring practices across firms, we find empirical support for these predictions, together with a lower demand for skills affected by AI. Overall, we find muted effects of AI on employment due to offsetting effects: highly-exposed occupations experience relatively lower demand compared to less exposed occupations, but the resulting increase in firm productivity increases overall employment across all occupations.
+
+- type: working_paper
+  title: Measuring Creative Destruction
+  authors:
+    - name: Ali Kakhbod
+      url: https://haas.berkeley.edu/faculty/ali-kakhbod/
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+    - name: Peiyao Li
+  venue: Review of Financial Studies, Revise and Resubmit
+  links:
+    - label: Paper
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5008685
+      suffix: " (ver. 2/2025)"
+  abstract: |
+    We examine the link between a firm's future performance and innovations made by other firms using text-based measures of innovation displacement—how relevant one firm's innovations are to another's operations. Our findings indicate that when other major innovators' recent innovations are similar to the focal firm's technologies, the focal firm's profit growth over the next 7 years is expected to decline, with the association exacerbating annually, especially for non-innovative firms. This displacement effect persists across various firm types and model specifications. Moreover, firms exposed to higher displacement have higher risk-adjusted stock returns in the following year.
+
+- type: working_paper
+  title: "Technology and Labor Displacement: Evidence from Linking Patents with Worker-Level Data"
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+    - name: Lawrence Schmidt
+      url: https://sites.google.com/site/lawrencedwschmidt/home
+    - name: Bryan Seegmiller
+      url: https://mitsloan.mit.edu/phd/students/bryan-seegmiller
+  venue: Review of Economic Studies, Revise and Resubmit
+  links:
+    - label: Paper
+      url: assets/papers/LaborDisplacement_RNR.pdf
+      suffix: " (ver. 7/2024)"
+    - label: Slides
+      url: assets/slides/LaborDisplacement_RNR_Slides.pdf
+  abstract: |
+    We develop separate measures of workers' exposure to labor-saving and labor-augmenting technologies based on textual analysis of patent documents and the tasks performed by workers in an occupation. Using administrative data on earnings of individual workers in the US, we show that these exposure measures are both negatively related to earnings of incumbent workers. Exposure to labor-saving technologies is associated with significant declines in average earnings and a higher likelihood of job loss for all worker types. By contrast, exposure to labor-augmenting technologies is associated with earnings declines for only certain types of workers: white collar workers, older workers, and workers that are paid more relative to their peers. In contrast to these effects on incumbents, we find a positive overall effect of labor-augmenting technologies on total worker compensation, employment, and the labor share. We interpret the sign and magnitudes of these effects through a model that also allows for skill displacement.
+
+- type: working_paper
+  title: Productivity Shocks and Inflation in Incomplete Markets
+  authors:
+    - name: Qiushi Huang
+      url: https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+  venue: Review of Financial Studies, Revise and Resubmit
+  links:
+    - label: Paper
+      url: assets/papers/InflationRiskSharing.pdf
+      suffix: " (ver. 5/2025)"
+  abstract: |
+    Innovation leads to higher productivity, yet it can lead to higher inflation if markets are incomplete. Exploiting changes in state-level R&D tax credit policy, we establish a causal link between the level of innovation and the local price of non-tradable consumption goods. We rationalize this finding in a multi-region model of a monetary union where regions can experience displacive shocks that reallocate output among agents. Because benefits of economic growth accrue asymmetrically across all agents, prices of non-tradable goods can rise even as regional output increases. Local stock markets provide evidence that is consistent with model predictions. In both the data and the model, returns to local growth firms help agents insure against increases in the local price level.
+
+- type: working_paper
+  title: Intangible Capital, Firm Scope, and Growth
+  authors:
+    - name: Nicolas Crouzet
+      url: https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html
+    - name: Janice Eberly
+      url: https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx
+    - name: Andrea Eisfeldt
+      url: http://www.anderson.ucla.edu/x33175.xml
+  venue: null
+  links:
+    - label: Paper
+      url: assets/papers/ceep_latest.pdf
+      suffix: " (ver. 9/2024)"
+  abstract: |
+    Intangible assets represent information that needs to be embodied, or stored, in order to be used in production. This information can be replicated and stored in multiple instances, even if imperfectly. Replicability implies that a specific intangible asset can be deployed simultaneously in multiple uses by a single firm, allowing it to expand its scope. At the same time, however, replicability implies a risk that a firm's intangibles will be copied or appropriated by competitors. We embed these properties into an otherwise standard endogenous growth model, and show how improvements in the technology for replicating intangibles can lead to larger firms, an increase in concentration, valuation ratios, and the profit share, but lower growth.
+
+- type: working_paper
+  title: "Tech Dollars: Technological Innovation and Exchange Rates"
+  authors:
+    - name: Qiushi Huang
+      url: https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+  venue: null
+  links:
+    - label: Paper
+      url: assets/papers/FX_techdollars.pdf
+      suffix: " (ver. 09/2025)"
+  abstract: |
+    We document that there is a (re)connection between exchange rate movements and relative changes in aggregate quantities, such as consumption and output growth, once wealth changes are controlled for. We find that relative wealth changes positively correlate with aggregate quantities, and that the real dollar index is positively correlated with U.S. innovation intensity. These observations motivate our analysis of how technological innovation affects exchange rate movements. We introduce a minimal deviation from the standard endowment economy model of exchange rate: in an economic boom, new firms are created, but they are randomly distributed to a small part of the population. Our calibrated model successfully replicates key features of the data, specifically, the joint dynamics of exchange rates, stock returns, real output and consumption growth, and trade flows.
+
+- type: working_paper
+  title: "Evaluation and Learning in R&D Investment"
+  authors:
+    - name: Alex Frankel
+      url: https://faculty.chicagobooth.edu/alexander-frankel
+    - name: Danielle Li
+      url: https://mitsloan.mit.edu/faculty/directory/danielle-li
+    - name: Joshua Krieger
+      url: https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435
+  venue: Management Science, Revise and Resubmit
+  notes: Winner of the 2025 Red Rock Conference Best Paper Award
+  links:
+    - label: Paper
+      url: assets/papers/evaluation_learning.pdf
+      suffix: " (ver. 7/2025)"
+  abstract: |
+    We examine the role of spillover learning in shaping the value of exploratory versus incremental R&D. Using data from drug development, we show that novel drug candidates generate more knowledge spillovers than incremental ones. Despite being less likely to reach regulatory approval, they are more likely to inspire subsequent successful drugs. We introduce a model where firms are better able to *evaluate* the viability of incremental drugs, but where investing in novel drugs helps firms *learn* about future projects. Firms appear to put more value on evaluation versus learning motives, and these patterns are in-part driven by the appropriability of new knowledge and firms' discount rates.
+
+# --- Dormant working papers ---
+
+- type: working_paper
+  dormant: true
+  title: Technological Innovation and Labor Income Risk
+  authors:
+    - name: Leonid Kogan
+      url: http://web.mit.edu/lkogan2/www/
+    - name: Lawrence Schmidt
+      url: https://sites.google.com/site/lawrencedwschmidt/home
+    - name: Jae Song
+  venue: null
+  links:
+    - label: Paper
+      url: https://www.nber.org/papers/w26964
+  abstract: |
+    Using administrative data, we examine how labor income risk depends on innovation shocks. Subsumed by "Winners and Losers: Competition, Creative Destruction, and Labor Income Risk."
+
+- type: working_paper
+  dormant: true
+  title: Sources of Systematic Risk
+  authors:
+    - name: Igor Makarov
+  venue: null
+  links:
+    - label: Paper
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=968229
+  abstract: |
+    Using the restrictions implied by the heteroskedasticity of stock returns, we identify four factors in the U.S. industry returns. The first correlates highly with the market portfolio; the second is a portfolio of stocks that produce investment goods minus stocks that produce consumption goods; the third differentiates between cyclical and noncyclical stocks. The fourth, a portfolio of industries that produce input goods minus the rest of the market, is a robust predictor of excess returns on the market portfolio and bond returns. The extracted factors are shown to contain significant information about future macroeconomic and financial variables.

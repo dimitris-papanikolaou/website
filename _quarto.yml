@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+  resources:
+    - "assets"
+
+website:
+  title: "Dimitris Papanikolaou"
+  # Set to your GitHub Pages URL once enabled (e.g. https://USERNAME.github.io/website_git)
+  site-url: "https://github.com"
+  open-graph: true
+  twitter-card: true
+  favicon: assets/favicon.ico
+  navbar:
+    background: dark
+    left:
+      - text: "Home"
+        icon: house
+        href: index.qmd
+      - text: "About"
+        icon: person
+        href: about.qmd
+      - text: "Working Papers"
+        icon: journal-richtext
+        href: wp.qmd
+      - text: "Publications"
+        icon: journal-text
+        href: pub.qmd
+      - text: "Data Library"
+        icon: database
+        href: data.qmd
+      - text: "Media"
+        icon: megaphone
+        href: media.qmd
+      - text: "CV"
+        icon: file-pdf
+        href: assets/cv.pdf
+    right:
+      - text: "Contact me"
+        icon: envelope
+        href: mailto:d-papanikolaou@kellogg.northwestern.edu
+        aria-label: "Contact by email"
+      - text: "Google Scholar"
+        icon: link-45deg
+        href: https://scholar.google.com/citations?user=WUoGJWoAAAAJ&hl=en
+        aria-label: "Google Scholar profile"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/custom.css
+    toc: false

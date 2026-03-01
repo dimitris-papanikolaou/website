@@ -1,0 +1,72 @@
+---
+title: "Publications"
+---
+
+<br>
+
+```{r}
+#| echo: false
+#| results: asis
+'%||%' <- function(a, b) if (is.null(a)) b else a
+suppressWarnings(suppressPackageStartupMessages(library(yaml)))
+pubs <- read_yaml("content/publications.yml")
+pubs <- Filter(function(x) identical(x$type, "publication"), pubs)
+
+html_escape <- function(x) {
+  x <- gsub("&", "&amp;", x, fixed = TRUE)
+  x <- gsub("<", "&lt;", x, fixed = TRUE)
+  x <- gsub(">", "&gt;", x, fixed = TRUE)
+  x
+}
+
+for (i in seq_along(pubs)) {
+  p <- pubs[[i]]
+  # Title
+  if (nzchar(p$title_url %||% "")) {
+    title_html <- sprintf('<span class="pub-title"><a href="%s">%s</a></span>',
+      p$title_url, html_escape(p$title))
+  } else {
+    title_html <- sprintf('<span class="pub-title">%s</span>', html_escape(p$title))
+  }
+  cat(sprintf("\n1. %s  \n", title_html))
+
+  # Authors
+  auths <- p$authors %||% list()
+  if (length(auths) > 0) {
+    parts <- vapply(auths, function(a) {
+      if (nzchar(a$url %||% "")) {
+        sprintf('[%s](%s)', html_escape(a$name), a$url)
+      } else {
+        html_escape(a$name)
+      }
+    }, character(1))
+    cat(sprintf("   (*with %s*)  \n", paste(parts, collapse = ", ")))
+  }
+
+  # Venue
+  if (!is.null(p$venue) && nzchar(p$venue)) {
+    cat(sprintf("   *%s*  \n", html_escape(p$venue)))
+  }
+
+  # Notes
+  if (nzchar(p$notes %||% "")) {
+    cat(sprintf("   *%s*  \n", html_escape(p$notes)))
+  }
+
+  # Links
+  for (lnk in p$links %||% list()) {
+    text <- lnk$label
+    if (nzchar(lnk$suffix %||% "")) {
+      text <- paste0(text, lnk$suffix)
+    }
+    cat(sprintf("   [[%s](%s)]\n", text, lnk$url))
+  }
+
+  # Abstract
+  ab <- trimws(p$abstract %||% "")
+  if (nzchar(ab)) {
+    ab <- html_escape(ab)
+    cat(sprintf("   <details class=\"abstract\">\n  <summary>Summary</summary>\n %s\n</details>\n\n", ab))
+  }
+}
+```

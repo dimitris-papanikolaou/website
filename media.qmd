@@ -1,0 +1,17 @@
+---
+title: "Media"
+---
+
+## For press
+
+I am available for comment on topics related to my research: technological innovation and labor markets, AI and employment, intangible capital and asset pricing, and related policy issues.
+
+**Contact:** [d-papanikolaou@kellogg.northwestern.edu](mailto:d-papanikolaou@kellogg.northwestern.edu)
+
+## In the news
+
+- **Brookings podcast** — [What jobs will be most affected by AI?](https://www.brookings.edu/articles/what-jobs-will-be-most-affected-by-ai/) (technology and labor markets)
+
+## Research in plain language
+
+Key papers and non-technical summaries are linked from the [Publications](pub.qmd) and [Working Papers](wp.qmd) pages (e.g. "Non-technical Summary" and "Summary" links where available).
