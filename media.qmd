@@ -25,7 +25,3 @@ Non-technical summaries of research (innovation, labor markets, asset prices, ph
 - [When new technology arrives, who wins and who loses?](https://insight.kellogg.northwestern.edu/article/when-new-tech-arrives-who-wins-who-loses) — Technology exposure and labor market outcomes.
 - [Which workers suffer most when new technology arrives?](https://insight.kellogg.northwestern.edu/article/which-workers-suffer-most-when-new-technology-arrives) — Occupation-level exposure to technology over time.
 - [The AI tidal wave doesn’t have to drown workers](https://insight.kellogg.northwestern.edu/article/the-ai-tidal-wave-doesnt-have-to-drown-workers) — AI and the labor market.
-
-## Research in plain language
-
-Additional non-technical summaries and “Summary” links are on the [Publications](pub.qmd) and [Working Papers](wp.qmd) pages.
