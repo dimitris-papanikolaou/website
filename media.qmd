@@ -11,8 +11,8 @@ title: "Media"
 - **Brookings** — [Technology and labor markets: Past, present, and future](https://www.brookings.edu/articles/technology-and-labor-markets-past-present-and-future/) (summary and context for the BPEA paper).
 - **NBER Digest** — [Technological advance and labor demand: Evidence from two centuries](https://www.nber.org/digest/202601/technological-advance-and-labor-demand-evidence-two-centuries) (2026). Non-technical summary of the technology-and-labor BPEA working paper.
 - **Barron's** — [What value investing strategies are missing](https://www.barrons.com/articles/what-value-investing-strategies-are-missing-51618427835). On intangibles and the value premium.
-- **AFA** — [Panel: AI and finance](https://www.youtube.com/watch?v=T-AyBUMcWeg) (American Finance Association, video).
-- **Video** — [Interview: Retirement Savings](https://www.youtube.com/watch?v=TJm_uf7tKgg).
+- **AFA Panel:** — [AI and finance](https://www.youtube.com/watch?v=T-AyBUMcWeg) (American Finance Association, video).
+- **Video Interview:** — [Retirement Savings](https://www.youtube.com/watch?v=TJm_uf7tKgg).
 
 ## Kellogg Insight
 
