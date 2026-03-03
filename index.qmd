@@ -14,13 +14,13 @@ Kellogg School of Management, Northwestern University
 
 ---
 
-## Research focus
+## Research
 
 My research examines the interaction between **technological innovation and financial markets**: how innovation affects firms, workers, and asset prices; the role of **intangible capital**; and the measurement of innovation over the long run. I also work on labor market dynamics, creative destruction, and the impact of AI on employment.
 
 ---
 
-## Selected work
+## Recent Work
 
 - [Technology and Labor Markets: Past, Present, and Future](pub.qmd) — Brookings Papers on Economic Activity, Fall 2025 (with Huben Liu, Lawrence Schmidt, Bryan Seegmiller)
 - [Artificial Intelligence and the Labor Market](wp.qmd) — QJE, Revise and Resubmit (with Menaka Hampole, Lawrence Schmidt, Bryan Seegmiller)
