@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fancy theme previews – Dimitris Papanikolaou</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.2/dist/cosmo/bootstrap.min.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    .style-picker { position: sticky; top: 0; z-index: 1030; padding: 0.5rem 0; background: #fff; border-bottom: 1px solid #dee2e6; }
+    .style-picker label { margin-right: 0.5rem; font-weight: 600; }
+    .style-picker select { max-width: 18rem; }
+
+    /* ----- Editorial: serif headings, accent line, refined typography ----- */
+    body.fancy-editorial {
+      --bs-font-sans-serif: "Source Sans 3", system-ui, sans-serif;
+      --bs-body-color: #2c3e50;
+      --bs-body-bg: #fefefe;
+      --bs-primary: #1a365d;
+      --bs-link-color: #2c5282;
+      font-family: var(--bs-font-sans-serif);
+    }
+    body.fancy-editorial .navbar { background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%) !important; }
+    body.fancy-editorial h1, body.fancy-editorial h2, body.fancy-editorial h3 {
+      font-family: "Libre Baskerville", Georgia, serif;
+      font-weight: 700;
+      color: #1a365d;
+      border-bottom: 3px solid #c9a227;
+      padding-bottom: 0.25rem;
+      display: inline-block;
+    }
+    body.fancy-editorial .card { border: none; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-left: 4px solid var(--bs-primary); }
+    body.fancy-editorial .lead { color: #4a5568; font-size: 1.1rem; }
+
+    /* ----- Dark premium: dark background, gold/amber accent ----- */
+    body.fancy-dark {
+      --bs-body-bg: #1e293b;
+      --bs-body-color: #e2e8f0;
+      --bs-primary: #f59e0b;
+      --bs-link-color: #fbbf24;
+      background: #1e293b;
+      color: #e2e8f0;
+    }
+    body.fancy-dark .navbar { background: #0f172a !important; border-bottom: 1px solid #334155; }
+    body.fancy-dark .navbar-brand, body.fancy-dark .nav-link { color: #f8fafc !important; }
+    body.fancy-dark .nav-link.active { color: #fbbf24 !important; font-weight: 600; }
+    body.fancy-dark main { background: #1e293b; }
+    body.fancy-dark h1, body.fancy-dark h2, body.fancy-dark h3 { color: #f8fafc; }
+    body.fancy-dark .card {
+      background: #334155;
+      border: 1px solid #475569;
+      color: #e2e8f0;
+      border-radius: 0.5rem;
+    }
+    body.fancy-dark .card-title { color: #fff; }
+    body.fancy-dark .card-text.text-muted { color: #94a3b8 !important; }
+    body.fancy-dark .btn-primary { background: #f59e0b; border-color: #f59e0b; color: #0f172a; }
+    body.fancy-dark .btn-primary:hover { background: #fbbf24; border-color: #fbbf24; color: #0f172a; }
+    body.fancy-dark code { background: #475569; color: #fbbf24; padding: 0.15rem 0.35rem; border-radius: 0.25rem; }
+    body.fancy-dark .style-picker { background: #1e293b; border-color: #334155; color: #e2e8f0; }
+    body.fancy-dark .style-picker label { color: #f8fafc; }
+    body.fancy-dark .style-picker select { background: #334155; color: #e2e8f0; border-color: #475569; }
+
+    /* ----- Dark + serifs: dark premium with serif typography ----- */
+    body.fancy-dark-serif {
+      --bs-body-bg: #1e293b;
+      --bs-body-color: #e2e8f0;
+      --bs-primary: #f59e0b;
+      --bs-link-color: #fbbf24;
+      background: #1e293b;
+      color: #e2e8f0;
+      font-family: "Libre Baskerville", Georgia, serif;
+    }
+    body.fancy-dark-serif .navbar { background: #0f172a !important; border-bottom: 1px solid #334155; }
+    body.fancy-dark-serif .navbar-brand, body.fancy-dark-serif .nav-link { color: #f8fafc !important; font-family: "Libre Baskerville", Georgia, serif; font-weight: 400; }
+    body.fancy-dark-serif .nav-link.active { color: #fbbf24 !important; font-weight: 600; }
+    body.fancy-dark-serif main { background: #1e293b; }
+    body.fancy-dark-serif h1, body.fancy-dark-serif h2, body.fancy-dark-serif h3 {
+      font-family: "Libre Baskerville", Georgia, serif;
+      font-weight: 400;
+      color: #f8fafc;
+      border-bottom: 2px solid #f59e0b;
+      padding-bottom: 0.2rem;
+      display: inline-block;
+    }
+    body.fancy-dark-serif .card {
+      background: #334155;
+      border: 1px solid #475569;
+      color: #e2e8f0;
+      border-radius: 0.25rem;
+      border-left: 4px solid #f59e0b;
+    }
+    body.fancy-dark-serif .card-title { color: #fff; font-family: "Libre Baskerville", Georgia, serif; font-weight: 400; }
+    body.fancy-dark-serif .card-text.text-muted { color: #94a3b8 !important; }
+    body.fancy-dark-serif .btn-primary { background: #f59e0b; border-color: #f59e0b; color: #0f172a; font-family: "Libre Baskerville", Georgia, serif; font-weight: 400; }
+    body.fancy-dark-serif .btn-primary:hover { background: #fbbf24; border-color: #fbbf24; color: #0f172a; }
+    body.fancy-dark-serif code { background: #475569; color: #fbbf24; padding: 0.15rem 0.35rem; border-radius: 0.25rem; font-family: ui-monospace, monospace; }
+    body.fancy-dark-serif .style-picker { background: #1e293b; border-color: #334155; color: #e2e8f0; }
+    body.fancy-dark-serif .style-picker label { color: #f8fafc; font-family: "Libre Baskerville", Georgia, serif; }
+    body.fancy-dark-serif .style-picker select { background: #334155; color: #e2e8f0; border-color: #475569; font-family: "Libre Baskerville", Georgia, serif; }
+    body.fancy-dark-serif .lead { color: #cbd5e1; font-size: 1.05rem; }
+
+    /* ----- Soft & rounded: gradients, soft shadows, rounded corners ----- */
+    body.fancy-soft {
+      --bs-body-bg: #f8fafc;
+      --bs-primary: #6366f1;
+      --bs-link-color: #4f46e5;
+      --bs-border-radius: 0.75rem;
+      background: linear-gradient(180deg, #f1f5f9 0%, #f8fafc 50%, #e2e8f0 100%);
+      min-height: 100vh;
+    }
+    body.fancy-soft .navbar {
+      background: linear-gradient(90deg, #6366f1 0%, #8b5cf6 100%) !important;
+      border-radius: 0 0 1rem 1rem;
+      box-shadow: 0 4px 14px rgba(99, 102, 241, 0.25);
+    }
+    body.fancy-soft main {
+      background: #fff;
+      border-radius: 1rem;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+      padding: 2rem !important;
+    }
+    body.fancy-soft h1, body.fancy-soft h2, body.fancy-soft h3 {
+      color: #334155;
+      font-weight: 700;
+    }
+    body.fancy-soft .card {
+      border: none;
+      border-radius: 1rem;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    body.fancy-soft .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(99, 102, 241, 0.12);
+    }
+    body.fancy-soft .btn-primary {
+      border-radius: 0.5rem;
+      padding: 0.35rem 1rem;
+      font-weight: 600;
+    }
+    body.fancy-soft .style-picker { background: #fff; border-radius: 0 0 0.5rem 0.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+  </style>
+</head>
+<body>
+  <div class="style-picker">
+    <div class="container">
+      <label for="style-select">Fancy style:</label>
+      <select id="style-select" class="form-select form-select-sm d-inline-block w-auto">
+        <option value="">Default (Cosmo, no extra CSS)</option>
+        <option value="fancy-editorial">Editorial — serif headings, accent line, refined</option>
+        <option value="fancy-dark">Dark premium — dark bg, gold accent</option>
+        <option value="fancy-dark-serif">Dark + serifs — dark with Libre Baskerville</option>
+        <option value="fancy-soft">Soft & rounded — gradients, soft shadows</option>
+      </select>
+    </div>
+  </div>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">Dimitris Papanikolaou</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Publications</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Media</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container py-5">
+    <h1>Theme preview</h1>
+    <p class="lead">Use the dropdown at the top to switch between fancy CSS styles. These are examples you could approximate in <code>assets/css/custom.css</code>.</p>
+
+    <h2>Sample heading</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+
+    <h3>Publication-style block</h3>
+    <div class="card mb-3">
+      <div class="card-body">
+        <h5 class="card-title">Time-Varying Risk Premia and Heterogeneous Labor Market Dynamics</h5>
+        <p class="card-text text-muted">Maarten Meeuwis, Lawrence Schmidt, Jonathan Rothbaum. <em>American Economic Review</em>, Forthcoming.</p>
+        <a href="#" class="btn btn-primary btn-sm">Paper</a>
+      </div>
+    </div>
+
+    <p>To use a style in your Quarto site, copy the corresponding CSS into <code>assets/css/custom.css</code> and adjust colors/fonts to taste. You may need to adapt selectors (e.g. <code>.navbar</code>, <code>h1</code>) to match Quarto’s HTML.</p>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    document.getElementById('style-select').addEventListener('change', function() {
+      document.body.className = this.value;
+    });
+  </script>
+</body>
+</html>
