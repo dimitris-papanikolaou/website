@@ -11,7 +11,7 @@
   venue: null
   links:
     - label: Paper
-      url: assets/FirmInsuranceRiskPremia.pdf
+      url: assets/papers/FirmInsuranceRiskPremia.pdf
       suffix: " (ver. 03/2026)"
   abstract: |
     We study how financial conditions shape labor income risk through endogenous firm insurance, job creation, and job destruction. We develop a directed search model with dynamic wage contracts, two-sided limited commitment, and time-varying risk premia where two forces govern the optimal contract: an insurance motive that smooths wages and a retention motive that deters poaching. When risk premia rise, limited commitment constraints tighten and insurance erodes---especially for low-wage workers near the separation margin---generating state-dependent labor income risk. Using U.S. administrative data, we document consistent evidence: the pass-through of firm productivity shocks to worker earnings rises when risk premia are elevated, concentrated among lower-paid workers and operating through job destruction. The calibrated model matches labor market dynamics, asset prices, and the heterogeneous pass-through of firm shocks. Beyond these targeted moments, it generates realistic variation in non-Gaussian earnings dynamics across workers and over time, sizable welfare losses from idiosyncratic risk, depressed human capital valuations, and large welfare gains from state-contingent policies.
