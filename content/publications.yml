@@ -1,6 +1,22 @@
 # Single source of truth for publications and working papers.
 # Rendered by pub.qmd (type: publication) and wp.qmd (type: working_paper; dormant: true for dormant section).
 
+- type: working_paper
+  title: Time-Varying Risk Premia, Firm Insurance, and Endogenous Labor Income Risk
+  authors:
+    - name: Maarten Meeuwis
+      url: https://www.maartenmeeuwis.com/
+    - name: Lawrence Schmidt
+      url: https://sites.google.com/site/lawrencedwschmidt/home
+  venue: null
+  links:
+    - label: Paper
+      url: assets/FirmInsuranceRiskPremia.pdf
+      suffix: " (ver. 03/2026)"
+  abstract: |
+    We study how financial conditions shape labor income risk through endogenous firm insurance, job creation, and job destruction. We develop a directed search model with dynamic wage contracts, two-sided limited commitment, and time-varying risk premia where two forces govern the optimal contract: an insurance motive that smooths wages and a retention motive that deters poaching. When risk premia rise, limited commitment constraints tighten and insurance erodes---especially for low-wage workers near the separation margin---generating state-dependent labor income risk. Using U.S. administrative data, we document consistent evidence: the pass-through of firm productivity shocks to worker earnings rises when risk premia are elevated, concentrated among lower-paid workers and operating through job destruction. The calibrated model matches labor market dynamics, asset prices, and the heterogeneous pass-through of firm shocks. Beyond these targeted moments, it generates realistic variation in non-Gaussian earnings dynamics across workers and over time, sizable welfare losses from idiosyncratic risk, depressed human capital valuations, and large welfare gains from state-contingent policies.
+    
+
 - type: publication
   title: Time-Varying Risk Premia and Heterogenous Labor Market Dynamics
   authors:
@@ -538,7 +554,7 @@
   links:
     - label: Paper
       url: assets/papers/CreativeDestructionLabor.pdf
-      suffix: " (ver. 12/2025)"
+      suffix: " (ver. 03/2026)"
   abstract: |
     Using U.S. administrative data, we find that technology-driven creative destruction in the product market passes through to worker earnings. The passthrough to incumbent worker earnings is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earning declines and changes in the likelihood of job destruction than profit gains from their own firm's innovations, while top workers are significantly more exposed than the average worker.  We develop an endogenous-growth model with monopsonistic labor markets and worker heterogeneity that replicates this asymmetry and the distribution of earnings risk. Creative destruction exposes high-income workers to concentrated downside risk while offering lower-income workers upward mobility, shaping the welfare consequences of innovation policy.
 
@@ -605,7 +621,7 @@
   links:
     - label: Paper
       url: assets/papers/InflationRiskSharing.pdf
-      suffix: " (ver. 5/2025)"
+      suffix: " (ver. 3/2026)"
   abstract: |
     Innovation leads to higher productivity, yet it can lead to higher inflation if markets are incomplete. Exploiting changes in state-level R&D tax credit policy, we establish a causal link between the level of innovation and the local price of non-tradable consumption goods. We rationalize this finding in a multi-region model of a monetary union where regions can experience displacive shocks that reallocate output among agents. Because benefits of economic growth accrue asymmetrically across all agents, prices of non-tradable goods can rise even as regional output increases. Local stock markets provide evidence that is consistent with model predictions. In both the data and the model, returns to local growth firms help agents insure against increases in the local price level.
 
