@@ -4,13 +4,23 @@ title: "Data Library"
 
 <br>
 
+
  
+
+1. <span class="pub-title">[Technology and Labor Markets: Past, Present, and Future; Evidence from Two Centuries of Innovation](https://www.brookings.edu/events/bpea-fall-2025-conference/)</span>  
+   (*with Huben Liu,  [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home), and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)  
+   [[Data and Code](https://www.dropbox.com/scl/fi/cymtyma3a8483rrgyp6wq/ReplicationPackage_TechnologyAndLaborMarkets_LiuEtAl.zip?rlkey=n2r5tzj85l7zjswfwlhycl2nn&raw=1)]
+ 
+1. <span class="pub-title">[Artificial Intelligence and the Labor Market](assets/papers/AILabor.pdf)</span>     
+(*with [Menaka Hampole](https://www.menakahampole.com/), [Lawrence Schmidt](https://sites.google.com/site/lawrencedwschmidt/home), and [Bryan Seegmiller](https://mitsloan.mit.edu/phd/students/bryan-seegmiller)*)  
+   [[Data at occ (SOC6) level](https://www.dropbox.com/scl/fi/dhlnr9l7fghwz29m4uyqn/HampoleEtAl_AIExposureProbability_Soc6Level.zip?rlkey=19xf1ier29yl9ib908pwdi8sf&raw=1)]
+
 
 1. <span class="pub-title">[KPSS: Technological Innovation, Resource Allocation and Growth](https://academic.oup.com/qje/article-abstract/132/2/665/3076284)</span>  
    (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), 
    [Amit Seru](https://people.stanford.edu/aseru/), 
    and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)  
-   [[Data, Extended to 2022](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
+   [[Data, Extended](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
 
 1. <span class="pub-title">[Intangible Value](https://www.nowpublishers.com/article/Details/CFR-0113)</span>  
    (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml) and 
@@ -29,13 +39,13 @@ title: "Data Library"
 
 1. <span class="pub-title">[Organization Capital and the Cross-Section of Expected Returns](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12034)</span>  
    (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml)*)  
-   [[Data, Extended to 2019](https://www.dropbox.com/s/ffqfdt8vf9uwsk5/org%20cap%20replication%20and%20data%20update.zip?raw=1)]
+   [[Data, Extended](https://www.dropbox.com/s/ffqfdt8vf9uwsk5/org%20cap%20replication%20and%20data%20update.zip?raw=1)]
 
 1. <span class="pub-title">[Measuring Technological Innovation over the Long Run](https://www.aeaweb.org/articles?id=10.1257/aeri.20190499)</span>  
    (*with [Bryan Kelly](http://faculty.chicagobooth.edu/bryan.kelly/), 
    [Amit Seru](https://people.stanford.edu/aseru/), 
    and Matt Taddy*)  
-   [[Data, Extended to 2022](https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Extended-Data)]
+   [[Data, Extended](https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Extended-Data)]
    [[Pairwise Citation Data](https://www.dropbox.com/s/1lh1fxkgrwlvn6b/full_citations_combined_v2019-0305.zip?raw=1)]
 
  

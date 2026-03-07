@@ -70,6 +70,8 @@
       url: assets/papers/TechnologyLaborLR.pdf
     - label: Slides
       url: assets/slides/TechnologyLaborLR_Slides.pdf
+    - label: Data and Code
+      url: https://www.dropbox.com/scl/fi/cymtyma3a8483rrgyp6wq/ReplicationPackage_TechnologyAndLaborMarkets_LiuEtAl.zip?rlkey=n2r5tzj85l7zjswfwlhycl2nn&raw=1
     - label: Summary
       url: https://www.brookings.edu/articles/technology-and-labor-markets-past-present-and-future/
     - label: Video
@@ -572,6 +574,8 @@
     - label: Paper
       url: assets/papers/AILabor.pdf
       suffix: " (ver. 9/2025)"
+    - label: Data (Occ (SOC6) Level)
+      url: https://www.dropbox.com/scl/fi/dhlnr9l7fghwz29m4uyqn/HampoleEtAl_AIExposureProbability_Soc6Level.zip?rlkey=19xf1ier29yl9ib908pwdi8sf&raw=1
   abstract: |
     We leverage recent advances in NLP to construct measures of workers' task exposure to AI and machine learning technologies over the 2010 to 2023 period that vary across firms and time. Using a theoretical framework that allows for a labor-saving technology to affect worker productivity both directly and indirectly, we show that the impact on wage earnings and employment can be summarized by two statistics. First, labor demand decreases in the average exposure of workers' tasks to AI technologies; second, holding the average exposure constant, labor demand increases in the dispersion of task exposures to AI, as workers shift effort to tasks that are not displaced by AI. Exploiting exogenous variation in our measures based on pre-existing hiring practices across firms, we find empirical support for these predictions, together with a lower demand for skills affected by AI. Overall, we find muted effects of AI on employment due to offsetting effects: highly-exposed occupations experience relatively lower demand compared to less exposed occupations, but the resulting increase in firm productivity increases overall employment across all occupations.
 
