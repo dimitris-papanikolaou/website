@@ -75,8 +75,10 @@
       url: assets/papers/TechnologyLaborLR.pdf
     - label: Slides
       url: assets/slides/TechnologyLaborLR_Slides.pdf
-    - label: Data and Code
+    - label: Replication Code and Data
       url: https://www.dropbox.com/scl/fi/cymtyma3a8483rrgyp6wq/ReplicationPackage_TechnologyAndLaborMarkets_LiuEtAl.zip?rlkey=n2r5tzj85l7zjswfwlhycl2nn&raw=1
+    - label: Raw Patent Data (text summaries)
+      url: https://www.dropbox.com/scl/fo/ic38bvb8mipj1fhs8pqcg/AD1BtYDPMaJ-FxYkq8or0eI?rlkey=f7u689fznt5bmumnhrglfspqx&raw=1   
     - label: Summary
       url: https://www.brookings.edu/articles/technology-and-labor-markets-past-present-and-future/
     - label: Video
