@@ -11,6 +11,8 @@ title: "Publications"
 suppressWarnings(suppressPackageStartupMessages(library(yaml)))
 pubs <- read_yaml("content/publications.yml")
 pubs <- Filter(function(x) identical(x$type, "publication"), pubs)
+main_pubs <- Filter(function(x) x$refereed %||% TRUE, pubs)
+other_pubs <- Filter(function(x) identical(x$refereed, FALSE), pubs)
 
 html_escape <- function(x) {
   x <- gsub("&", "&amp;", x, fixed = TRUE)
@@ -19,18 +21,14 @@ html_escape <- function(x) {
   x
 }
 
-for (i in seq_along(pubs)) {
-  p <- pubs[[i]]
-  # Title
+render_pub_entry <- function(p, num) {
   if (nzchar(p$title_url %||% "")) {
     title_html <- sprintf('<span class="pub-title"><a href="%s">%s</a></span>',
       p$title_url, html_escape(p$title))
   } else {
     title_html <- sprintf('<span class="pub-title">%s</span>', html_escape(p$title))
   }
-  cat(sprintf("\n1. %s  \n", title_html))
-
-  # Authors
+  cat(sprintf("\n%s. %s  \n", num, title_html))
   auths <- p$authors %||% list()
   if (length(auths) > 0) {
     parts <- vapply(auths, function(a) {
@@ -42,31 +40,39 @@ for (i in seq_along(pubs)) {
     }, character(1))
     cat(sprintf("   (*with %s*)  \n", paste(parts, collapse = ", ")))
   }
-
-  # Venue
   if (!is.null(p$venue) && nzchar(p$venue)) {
     cat(sprintf("   *%s*  \n", html_escape(p$venue)))
   }
-
-  # Notes
   if (nzchar(p$notes %||% "")) {
     cat(sprintf("   *%s*  \n", html_escape(p$notes)))
   }
-
-  # Links
   for (lnk in p$links %||% list()) {
     text <- lnk$label
-    if (nzchar(lnk$suffix %||% "")) {
-      text <- paste0(text, lnk$suffix)
-    }
+    if (nzchar(lnk$suffix %||% "")) text <- paste0(text, lnk$suffix)
     cat(sprintf("   [[%s](%s)]\n", text, lnk$url))
   }
-
-  # Abstract
   ab <- trimws(p$abstract %||% "")
   if (nzchar(ab)) {
     ab <- html_escape(ab)
-    cat(sprintf("   <details class=\"abstract\">\n  <summary>Summary</summary>\n %s\n</details>\n\n", ab))
+    inner <- ""
+    kf <- p$key_figure
+    if (!is.null(kf) && nzchar(kf$path %||% "")) {
+      cap <- trimws(kf$caption %||% "")
+      inner <- sprintf('<figure class="key-figure"><img src="%s" alt="Key result">', kf$path)
+      if (nzchar(cap)) inner <- paste0(inner, sprintf('<figcaption class="key-figure-caption">%s</figcaption>', html_escape(cap)))
+      inner <- paste0(inner, "</figure>\n ")
+    }
+    inner <- paste0(inner, ab)
+    cat(sprintf("   <details class=\"abstract\">\n  <summary>Summary</summary>\n %s\n</details>\n\n", inner))
   }
+}
+
+cat("\n")
+for (i in seq_along(main_pubs)) {
+  render_pub_entry(main_pubs[[i]], i)
+}
+cat('\n<div class="pub-section-gap" aria-hidden="true"></div>\n\n## Other Publications\n\n')
+for (i in seq_along(other_pubs)) {
+  render_pub_entry(other_pubs[[i]], i)
 }
 ```

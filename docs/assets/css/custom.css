@@ -7,12 +7,14 @@
 details.abstract {
   margin-top: 0.5em;
   margin-bottom: 1rem;
+  text-align: justify;
 }
 
 details.abstract summary {
   cursor: pointer;
   font-weight: 600;
   list-style: none;
+  text-align: left;
 }
 
 details.abstract summary::-webkit-details-marker {
@@ -26,6 +28,29 @@ details.abstract summary::before {
 
 details.abstract[open] summary::before {
   content: "▼ ";
+}
+
+/* Key figure inside Summary */
+.key-figure {
+  max-width: 100%;
+  margin-bottom: 0.75rem;
+}
+.key-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.key-figure-caption {
+  font-size: 0.9em;
+  color: #94a3b8;
+  font-style: italic;
+  margin-top: 0.35rem;
+  margin-bottom: 0;
+}
+
+/* Extra space before Other Publications section */
+.pub-section-gap {
+  margin-top: 2.5rem;
 }
 
 /* ----- Dark premium theme ----- */

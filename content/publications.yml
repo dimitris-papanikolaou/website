@@ -40,6 +40,9 @@
     Our findings underscore the role of time-varying risk premia as a key driver of labor market
     fluctuations and highlight the importance of both the job creation and the job destruction
     margins in understanding the heterogeneity in worker outcomes over the business cycle.
+  key_figure:
+    path: assets/paper_figs/RiskPremia_Labor.png
+    caption: "Pass-through of firm productivity shocks to worker earnings by worker wage quartile."
 
 - type: publication
   title: Natural Language Processing and Innovation Research
@@ -78,6 +81,9 @@
       url: https://www.youtube.com/watch?v=shHSyRJgDto
     - label: Podcast
       url: https://www.brookings.edu/articles/what-jobs-will-be-most-affected-by-ai/
+  key_figure:
+    path: assets/paper_figs/TechnologyLaborLR.png
+    caption: "AI is likely to reverse the changes in labor demand brought on by 20-th century technological improvements."
   abstract: |
     We use recent advances in natural language processing and large language models to construct novel measures of technology exposure for workers that span almost two centuries. Combining our measures with Census data on occupation employment, we show that technological progress over the 20th century has led to economically meaningful shifts in labor demand across occupations: it has consistently increased demand for occupations with higher education requirements, occupations that pay higher wages, and occupations with a greater fraction of female workers. Using these insights and a calibrated model, we then explore different scenarios for how advances in artificial intelligence (AI) are likely to impact employment trends in the medium run. The model predicts a reversal of past trends, with AI favoring occupations that are lower-educated, lower-paid, and more male-dominated.
 
@@ -119,6 +125,9 @@
       url: assets/papers/Intangible_Value.pdf
     - label: Data and Code
       url: https://github.com/edwardtkim/intangiblevalue
+  key_figure:
+    path: assets/paper_figs/Intangible_Value.png
+    caption: "Adjusting book value for intangibles restores the recent performance of value strategies based on book-to-market."
   abstract: |
     Intangible assets are absent from traditional measures of value, despite their
     very large (and growing) importance in firms' capital stocks. As a result, the
@@ -185,6 +194,9 @@
       url: https://www.dropbox.com/scl/fi/nebzxddi77hdda2shnm6z/drug_icd9_noveltyscores_KLP21.dta?rlkey=za4qdza0mv2s9ucd5f3gpnb1l&raw=1
     - label: Readme
       url: https://www.dropbox.com/scl/fi/my5vuyywi4jwaizt9bj9s/Data_Overview_KLP_novelty.pdf?rlkey=w2t890ejljtvf9ihthks0y71m&raw=1
+  key_figure:
+    path: assets/paper_figs/DevelopingNovelDrugs.png
+    caption: "Impact of additional resources on new drug development"
   abstract: |
     We provide evidence that risk aversion leads pharmaceutical firms to underinvest in radical innovation. We introduce a new measure of drug novelty based on chemical similarity and show that firms face a risk-reward trade-off: novel drug candidates are less likely to obtain FDA approval but are based on more valuable patents. Consistent with a simple model of costly external finance, we show that a positive shock to firms' net worth leads firms to develop more novel drugs. This suggests that even large firms may behave as though they are risk averse, reducing their willingness to investment in potentially valuable radical innovation.
 
@@ -217,6 +229,9 @@
       url: https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Replication-Kit
     - label: Pairwise Citation Data
       url: https://www.dropbox.com/scl/fi/1m96czhofv825jc4mnqgs/full_citations_combined_v2019-0305.zip?rlkey=bu0h7ro56je2y0vsfytq9dnbf&raw=1
+  key_figure:
+    path: assets/paper_figs/MeasuringInnovationLR_AERI.png
+    caption: "Breakthrough Innovations Across Industries"
   abstract: |
     We use textual analysis of high-dimensional data from patent documents to create new indicators of technological innovation. We identify important patents based on textual similarity of a given patent to previous and subsequent work: these patents are distinct from previous work but related to subsequent innovations. Our importance indicators correlate with existing measures of patent quality but also provide complementary information. We identify breakthrough innovations as the most important patents—those in the right tail of our measure—and construct time series indices of technological change at the aggregate and sectoral levels. Our technology indices capture the evolution of technological waves over a long time span (1840 to the present) and cover innovation by private and public firms as well as nonprofit organizations and the US government. Advances in electricity and transportation drive the index in the 1880s, chemicals and electricity in the 1920s and 1930s, and computers and communication in the post-1980s.
 

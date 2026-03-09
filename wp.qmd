@@ -60,7 +60,16 @@ render_entry <- function(p, num) {
   ab <- trimws(p$abstract %||% "")
   if (nzchar(ab)) {
     ab <- html_escape(ab)
-    cat(sprintf("   <details class=\"abstract\">\n  <summary>Summary</summary>\n %s\n</details>\n\n", ab))
+    inner <- ""
+    kf <- p$key_figure
+    if (!is.null(kf) && nzchar(kf$path %||% "")) {
+      cap <- trimws(kf$caption %||% "")
+      inner <- sprintf('<figure class="key-figure"><img src="%s" alt="Key result">', kf$path)
+      if (nzchar(cap)) inner <- paste0(inner, sprintf('<figcaption class="key-figure-caption">%s</figcaption>', html_escape(cap)))
+      inner <- paste0(inner, "</figure>\n ")
+    }
+    inner <- paste0(inner, ab)
+    cat(sprintf("   <details class=\"abstract\">\n  <summary>Summary</summary>\n %s\n</details>\n\n", inner))
   }
 }
 
