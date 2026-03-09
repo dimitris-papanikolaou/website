@@ -19,14 +19,18 @@ html_escape <- function(x) {
   x <- gsub(">", "&gt;", x, fixed = TRUE)
   x
 }
+source("scripts/bibtex_helpers.R")
+bib_dir <- "docs/assets/bib"
+dir.create(bib_dir, recursive = TRUE, showWarnings = FALSE)
+used_slugs <- character(0)
 
 render_entry <- function(p, num) {
-  if (nzchar(p$title_url %||% "")) {
-    title_html <- sprintf('<span class="pub-title"><a href="%s">%s</a></span>',
-      p$title_url, html_escape(p$title))
-  } else {
-    title_html <- sprintf('<span class="pub-title">%s</span>', html_escape(p$title))
-  }
+  slug <- paper_to_slug(p, used_slugs, is_working_paper = TRUE)
+  used_slugs <<- c(used_slugs, slug)
+  bib_content <- paper_to_bibtex(p, slug, is_working_paper = TRUE)
+  writeLines(bib_content, file.path(bib_dir, paste0(slug, ".bib")))
+
+  title_html <- sprintf('<span class="pub-title">%s</span>', html_escape(p$title))
   cat(sprintf("\n%s. %s     \n", num, title_html))
 
   auths <- p$authors %||% list()
@@ -56,6 +60,7 @@ render_entry <- function(p, num) {
     }
     cat(sprintf("   [[%s](%s)]\n", text, lnk$url))
   }
+  cat(sprintf("   [[Bibtex Citation](%s/%s.bib)]\n", "assets/bib", slug))
 
   ab <- trimws(p$abstract %||% "")
   if (nzchar(ab)) {
