@@ -52,6 +52,7 @@
     - name: Adam Jaffe
       url: https://scholarworks.brandeis.edu/esploro/profile/adam_jaffe
   venue: Annual Review of Economics, Volume 18, 2025
+  refereed: false
   links:
     - label: Paper
       url: assets/papers/ARE_Innovation.pdf
@@ -264,6 +265,7 @@
   links:
     - label: Paper
       url: assets/papers/Aging_PP.pdf
+  refereed: false     
   abstract: |
     Investment in intangible capital such as R&D has increased dramatically since the 1990s. However, productivity growth remains sluggish in recent years. One potential reason is that a significant share of the increase in intangible investment is geared toward consumer products such as pharmaceutical drugs with limited spillovers to productivity. We document that a significant share of R&D spending in the United States is done by pharmaceutical firms and geared to developing drugs for older patients. Increased life expectancy and quality of life for the elderly increases welfare but may not be reflected in estimates of total factor productivity.
 
@@ -299,6 +301,7 @@
     - name: Leonid Kogan
       url: http://web.mit.edu/lkogan2/www/
   venue: Annual Review of Financial Economics, 2019, 11, 221–242
+  refereed: false
   links:
     - label: Paper
       url: https://www.annualreviews.org/doi/full/10.1146/annurev-financial-110118-123049
@@ -349,6 +352,7 @@
   links:
     - label: Paper
       url: assets/papers/JPM_final.pdf
+  refereed: false     
   abstract: |
     The Cox, Ingersoll, and Ross (CIR) model proposed a framework for asset pricing in general equilibrium, introducing an explicit description of the macroeconomy into a model of financial markets. The research program started by CIR has been influential and remains highly relevant. In this article, the two authors, both doctoral students of Professor Stephen Ross and one later his colleague at MIT, summarize how the seminal contribution of CIR has seeded their own academic work, with a particular focus on equilibrium analysis of cross-sectional patterns in stock returns.
 
@@ -474,10 +478,11 @@
   authors:
     - name: Andrea Eisfeldt
       url: http://www.anderson.ucla.edu/x33175.xml
-  venue: American Economic Review P&P, 2014
+  venue: American Economic Review Papers and Proceedings , 2014
   links:
     - label: Paper
       url: assets/papers/OrganizationCapital_PP.pdf
+  refereed: false     
   abstract: |
     Intangible capital which relies on essential human inputs, or "organization capital," presents a unique challenge for measurement. Organization capital cannot be fully owned by firms' financiers, because it is partly embodied in key labor inputs. Instead, cash flows must be shared with key talent and thus neither book nor market values will fully capture its value. Measurement of organization capital requires a model featuring these unique property rights. We use accounting data along with a simple example of such a model to measure the fraction of the US capital stock which is missing from book and market values.
 
@@ -521,6 +526,7 @@
     - name: Leonid Kogan
       url: http://web.mit.edu/lkogan2/www/
   venue: Annual Review of Financial Economics, 2012
+  refereed: false
   links:
     - label: Paper
       url: http://www.annualreviews.org/doi/pdf/10.1146/annurev-financial-110311-101731
@@ -548,10 +554,11 @@
   authors:
     - name: Leonid Kogan
       url: http://web.mit.edu/lkogan2/www/
-  venue: American Economic Review P&P, 2010
+  venue: American Economic Review Papers and Proceedings, 2010
   links:
     - label: Paper
       url: assets/papers/GrowthOpt_PP.pdf
+  refereed: false      
   abstract: |
     We propose a theoretically motivated procedure for measuring heterogeneity in firms'
     growth opportunities and document its empirical properties.
