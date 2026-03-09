@@ -60,7 +60,7 @@ render_entry <- function(p, num) {
     }
     cat(sprintf("   [[%s](%s)]\n", text, lnk$url))
   }
-  cat(sprintf("   [[Bibtex Citation](%s/%s.bib)]\n", "assets/bib", slug))
+  cat(sprintf("   [[Bibtex](%s/%s.bib)]\n", "assets/bib", slug))
 
   ab <- trimws(p$abstract %||% "")
   if (nzchar(ab)) {

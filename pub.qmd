@@ -55,7 +55,7 @@ render_pub_entry <- function(p, num) {
     if (nzchar(lnk$suffix %||% "")) text <- paste0(text, lnk$suffix)
     cat(sprintf("   [[%s](%s)]\n", text, lnk$url))
   }
-  cat(sprintf("   [[Bibtex Citation](%s/%s.bib)]\n", "assets/bib", slug))
+  cat(sprintf("   [[Bibtex](%s/%s.bib)]\n", "assets/bib", slug))
   ab <- trimws(p$abstract %||% "")
   if (nzchar(ab)) {
     ab <- html_escape(ab)
