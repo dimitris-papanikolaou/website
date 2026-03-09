@@ -55,8 +55,8 @@ paper_to_bibtex <- function(p, slug, is_working_paper = FALSE) {
   url_str <- bib_escape(p$title_url %||% "")
   if (!nzchar(url_str) && length(p$links %||% list()) > 0) url_str <- bib_escape(p$links[[1]]$url %||% "")
   note_str <- bib_escape(p$notes %||% "")
-  if (is_working_paper && nzchar(venue_str)) note_str <- trimws(paste("Working paper.", if (nzchar(note_str)) paste(venue_str, note_str, sep = ". ") else venue_str))
-  if (!is_working_paper && nzchar(note_str)) note_str <- note_str else if (is_working_paper && !nzchar(note_str)) note_str <- "Working paper."
+  if (is_working_paper) note_str <- "Working paper."
+  if (!is_working_paper && !nzchar(note_str)) note_str <- ""
 
   if (is_working_paper) {
     lines <- c(
