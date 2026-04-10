@@ -12,7 +12,7 @@
   links:
     - label: Paper
       url: assets/papers/FirmInsuranceRiskPremia.pdf
-      suffix: " (ver. 03/2026)"
+      suffix: " (ver. 05/2026)"
   abstract: |
     We study how financial conditions shape labor income risk through endogenous firm insurance, job creation, and job destruction. We develop a directed search model with dynamic wage contracts, two-sided limited commitment, and time-varying risk premia where two forces govern the optimal contract: an insurance motive that smooths wages and a retention motive that deters poaching. When risk premia rise, limited commitment constraints tighten and insurance erodes---especially for low-wage workers near the separation margin---generating state-dependent labor income risk. Using U.S. administrative data, we document consistent evidence: the pass-through of firm productivity shocks to worker earnings rises when risk premia are elevated, concentrated among lower-paid workers and operating through job destruction. The calibrated model matches labor market dynamics, asset prices, and the heterogeneous pass-through of firm shocks. Beyond these targeted moments, it generates realistic variation in non-Gaussian earnings dynamics across workers and over time, sizable welfare losses from idiosyncratic risk, depressed human capital valuations, and large welfare gains from state-contingent policies.
     
@@ -622,8 +622,8 @@
   venue: Review of Financial Studies, Revise and Resubmit
   links:
     - label: Paper
-      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5008685
-      suffix: " (ver. 2/2025)"
+      url: assets/papers/MeasuringCreativeDestruction.pdf
+      suffix: " (ver. 5/2026)"
   abstract: |
     We examine the link between a firm's future performance and innovations made by other firms using text-based measures of innovation displacement—how relevant one firm's innovations are to another's operations. Our findings indicate that when other major innovators' recent innovations are similar to the focal firm's technologies, the focal firm's profit growth over the next 7 years is expected to decline, with the association exacerbating annually, especially for non-innovative firms. This displacement effect persists across various firm types and model specifications. Moreover, firms exposed to higher displacement have higher risk-adjusted stock returns in the following year.
 
@@ -647,7 +647,7 @@
     We develop separate measures of workers' exposure to labor-saving and labor-augmenting technologies based on textual analysis of patent documents and the tasks performed by workers in an occupation. Using administrative data on earnings of individual workers in the US, we show that these exposure measures are both negatively related to earnings of incumbent workers. Exposure to labor-saving technologies is associated with significant declines in average earnings and a higher likelihood of job loss for all worker types. By contrast, exposure to labor-augmenting technologies is associated with earnings declines for only certain types of workers: white collar workers, older workers, and workers that are paid more relative to their peers. In contrast to these effects on incumbents, we find a positive overall effect of labor-augmenting technologies on total worker compensation, employment, and the labor share. We interpret the sign and magnitudes of these effects through a model that also allows for skill displacement.
 
 - type: working_paper
-  title: Productivity Shocks and Inflation in Incomplete Markets
+  title: Inflation and Innovation
   authors:
     - name: Qiushi Huang
       url: https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi
