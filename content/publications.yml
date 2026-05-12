@@ -375,7 +375,7 @@
     - name: Noah Stoffman
       url: http://kelley.iu.edu/nstoffma/
   venue: Quarterly Journal of Economics, 2017, 132(2)
-  notes: Winner of Crowell Memorial Prize (second place)
+  notes: Winner of Crowell Memorial Prize (second prize)
   links:
     - label: Paper
       url: assets/papers/KPSS_patents.pdf
@@ -463,6 +463,9 @@
       url: assets/papers/FirmCharacteristics_APP.pdf
   abstract: |
     Average return differences among firms sorted on valuation ratios, past investment, profitability, market beta, or idiosyncratic volatility are largely driven by differences in exposures of firms to the same systematic factor related to embodied technology shocks. Using a calibrated structural model, we show that these firm characteristics are correlated with the ratio of growth opportunities to firm value, which affects firms' exposures to capital-embodied productivity shocks and risk premia. We thus provide a unified explanation for several apparent anomalies in the cross-section of stock returns—namely, predictability of returns by these firm characteristics and return comovement among firms with similar characteristics.
+  key_figure: 
+    path: assets/paper_figs/FirmCharacteristics.png
+    caption: "A two-factor model that includes measures of investment-specific shocks prices the cross-section of assets sorted by growth to value measures."
 
 - type: publication
   title: Growth Opportunities, Technology Shocks and Asset Prices
@@ -588,6 +591,9 @@
     - label: Paper
       url: assets/papers/CreativeDestructionLabor.pdf
       suffix: " (ver. 03/2026)"
+  key_figure:
+    path: assets/paper_figs/CreativeDestructionLabor.png
+    caption: "Pass-through of firm profits to worker earnings resulting from innovation by firm or its competitors."    
   abstract: |
     Using U.S. administrative data, we find that technology-driven creative destruction in the product market passes through to worker earnings. The passthrough to incumbent worker earnings is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earning declines and changes in the likelihood of job destruction than profit gains from their own firm's innovations, while top workers are significantly more exposed than the average worker.  We develop an endogenous-growth model with monopsonistic labor markets and worker heterogeneity that replicates this asymmetry and the distribution of earnings risk. Creative destruction exposes high-income workers to concentrated downside risk while offering lower-income workers upward mobility, shaping the welfare consequences of innovation policy.
 
@@ -620,6 +626,7 @@
       url: http://web.mit.edu/lkogan2/www/
     - name: Peiyao Li
   venue: Review of Financial Studies, Revise and Resubmit
+  notes: Winner of Crowell Memorial Prize (first prize)  
   links:
     - label: Paper
       url: assets/papers/MeasuringCreativeDestruction.pdf
@@ -735,6 +742,7 @@
   authors:
     - name: Igor Makarov
   venue: null
+  notes: Winner of Crowell Memorial Prize (second prize)  
   links:
     - label: Paper
       url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=968229
