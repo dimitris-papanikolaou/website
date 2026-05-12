@@ -7,11 +7,39 @@
     "text": "Dormant Working Papers\n\nTechnological Innovation and Labor Income Risk\n(with Leonid Kogan, Lawrence Schmidt, Jae Song)\n[Paper] [Bibtex]\n\n\nSummary\n\nUsing administrative data, we examine how labor income risk depends on innovation shocks. Subsumed by “Winners and Losers: Competition, Creative Destruction, and Labor Income Risk.”\n\nSources of Systematic Risk\n(with Igor Makarov)\nWinner of Crowell Memorial Prize (second prize)\n[Paper] [Bibtex]\n\n\nSummary\n\nUsing the restrictions implied by the heteroskedasticity of stock returns, we identify four factors in the U.S. industry returns. The first correlates highly with the market portfolio; the second is a portfolio of stocks that produce investment goods minus stocks that produce consumption goods; the third differentiates between cyclical and noncyclical stocks. The fourth, a portfolio of industries that produce input goods minus the rest of the market, is a robust predictor of excess returns on the market portfolio and bond returns. The extracted factors are shown to contain significant information about future macroeconomic and financial variables."
   },
   {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "Washington Post — Step aside Edison, Tesla and Bell: New measurement shows when U.S. inventors were most influential (2018). On measuring technological innovation over the long run—patents, breakthrough inventions, and the “third wave” of American innovation.\nWashington Post — Programming jobs are being lost to artificial intelligence (2025). On AI and labor market displacement.\nBrookings — What jobs will be most affected by AI? (podcast on technology and labor markets).\nBrookings — Technology and labor markets: Past, present, and future (summary and context for the BPEA paper).\nNBER Digest — Technological advance and labor demand: Evidence from two centuries (2026). Non-technical summary of the technology-and-labor BPEA working paper.\nBarron’s — What value investing strategies are missing. On intangibles and the value premium.\nAFA Panel: — AI and finance (American Finance Association, video).\nVideo Interview: — Retirement Savings."
+  },
+  {
+    "objectID": "media.html#in-the-news",
+    "href": "media.html#in-the-news",
+    "title": "Media",
+    "section": "",
+    "text": "Washington Post — Step aside Edison, Tesla and Bell: New measurement shows when U.S. inventors were most influential (2018). On measuring technological innovation over the long run—patents, breakthrough inventions, and the “third wave” of American innovation.\nWashington Post — Programming jobs are being lost to artificial intelligence (2025). On AI and labor market displacement.\nBrookings — What jobs will be most affected by AI? (podcast on technology and labor markets).\nBrookings — Technology and labor markets: Past, present, and future (summary and context for the BPEA paper).\nNBER Digest — Technological advance and labor demand: Evidence from two centuries (2026). Non-technical summary of the technology-and-labor BPEA working paper.\nBarron’s — What value investing strategies are missing. On intangibles and the value premium.\nAFA Panel: — AI and finance (American Finance Association, video).\nVideo Interview: — Retirement Savings."
+  },
+  {
+    "objectID": "media.html#kellogg-insight",
+    "href": "media.html#kellogg-insight",
+    "title": "Media",
+    "section": "Kellogg Insight",
+    "text": "Kellogg Insight\nNon-technical summaries of research (innovation, labor markets, asset prices, pharma):\n\nHow much does innovation drive economic growth? — Measuring technological innovation with patents and productivity.\nInvestors’ fear of missing out on disruptive technology leads to overvalued stocks — The value premium puzzle and creative destruction (Left Behind).\nEveryone wants pharmaceutical breakthroughs. What drives drug companies to pursue them? — Missing novelty in drug development.\nTechnological innovation and the executive pay gap — In search of ideas: innovation and executive pay.\nWhen new technology arrives, who wins and who loses? — Technology exposure and labor market outcomes.\nWhich workers suffer most when new technology arrives? — Occupation-level exposure to technology over time.\nThe AI tidal wave doesn’t have to drown workers — AI and the labor market."
+  },
+  {
     "objectID": "data.html",
     "href": "data.html",
     "title": "Data Library",
     "section": "",
     "text": "Technology and Labor Markets: Past, Present, and Future, Evidence from Two Centuries of Innovation\n(with Huben Liu, Lawrence Schmidt, Bryan Seegmiller)\n[Replication Code and Data] [Raw Patent Data (text summaries)] [Bibtex]\nArtificial Intelligence and the Labor Market\n(with Menaka Hampole, Lawrence Schmidt, Bryan Seegmiller)\n[Data (Occ (SOC6) Level)] [Bibtex]\nTechnological Innovation, Resource Allocation and Growth\n(with Leonid Kogan, Amit Seru, Noah Stoffman)\n[Replication Kit] [Data, updated] [Bibtex]\nIntangible Value\n(with Andrea Eisfeldt, Edward Kim)\n[Data and Code] [Bibtex]\nWorking Remotely and the Supply-side Impact of Covid-19\n(with Lawrence Schmidt)\n[Data] [Bibtex]\nMissing Novelty in Drug Development\n(with Danielle Li, Joshua Krieger)\n[Data] [Readme] [Bibtex]\nOrganization Capital and the Cross-Section of Expected Returns\n(with Andrea Eisfeldt)\n[Replication Kit] [Bibtex]\nMeasuring Technological Innovation over the Long Run\n(with Bryan Kelly, Amit Seru, Matt Taddy)\n[Patent-level metrics] [Time-Series data] [Replication Kit] [Replication Kit (GitHub)] [Pairwise Citation Data] [Bibtex]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am the John L. and Helen Kellogg Professor of Finance at the Kellogg School of Management, Northwestern University, and a Research Associate of the National Bureau of Economic Research.\nMy research examines the interaction between technological innovation and financial markets, including intangible capital, economic growth, innovation, macroeconomics, and asset pricing. I am currently a Co-Editor of the Journal of Financial Economics.\nEducation: Ph.D. in Financial Economics, MIT (2007); M.Sc. in Finance and Economics, LSE (2001); B.A. in Economics and Finance, University of Piraeus (2000)."
   },
   {
     "objectID": "index.html#john-l.-and-helen-kellogg-professor-of-finance",
@@ -40,34 +68,6 @@
     "title": "Dimitris Papanikolaou",
     "section": "Recent Publications",
     "text": "Recent Publications\n\nTechnology and Labor Markets: Past, Present, and Future — Brookings Papers on Economic Activity, Fall 2025 (with Huben Liu, Lawrence Schmidt, Bryan Seegmiller)\nTime-Varying Risk Premia and Heterogeneous Labor Market Dynamics — American Economic Review, Forthcoming (with Maarten Meeuwis, Lawrence Schmidt, Jonathan Rothbaum)\n\nAll publications | Working papers"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am the John L. and Helen Kellogg Professor of Finance at the Kellogg School of Management, Northwestern University, and a Research Associate of the National Bureau of Economic Research.\nMy research examines the interaction between technological innovation and financial markets, including intangible capital, economic growth, innovation, macroeconomics, and asset pricing. I am currently a Co-Editor of the Journal of Financial Economics.\nEducation: Ph.D. in Financial Economics, MIT (2007); M.Sc. in Finance and Economics, LSE (2001); B.A. in Economics and Finance, University of Piraeus (2000)."
-  },
-  {
-    "objectID": "media.html",
-    "href": "media.html",
-    "title": "Media",
-    "section": "",
-    "text": "Washington Post — Step aside Edison, Tesla and Bell: New measurement shows when U.S. inventors were most influential (2018). On measuring technological innovation over the long run—patents, breakthrough inventions, and the “third wave” of American innovation.\nWashington Post — Programming jobs are being lost to artificial intelligence (2025). On AI and labor market displacement.\nBrookings — What jobs will be most affected by AI? (podcast on technology and labor markets).\nBrookings — Technology and labor markets: Past, present, and future (summary and context for the BPEA paper).\nNBER Digest — Technological advance and labor demand: Evidence from two centuries (2026). Non-technical summary of the technology-and-labor BPEA working paper.\nBarron’s — What value investing strategies are missing. On intangibles and the value premium.\nAFA Panel: — AI and finance (American Finance Association, video).\nVideo Interview: — Retirement Savings."
-  },
-  {
-    "objectID": "media.html#in-the-news",
-    "href": "media.html#in-the-news",
-    "title": "Media",
-    "section": "",
-    "text": "Washington Post — Step aside Edison, Tesla and Bell: New measurement shows when U.S. inventors were most influential (2018). On measuring technological innovation over the long run—patents, breakthrough inventions, and the “third wave” of American innovation.\nWashington Post — Programming jobs are being lost to artificial intelligence (2025). On AI and labor market displacement.\nBrookings — What jobs will be most affected by AI? (podcast on technology and labor markets).\nBrookings — Technology and labor markets: Past, present, and future (summary and context for the BPEA paper).\nNBER Digest — Technological advance and labor demand: Evidence from two centuries (2026). Non-technical summary of the technology-and-labor BPEA working paper.\nBarron’s — What value investing strategies are missing. On intangibles and the value premium.\nAFA Panel: — AI and finance (American Finance Association, video).\nVideo Interview: — Retirement Savings."
-  },
-  {
-    "objectID": "media.html#kellogg-insight",
-    "href": "media.html#kellogg-insight",
-    "title": "Media",
-    "section": "Kellogg Insight",
-    "text": "Kellogg Insight\nNon-technical summaries of research (innovation, labor markets, asset prices, pharma):\n\nHow much does innovation drive economic growth? — Measuring technological innovation with patents and productivity.\nInvestors’ fear of missing out on disruptive technology leads to overvalued stocks — The value premium puzzle and creative destruction (Left Behind).\nEveryone wants pharmaceutical breakthroughs. What drives drug companies to pursue them? — Missing novelty in drug development.\nTechnological innovation and the executive pay gap — In search of ideas: innovation and executive pay.\nWhen new technology arrives, who wins and who loses? — Technology exposure and labor market outcomes.\nWhich workers suffer most when new technology arrives? — Occupation-level exposure to technology over time.\nThe AI tidal wave doesn’t have to drown workers — AI and the labor market."
   },
   {
     "objectID": "pub.html#other-publications",
