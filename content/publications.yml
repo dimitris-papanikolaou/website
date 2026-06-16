@@ -237,6 +237,8 @@
       url: https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Replication-Kit
     - label: Pairwise Citation Data
       url: https://www.dropbox.com/scl/fi/1m96czhofv825jc4mnqgs/full_citations_combined_v2019-0305.zip?rlkey=bu0h7ro56je2y0vsfytq9dnbf&raw=1
+    - label: Extended Data
+      url: https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Extended-Data
   key_figure:
     path: assets/paper_figs/MeasuringInnovationLR_AERI.png
     caption: "Breakthrough Innovations Across Industries"
