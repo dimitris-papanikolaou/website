@@ -675,7 +675,7 @@
   authors:
     - name: Nicolas Crouzet
       url: https://www.kellogg.northwestern.edu/faculty/crouzet/html/index.html
-    - name: Janice Eberly
+    - name: Janice C. Eberly
       url: https://www.kellogg.northwestern.edu/faculty/directory/eberly_janice_c.aspx
     - name: Andrea Eisfeldt
       url: http://www.anderson.ucla.edu/x33175.xml
@@ -683,7 +683,7 @@
   links:
     - label: Paper
       url: assets/papers/ceep_latest.pdf
-      suffix: " (ver. 9/2024)"
+      suffix: " (ver. 6/2026)"
   abstract: |
     Intangible assets represent information that needs to be embodied, or stored, in order to be used in production. This information can be replicated and stored in multiple instances, even if imperfectly. Replicability implies that a specific intangible asset can be deployed simultaneously in multiple uses by a single firm, allowing it to expand its scope. At the same time, however, replicability implies a risk that a firm's intangibles will be copied or appropriated by competitors. We embed these properties into an otherwise standard endogenous growth model, and show how improvements in the technology for replicating intangibles can lead to larger firms, an increase in concentration, valuation ratios, and the profit share, but lower growth.
 
