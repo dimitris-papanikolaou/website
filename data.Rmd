@@ -10,7 +10,7 @@ title: "Data Library"
    (*with [Leonid Kogan](http://web.mit.edu/lkogan2/www/), 
    [Amit Seru](https://people.stanford.edu/aseru/), 
    and [Noah Stoffman](http://kelley.iu.edu/nstoffma/)*)  
-   [[Data, Extended to 2022](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
+   [[Data, Extended](https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data)]
 
 1. <span class="pub-title">[Intangible Value](https://www.nowpublishers.com/article/Details/CFR-0113)</span>  
    (*with [Andrea Eisfeldt](http://www.anderson.ucla.edu/x33175.xml) and 
