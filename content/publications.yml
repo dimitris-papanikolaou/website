@@ -655,18 +655,18 @@
   abstract: |
     We develop separate measures of workers' exposure to labor-saving and labor-augmenting technologies based on textual analysis of patent documents and the tasks performed by workers in an occupation. Using administrative data on earnings of individual workers in the US, we show that these exposure measures are both negatively related to earnings of incumbent workers. Exposure to labor-saving technologies is associated with significant declines in average earnings and a higher likelihood of job loss for all worker types. By contrast, exposure to labor-augmenting technologies is associated with earnings declines for only certain types of workers: white collar workers, older workers, and workers that are paid more relative to their peers. In contrast to these effects on incumbents, we find a positive overall effect of labor-augmenting technologies on total worker compensation, employment, and the labor share. We interpret the sign and magnitudes of these effects through a model that also allows for skill displacement.
 
-- type: working_paper
+- type: publication
   title: Inflation and Innovation
   authors:
     - name: Qiushi Huang
       url: https://en.saif.sjtu.edu.cn/faculty-research/huang-qiushi
     - name: Leonid Kogan
       url: http://web.mit.edu/lkogan2/www/
-  venue: Review of Financial Studies, Revise and Resubmit
+  venue: Review of Financial Studies, Conditionally Accepted
   links:
     - label: Paper
       url: assets/papers/InflationRiskSharing.pdf
-      suffix: " (ver. 3/2026)"
+      suffix: " (ver. 8/2026)"
   abstract: |
     Innovation leads to higher productivity, yet it can lead to higher inflation if markets are incomplete. Exploiting changes in state-level R&D tax credit policy, we establish a causal link between the level of innovation and the local price of non-tradable consumption goods. We rationalize this finding in a multi-region model of a monetary union where regions can experience displacive shocks that reallocate output among agents. Because benefits of economic growth accrue asymmetrically across all agents, prices of non-tradable goods can rise even as regional output increases. Local stock markets provide evidence that is consistent with model predictions. In both the data and the model, returns to local growth firms help agents insure against increases in the local price level.
 
