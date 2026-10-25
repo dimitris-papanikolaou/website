@@ -608,6 +608,8 @@
     - label: Paper
       url: assets/papers/CreativeDestructionLabor.pdf
       suffix: " (ver. 07/2026)"
+    - label: Slides
+      url: assets/slides/CreativeDestructionLabor_Slides.pdf
   key_figure:
     path: assets/paper_figs/CreativeDestructionLabor.png
     caption: "Pass-through of firm profits to worker earnings resulting from innovation by firm or its competitors."    
